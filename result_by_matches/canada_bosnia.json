@@ -1,0 +1,111 @@
+{
+    "partido": {
+        "equipo_local": "Canadá",
+        "equipo_visitante": "Bosnia y Herzegovina",
+        "goles_local": 1,
+        "goles_visitante": 1,
+        "estadio": "BMO Field, Toronto",
+        "fase": "Fase de Grupos - Grupo B",
+        "fecha": "2026-06-11"
+    },
+    "goleadores": [
+        {
+            "minuto": 78,
+            "jugador": "Cyle Larin",
+            "equipo": "Canadá"
+        },
+        {
+            "minuto": 25,
+            "jugador": "Jovo Lukić",
+            "equipo": "Bosnia y Herzegovina"
+        }
+    ],
+    "estadisticas_generales": {
+        "posesion_porcentaje": {
+            "Canadá": 61,
+            "Bosnia y Herzegovina": 39
+        },
+        "tiros_totales": {
+            "Canadá": 15,
+            "Bosnia y Herzegovina": 11
+        },
+        "tiros_a_puerta": {
+            "Canadá": 7,
+            "Bosnia y Herzegovina": 8
+        },
+        "tiros_fuera": {
+            "Canadá": 5,
+            "Bosnia y Herzegovina": 2
+        },
+        "tiros_bloqueados": {
+            "Canadá": 3,
+            "Bosnia y Herzegovina": 1
+        },
+        "goles_esperados_xG": {
+            "Canadá": 1.25,
+            "Bosnia y Herzegovina": 0.98
+        },
+        "pases_completados": {
+            "Canadá": 482,
+            "Bosnia y Herzegovina": 289
+        },
+        "precision_pases_porcentaje": {
+            "Canadá": 87.3,
+            "Bosnia y Herzegovina": 76.5
+        }
+    },
+    "estadisticas_especificas": {
+        "corners": {
+            "Canadá": 9,
+            "Bosnia y Herzegovina": 4
+        },
+        "faltas_cometidas": {
+            "Canadá": 8,
+            "Bosnia y Herzegovina": 14
+        },
+        "fueras_de_juego": {
+            "Canadá": 2,
+            "Bosnia y Herzegovina": 1
+        },
+        "paradas_del_portero": {
+            "Canadá": 7,
+            "Bosnia y Herzegovina": 6
+        }
+    },
+    "tarjetas": {
+        "amarillas": [
+            {
+                "minuto": 42,
+                "jugador": "Alphonso Davies",
+                "equipo": "Canadá"
+            },
+            {
+                "minuto": 67,
+                "jugador": "Denis Huseinović",
+                "equipo": "Bosnia y Herzegovina"
+            },
+            {
+                "minuto": 89,
+                "jugador": "David Vojinović",
+                "equipo": "Bosnia y Herzegovina"
+            }
+        ],
+        "rojas": [],
+        "resumen": {
+            "Canadá": {
+                "amarillas": 1,
+                "rojas": 0
+            },
+            "Bosnia y Herzegovina": {
+                "amarillas": 2,
+                "rojas": 0
+            }
+        }
+    },
+    "récords_o_notas": [
+        "Canadá dominó la posesión (61%) sin lograr la victoria.",
+        "Bosnia fue más efectivo: 8 de sus 11 tiros fueron a puerta.",
+        "Cyle Larin anotó el gol del empate para Canadá a falta de 12 minutos.",
+        "Jovo Lukić marcó para Bosnia en una jugada a balón parado, su especialidad."
+    ]
+}

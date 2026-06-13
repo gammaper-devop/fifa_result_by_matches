@@ -1,0 +1,126 @@
+{
+  "partido": {
+    "equipo_local": "Suecia",
+    "equipo_visitante": "Tunez",
+    "goles_local": 5,
+    "goles_visitante": 1,
+    "estadio": "Estadio Monterrey",
+    "fase": "Fase de Grupos - Grupo F",
+    "fecha": "2026-06-14"
+  },
+  "goleadores": [
+    {
+      "minuto": 7,
+      "jugador": "Yasin Ayari",
+      "equipo": "Suecia"
+    },
+    {
+      "minuto": 30,
+      "jugador": "Alexander Isak",
+      "equipo": "Suecia"
+    },
+    {
+      "minuto": 43,
+      "jugador": "Omar Rekik",
+      "equipo": "Tunez"
+    },
+    {
+      "minuto": 59,
+      "jugador": "Viktor Gyökeres",
+      "equipo": "Suecia"
+    },
+    {
+      "minuto": 84,
+      "jugador": "Mattias Svanberg",
+      "equipo": "Suecia"
+    },
+    {
+      "minuto": 90,
+      "jugador": "Yasin Ayari",
+      "equipo": "Suecia",
+      "nota": "Minuto 90+6'"
+    }
+  ],
+  "estadisticas_generales": {
+    "posesion_porcentaje": {
+      "Suecia": 47,
+      "Tunez": 42
+    },
+    "tiros_totales": {
+      "Suecia": 13,
+      "Tunez": 6
+    },
+    "tiros_a_puerta": {
+      "Suecia": 7,
+      "Tunez": 2
+    },
+    "tiros_fuera": {
+      "Suecia": 4,
+      "Tunez": 2
+    },
+    "tiros_bloqueados": {
+      "Suecia": 2,
+      "Tunez": 2
+    },
+    "goles_esperados_xG": {
+      "Suecia": 3.45,
+      "Tunez": 0.62
+    },
+    "pases_completados": {
+      "Suecia": 290,
+      "Tunez": 299
+    },
+    "precision_pases_porcentaje": {
+      "Suecia": 81,
+      "Tunez": 81
+    }
+  },
+  "estadisticas_especificas": {
+    "corners": {
+      "Suecia": 4,
+      "Tunez": 2
+    },
+    "faltas_cometidas": {
+      "Suecia": 10,
+      "Tunez": 8
+    },
+    "fueras_de_juego": {
+      "Suecia": 3,
+      "Tunez": 6
+    },
+    "paradas_del_portero": {
+      "Suecia": 0,
+      "Tunez": 0
+    }
+  },
+  "tarjetas": {
+    "amarillas": [
+      {
+        "minuto": 54,
+        "jugador": "Rani Khedira",
+        "equipo": "Tunez"
+      }
+    ],
+    "rojas": [],
+    "resumen": {
+      "Suecia": {
+        "amarillas": 0,
+        "rojas": 0
+      },
+      "Tunez": {
+        "amarillas": 1,
+        "rojas": 0
+      }
+    }
+  },
+  "records_o_notas": [
+    "Suecia comenzó su campaña mundialista con una contundente victoria por 5-1 sobre Tunez",
+    "Yasin Ayari fue el máximo goleador del partido con dos tantos, incluyendo un gol en el minuto 7 y otro en el tiempo añadido (90+6')",
+    "Alexander Isak y Viktor Gyökeres fueron determinantes, cada uno con un gol y una asistencia.",
+    "Omar Rekik anotó el unico gol para Tunez al minuto 43, su primer gol internacional.",
+    "Suecia tuvo una posesión del 47% frente al 42% de Tunez, con un 11% en disputa.",
+    "Suecia realizó 13 tiros totales (7 a puerta) frente a los 6 de Tunez (2 a puerta).",
+    "Tunez recibió la unica tarjeta amarilla del partido, para Rani Khedira en el minuto 54.",
+    "Con este resultado, Suecia se colocó líder del Grupo F con 3 puntos."
+  ]
+}

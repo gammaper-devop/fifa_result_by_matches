@@ -1,0 +1,109 @@
+{
+  "partido": {
+    "equipo_local": "Brasil",
+    "equipo_visitante": "Marruecos",
+    "goles_local": 1,
+    "goles_visitante": 1,
+    "estadio": "Estadio Nueva York/Nueva Jersey",
+    "fase": "Fase de Grupos - Grupo C",
+    "fecha": "2026-06-13"
+  },
+  "goleadores": [
+    {
+      "minuto": 21,
+      "jugador": "Ismael Saibari",
+      "equipo": "Marruecos"
+    },
+    {
+      "minuto": 32,
+      "jugador": "Vinícius Júnior",
+      "equipo": "Brasil"
+    }
+  ],
+  "estadisticas_generales": {
+    "posesion_porcentaje": {
+      "Brasil": 46,
+      "Marruecos": 45
+    },
+    "tiros_totales": {
+      "Brasil": 12,
+      "Marruecos": 14
+    },
+    "tiros_a_puerta": {
+      "Brasil": 5,
+      "Marruecos": 3
+    },
+    "tiros_fuera": {
+      "Brasil": 2,
+      "Marruecos": 4
+    },
+    "tiros_bloqueados": {
+      "Brasil": 5,
+      "Marruecos": 7
+    },
+    "goles_esperados_xG": {
+      "Brasil": 1.26,
+      "Marruecos": 1.37
+    },
+    "pases_completados": {
+      "Brasil": 457,
+      "Marruecos": 431
+    },
+    "precision_pases_porcentaje": {
+      "Brasil": 89,
+      "Marruecos": 86
+    }
+  },
+  "estadisticas_especificas": {
+    "corners": {
+      "Brasil": 6,
+      "Marruecos": 2
+    },
+    "faltas_cometidas": {
+      "Brasil": 16,
+      "Marruecos": 14
+    },
+    "fueras_de_juego": {
+      "Brasil": 0,
+      "Marruecos": 1
+    },
+    "paradas_del_portero": {
+      "Brasil": 0,
+      "Marruecos": 0
+    }
+  },
+  "tarjetas": {
+    "amarillas": [
+      {
+        "minuto": 80,
+        "jugador": "Roger Ibanez",
+        "equipo": "Brasil"
+      },
+      {
+        "minuto": 64,
+        "jugador": "Casemiro",
+        "equipo": "Brasil"
+      }
+    ],
+    "rojas": [],
+    "resumen": {
+      "Brasil": {
+        "amarillas": 2,
+        "rojas": 0
+      },
+      "Marruecos": {
+        "amarillas": 0,
+        "rojas": 0
+      }
+    }
+  },
+  "récords_o_notas": [
+    "Marruecos se adelantó en el marcador con un gol de Ismael Saibari al minuto 21",
+    "Brasil empató gracias a un tanto de Vinícius Júnior al minuto 32",
+    "Ambos equipos tuvieron una posesión de balón muy equilibrada (46% Brasil, 45% Marruecos)",
+    "Marruecos realizó más tiros totales (14) que Brasil (12)",
+    "Brasil tuvo más precisión en pases (89%) que Marruecos (86%)",
+    "El partido tuvo 9% de posesión en disputa",
+    "Brasil recibió 2 tarjetas amarillas, mientras que Marruecos no recibió ninguna amonestación"
+  ]
+}

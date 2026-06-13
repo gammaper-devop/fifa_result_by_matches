@@ -1,0 +1,120 @@
+{
+  "partido": {
+    "equipo_local": "Belgica",
+    "equipo_visitante": "Egipto",
+    "goles_local": 1,
+    "goles_visitante": 1,
+    "estadio": "Estadio de Seattle",
+    "fase": "Fase de Grupos - Grupo G",
+    "fecha": "2026-06-15"
+  },
+  "goleadores": [
+    {
+      "minuto": 19,
+      "jugador": "Emam Ashour",
+      "equipo": "Egipto"
+    },
+    {
+      "minuto": 66,
+      "jugador": "Mohamed Hany",
+      "equipo": "Egipto",
+      "nota": "Autogol"
+    }
+  ],
+  "estadisticas_generales": {
+    "posesion_porcentaje": {
+      "Belgica": 52,
+      "Egipto": 38
+    },
+    "tiros_totales": {
+      "Belgica": 15,
+      "Egipto": 14
+    },
+    "tiros_a_puerta": {
+      "Belgica": 3,
+      "Egipto": 3
+    },
+    "tiros_fuera": {
+      "Belgica": 8,
+      "Egipto": 6
+    },
+    "tiros_bloqueados": {
+      "Belgica": 4,
+      "Egipto": 5
+    },
+    "goles_esperados_xG": {
+      "Belgica": 1.33,
+      "Egipto": 0.91
+    },
+    "pases_completados": {
+      "Belgica": 404,
+      "Egipto": 330
+    },
+    "precision_pases_porcentaje": {
+      "Belgica": 85,
+      "Egipto": 80
+    }
+  },
+  "estadisticas_especificas": {
+    "corners": {
+      "Belgica": 2,
+      "Egipto": 7
+    },
+    "faltas_cometidas": {
+      "Belgica": 15,
+      "Egipto": 15
+    },
+    "fueras_de_juego": {
+      "Belgica": 0,
+      "Egipto": 1
+    },
+    "paradas_del_portero": {
+      "Belgica": 3,
+      "Egipto": 3
+    }
+  },
+  "tarjetas": {
+    "amarillas": [
+      {
+        "minuto": 56,
+        "jugador": "Timothy CASTAGNE",
+        "equipo": "Belgica"
+      },
+      {
+        "minuto": 55,
+        "jugador": "Maxim De Cuyper",
+        "equipo": "Belgica"
+      },
+      {
+        "minuto": 88,
+        "jugador": "Ahmed Fatouh",
+        "equipo": "Egipto"
+      },
+      {
+        "minuto": 89,
+        "jugador": "Marawan Attia",
+        "equipo": "Egipto"
+      }
+    ],
+    "rojas": [],
+    "resumen": {
+      "Belgica": {
+        "amarillas": 2,
+        "rojas": 0
+      },
+      "Egipto": {
+        "amarillas": 2,
+        "rojas": 0
+      }
+    }
+  },
+  "records_o_notas": [
+    "Egipto se adelantó en el marcador con un gol de Emam Ashour al minuto 19",
+    "Belgica empató el partido gracias a un autogol de Mohamed Hany al minuto 66",
+    "Belgica tuvo mayor posesión (52%) que Egipto (38%), con un 10% en disputa",
+    "Ambos equipos realizaron un número similar de tiros totales (15 para Belgica, 14 para Egipto)",
+    "Belgica cometió 15 faltas, igual que Egipto",
+    "Egipto dominó en tiros de esquina con 7, frente a solo 2 de Belgica",
+    "Ambos equipos recibieron 2 tarjetas amarillas cada uno"
+  ]
+}

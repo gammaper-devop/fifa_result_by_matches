@@ -1,0 +1,115 @@
+{
+  "partido": {
+    "equipo_local": "Haití",
+    "equipo_visitante": "Escocia",
+    "goles_local": 0,
+    "goles_visitante": 1,
+    "estadio": "Estadio Boston",
+    "fase": "Fase de Grupos - Grupo C",
+    "fecha": "2026-06-13"
+  },
+  "goleadores": [
+    {
+      "minuto": 28,
+      "jugador": "John McGinn",
+      "equipo": "Escocia"
+    }
+  ],
+  "estadisticas_generales": {
+    "posesion_porcentaje": {
+      "Haití": 51,
+      "Escocia": 40
+    },
+    "tiros_totales": {
+      "Haití": 15,
+      "Escocia": 9
+    },
+    "tiros_a_puerta": {
+      "Haití": 2,
+      "Escocia": 2
+    },
+    "tiros_fuera": {
+      "Haití": 9,
+      "Escocia": 6
+    },
+    "tiros_bloqueados": {
+      "Haití": 4,
+      "Escocia": 1
+    },
+    "goles_esperados_xG": {
+      "Haití": 0.72,
+      "Escocia": 0.98
+    },
+    "pases_completados": {
+      "Haití": 378,
+      "Escocia": 324
+    },
+    "precision_pases_porcentaje": {
+      "Haití": 88,
+      "Escocia": 82
+    }
+  },
+  "estadisticas_especificas": {
+    "corners": {
+      "Haití": 4,
+      "Escocia": 3
+    },
+    "faltas_cometidas": {
+      "Haití": 23,
+      "Escocia": 21
+    },
+    "fueras_de_juego": {
+      "Haití": 3,
+      "Escocia": 1
+    },
+    "paradas_del_portero": {
+      "Haití": 1,
+      "Escocia": 1
+    }
+  },
+  "tarjetas": {
+    "amarillas": [
+      {
+        "minuto": 82,
+        "jugador": "Jean-Ricner Bellegarde",
+        "equipo": "Haití"
+      },
+      {
+        "minuto": 75,
+        "jugador": "Aaron Hickey",
+        "equipo": "Escocia"
+      },
+      {
+        "minuto": 82,
+        "jugador": "Kenny McLean",
+        "equipo": "Escocia"
+      },
+      {
+        "minuto": 82,
+        "jugador": "Findlay Curtis",
+        "equipo": "Escocia"
+      }
+    ],
+    "rojas": [],
+    "resumen": {
+      "Haití": {
+        "amarillas": 1,
+        "rojas": 0
+      },
+      "Escocia": {
+        "amarillas": 3,
+        "rojas": 0
+      }
+    }
+  },
+  "récords_o_notas": [
+    "Escocia consiguió su primera victoria en un Mundial en 36 años, y su primera victoria en un partido inaugural desde 1982.",
+    "John McGinn anotó el gol de la victoria para Escocia al minuto 27.",
+    "Haití estuvo cerca del empate con un cabezazo de Frantzdy Pierrot que se fue muy cerca del arco.",
+    "Al medio tiempo, Escocia dominaba la posesión con un 58% frente al 42% de Haití.",
+    "Haití tuvo una precisión de pases del 89% en el primer tiempo, superior a la de Escocia.",
+    "Haití realizó más pases completados (378) que Escocia (324)",
+    "El partido tuvo un 9% de posesión en disputa",
+    "Escocia recibió 3 tarjetas amarillas, mientras que Haití recibió 1"
+  ]
+}

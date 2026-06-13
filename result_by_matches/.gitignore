@@ -1,0 +1,9 @@
+# ============================================
+# CARPETAS Y ARCHIVOS A IGNORAR
+# ============================================
+
+# Carpeta .kilo (todo su contenido)
+.kilo/
+.kilo/*
+!/.kilo/empty_template.json  # Si quieres EXCEPCIÓN para este archivo../.kilo/
+empty_template.json

@@ -1,0 +1,125 @@
+{
+  "partido": {
+    "equipo_local": "Paises Bajos",
+    "equipo_visitante": "Japon",
+    "goles_local": 2,
+    "goles_visitante": 2,
+    "estadio": "Estadio Dallas",
+    "fase": "Fase de Grupos - Grupo F",
+    "fecha": "2026-06-14"
+  },
+  "goleadores": [
+    {
+      "minuto": 50,
+      "jugador": "Virgil van Dijk",
+      "equipo": "Paises Bajos"
+    },
+    {
+      "minuto": 57,
+      "jugador": "Keito Nakamura",
+      "equipo": "Japon"
+    },
+    {
+      "minuto": 64,
+      "jugador": "Crysencio Summerville",
+      "equipo": "Paises Bajos"
+    },
+    {
+      "minuto": 88,
+      "jugador": "Daichi Kamada",
+      "equipo": "Japon"
+    }
+  ],
+  "estadisticas_generales": {
+    "posesion_porcentaje": {
+      "Paises Bajos": 54,
+      "Japon": 37
+    },
+    "tiros_totales": {
+      "Paises Bajos": 10,
+      "Japon": 9
+    },
+    "tiros_a_puerta": {
+      "Paises Bajos": 6,
+      "Japon": 2
+    },
+    "tiros_fuera": {
+      "Paises Bajos": 4,
+      "Japon": 5
+    },
+    "tiros_bloqueados": {
+      "Paises Bajos": 0,
+      "Japon": 2
+    },
+    "goles_esperados_xG": {
+      "Paises Bajos": 0.78,
+      "Japon": 0.59
+    },
+    "pases_completados": {
+      "Paises Bajos": 473,
+      "Japon": 302
+    },
+    "precision_pases_porcentaje": {
+      "Paises Bajos": 89,
+      "Japon": 85
+    }
+  },
+  "estadisticas_especificas": {
+    "corners": {
+      "Paises Bajos": 5,
+      "Japon": 4
+    },
+    "faltas_cometidas": {
+      "Paises Bajos": 7,
+      "Japon": 7
+    },
+    "fueras_de_juego": {
+      "Paises Bajos": 1,
+      "Japon": 0
+    },
+    "paradas_del_portero": {
+      "Paises Bajos": 1,
+      "Japon": 5
+    }
+  },
+  "tarjetas": {
+    "amarillas": [
+      {
+        "minuto": 72,
+        "jugador": "Micky VAN DE VEN",
+        "equipo": "Paises Bajos"
+      },
+      {
+        "minuto": 70,
+        "jugador": "Crysencio SUMMERVILLE",
+        "equipo": "Paises Bajos"
+      },
+      {
+        "minuto": 75,
+        "jugador": "Memphis DEPAY",
+        "equipo": "Paises Bajos"
+      }
+    ],
+    "rojas": [],
+    "resumen": {
+      "Paises Bajos": {
+        "amarillas": 3,
+        "rojas": 0
+      },
+      "Japon": {
+        "amarillas": 0,
+        "rojas": 0
+      }
+    }
+  },
+  "records_o_notas": [
+    "Paises Bajos y Japon empataron 2-2 en un emocionante partido del Grupo F",
+    "Virgil van Dijk abrio el marcador para Paises Bajos al minuto 50",
+    "Keito Nakamura empato para Japon al minuto 57",
+    "Crysencio Summerville puso nuevamente en ventaja a Paises Bajos al minuto 64",
+    "Daichi Kamada logro el empate definitivo para Japon al minuto 88",
+    "Paises Bajos tuvo mayor posesion (54%) que Japon (37%), con un 9% en disputa",
+    "Paises Bajos realizo más tiros a puerta (6) que Japon (2)",
+    "Paises Bajos recibio 3 tarjetas amarillas, mientras que Japón no recibió ninguna amonestación"
+  ]
+}

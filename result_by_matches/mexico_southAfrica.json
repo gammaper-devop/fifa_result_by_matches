@@ -1,0 +1,120 @@
+  {
+    "partido": {
+      "equipo_local": "México",
+      "equipo_visitante": "Sudáfrica",
+      "goles_local": 2,
+      "goles_visitante": 0,
+      "estadio": "Estadio Azteca",
+      "fase": "Fase de Grupos - Grupo A",
+      "fecha": "2026-06-11"
+    },
+    "goleadores": [
+      {
+        "minuto": 9,
+        "jugador": "Julián Quiñones",
+        "equipo": "México"
+      },
+      {
+        "minuto": 67,
+        "jugador": "Raúl Jiménez",
+        "equipo": "México"
+      }
+    ],
+    "estadisticas_generales": {
+      "posesion_porcentaje": {
+        "México": 62,
+        "Sudáfrica": 38
+      },
+      "tiros_totales": {
+        "México": 16,
+        "Sudáfrica": 3
+      },
+      "tiros_a_puerta": {
+        "México": 4,
+        "Sudáfrica": 2
+      },
+      "tiros_fuera": {
+        "México": 9,
+        "Sudáfrica": 1
+      },
+      "tiros_bloqueados": {
+        "México": 3,
+        "Sudáfrica": 0
+      },
+      "goles_esperados_xG": {
+        "México": 1.41,
+        "Sudáfrica": 0.07
+      },
+      "pases_completados": {
+        "México": 521,
+        "Sudáfrica": 309
+      },
+      "precision_pases_porcentaje": {
+        "México": 89,
+        "Sudáfrica": 78
+      }
+    },
+    "estadisticas_especificas": {
+      "corners": {
+        "México": 8,
+        "Sudáfrica": 1
+      },
+      "faltas_cometidas": {
+        "México": 12,
+        "Sudáfrica": 11
+      },
+      "fueras_de_juego": {
+        "México": 2,
+        "Sudáfrica": 1
+      },
+      "paradas_del_portero": {
+        "México": 2,
+        "Sudáfrica": 2
+      }
+    },
+    "tarjetas": {
+      "amarillas": [
+        {
+          "minuto": 74,
+          "jugador": "Sibisi",
+          "equipo": "Sudáfrica"
+        }
+      ],
+      "rojas": [
+        {
+          "minuto": 49,
+          "jugador": "Sithole",
+          "equipo": "Sudáfrica",
+          "tipo": "roja_directa"
+        },
+        {
+          "minuto": 84,
+          "jugador": "Zwane",
+          "equipo": "Sudáfrica",
+          "tipo": "roja_directa"
+        },
+        {
+          "minuto": 90,
+          "jugador": "César Montes",
+          "equipo": "México",
+          "tipo": "roja_directa",
+          "nota": "Tiempo añadido (90+2')"
+        }
+      ],
+      "resumen": {
+        "México": {
+          "amarillas": 0,
+          "rojas": 1
+        },
+        "Sudáfrica": {
+          "amarillas": 1,
+          "rojas": 2
+        }
+      }
+    },
+    "récords_o_notas": [
+      "Primer partido inaugural con 3 tarjetas rojas",
+      "Gilberto Mora (México) - jugador más joven en representar a un país anfitrión (17 años)",
+      "Raúl Jiménez - gol más tardío para un debutante titular en un Mundial desde 2006"
+    ]
+  }

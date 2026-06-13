@@ -1,0 +1,104 @@
+{
+  "partido": {
+    "equipo_local": "Australia",
+    "equipo_visitante": "Turquía",
+    "goles_local": 2,
+    "goles_visitante": 0,
+    "estadio": "Estadio BC Place Vancouver",
+    "fase": "Fase de Grupos - Grupo D",
+    "fecha": "2026-06-13"
+  },
+  "goleadores": [
+    {
+      "minuto": 27,
+      "jugador": "Nestory Irankunda",
+      "equipo": "Australia"
+    },
+    {
+      "minuto": 75,
+      "jugador": "Connor Metcalfe",
+      "equipo": "Australia"
+    }
+  ],
+  "estadisticas_generales": {
+    "posesion_porcentaje": {
+      "Australia": 27,
+      "Turquía": 62
+    },
+    "tiros_totales": {
+      "Australia": 9,
+      "Turquía": 30
+    },
+    "tiros_a_puerta": {
+      "Australia": 4,
+      "Turquía": 7
+    },
+    "tiros_fuera": {
+      "Australia": 4,
+      "Turquía": 14
+    },
+    "tiros_bloqueados": {
+      "Australia": 1,
+      "Turquía": 9
+    },
+    "goles_esperados_xG": {
+      "Australia": 1.18,
+      "Turquía": 1.36
+    },
+    "pases_completados": {
+      "Australia": 224,
+      "Turquía": 663
+    },
+    "precision_pases_porcentaje": {
+      "Australia": 76,
+      "Turquía": 92
+    }
+  },
+  "estadisticas_especificas": {
+    "corners": {
+      "Australia": 5,
+      "Turquía": 8
+    },
+    "faltas_cometidas": {
+      "Australia": 12,
+      "Turquía": 4
+    },
+    "fueras_de_juego": {
+      "Australia": 1,
+      "Turquía": 3
+    },
+    "paradas_del_portero": {
+      "Australia": 5,
+      "Turquía": 0
+    }
+  },
+  "tarjetas": {
+    "amarillas": [
+      {
+        "minuto": 62,
+        "jugador": "Yunus Akgun",
+        "equipo": "Turquía"
+      }
+    ],
+    "rojas": [],
+    "resumen": {
+      "Australia": {
+        "amarillas": 0,
+        "rojas": 0
+      },
+      "Turquía": {
+        "amarillas": 1,
+        "rojas": 0
+      }
+    }
+  },
+  "récords_o_notas": [
+    "Australia logró una victoria contundente a pesar de tener solo el 27% de posesión frente al 62% de Turquía",
+    "Nestory Irankunda abrió el marcador para Australia al minuto 27",
+    "Connor Metcalfe selló la victoria australiana con un gol al minuto 75",
+    "Turquía dominó ampliamente en tiros totales (30) frente a Australia (9)",
+    "Turquía realizó más pases completados (663) que Australia (224), con una precisión del 92%",
+    "El partido tuvo un 11% de posesión en disputa",
+    "Australia fue más efectiva en ataque, convirtiendo 2 de sus 4 tiros a puerta en gol"
+  ]
+}

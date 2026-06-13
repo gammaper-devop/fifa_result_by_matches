@@ -1,0 +1,129 @@
+{
+  "partido": {
+    "equipo_local": "Alemania",
+    "equipo_visitante": "Curazao",
+    "goles_local": 7,
+    "goles_visitante": 1,
+    "estadio": "Estadio Houston",
+    "fase": "Fase de Grupos - Grupo E",
+    "fecha": "2026-06-14"
+  },
+  "goleadores": [
+    {
+      "minuto": 6,
+      "jugador": "Felix Nmecha",
+      "equipo": "Alemania"
+    },
+    {
+      "minuto": 21,
+      "jugador": "Livano Comenencia",
+      "equipo": "Curazao"
+    },
+    {
+      "minuto": 38,
+      "jugador": "Nico Schlotterbeck",
+      "equipo": "Alemania"
+    },
+    {
+      "minuto": 45,
+      "jugador": "Kai Havertz",
+      "equipo": "Alemania",
+      "nota": "Minuto 45+5', penalti"
+    },
+    {
+      "minuto": 47,
+      "jugador": "Jamal Musiala",
+      "equipo": "Alemania"
+    },
+    {
+      "minuto": 68,
+      "jugador": "Nathaniel Brown",
+      "equipo": "Alemania"
+    },
+    {
+      "minuto": 78,
+      "jugador": "Deniz Undav",
+      "equipo": "Alemania"
+    },
+    {
+      "minuto": 88,
+      "jugador": "Kai Havertz",
+      "equipo": "Alemania"
+    }
+  ],
+  "estadisticas_generales": {
+    "posesion_porcentaje": {
+      "Alemania": 57,
+      "Curazao": 35
+    },
+    "tiros_totales": {
+      "Alemania": 26,
+      "Curazao": 8
+    },
+    "tiros_a_puerta": {
+      "Alemania": 12,
+      "Curazao": 2
+    },
+    "tiros_fuera": {
+      "Alemania": 7,
+      "Curazao": 5
+    },
+    "tiros_bloqueados": {
+      "Alemania": 7,
+      "Curazao": 1
+    },
+    "goles_esperados_xG": {
+      "Alemania": 3.91,
+      "Curazao": 0.41
+    },
+    "pases_completados": {
+      "Alemania": 569,
+      "Curazao": 291
+    },
+    "precision_pases_porcentaje": {
+      "Alemania": 89,
+      "Curazao": 80
+    }
+  },
+  "estadisticas_especificas": {
+    "corners": {
+      "Alemania": 8,
+      "Curazao": 1
+    },
+    "faltas_cometidas": {
+      "Alemania": 18,
+      "Curazao": 11
+    },
+    "fueras_de_juego": {
+      "Alemania": 0,
+      "Curazao": 1
+    },
+    "paradas_del_portero": {
+      "Alemania": 1,
+      "Curazao": 4
+    }
+  },
+  "tarjetas": {
+    "amarillas": [],
+    "rojas": [],
+    "resumen": {
+      "Alemania": {
+        "amarillas": 0,
+        "rojas": 0
+      },
+      "Curazao": {
+        "amarillas": 0,
+        "rojas": 0
+      }
+    }
+  },
+  "récords_o_notas": [
+    "Alemania logró una contundente victoria por 7-1 sobre Curazao",
+    "Kai Havertz fue el máximo goleador del partido con dos tantos, incluyendo un penalti",
+    "Alemania dominó ampliamente con un 57% de posesión y 26 tiros totales",
+    "Los alemanes realizaron 12 tiros a puerta, de los cuales 7 fueron goles",
+    "El partido tuvo un 9% de posesión en disputa",
+    "Alemania no recibió tarjetas amarillas ni rojas, al igual que Curazao",
+    "Los 7 goles de Alemania fueron anotados dentro del área penal"
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "partido": {
+    "equipo_local": "España",
+    "equipo_visitante": "Cabo Verde",
+    "goles_local": 0,
+    "goles_visitante": 0,
+    "estadio": "Estadio Atlanta",
+    "fase": "Fase de Grupos - Grupo H",
+    "fecha": "2026-06-15"
+  },
+  "goleadores": [],
+  "estadisticas_generales": {
+    "posesion_porcentaje": {
+      "España": 65,
+      "Cabo Verde": 25
+    },
+    "tiros_totales": {
+      "España": 27,
+      "Cabo Verde": 6
+    },
+    "tiros_a_puerta": {
+      "España": 7,
+      "Cabo Verde": 1
+    },
+    "tiros_fuera": {
+      "España": 11,
+      "Cabo Verde": 4
+    },
+    "tiros_bloqueados": {
+      "España": 9,
+      "Cabo Verde": 1
+    },
+    "goles_esperados_xG": {
+      "España": 2.03,
+      "Cabo Verde": 0.21
+    },
+    "pases_completados": {
+      "España": 755,
+      "Cabo Verde": 227
+    },
+    "precision_pases_porcentaje": {
+      "España": 93,
+      "Cabo Verde": 74
+    }
+  },
+  "estadisticas_especificas": {
+    "corners": {
+      "España": 11,
+      "Cabo Verde": 1
+    },
+    "faltas_cometidas": {
+      "España": 10,
+      "Cabo Verde": 1
+    },
+    "fueras_de_juego": {
+      "España": 2,
+      "Cabo Verde": 3
+    },
+    "paradas_del_portero": {
+      "España": 0,
+      "Cabo Verde": 7
+    }
+  },
+  "tarjetas": {
+    "amarillas": [
+      {
+        "minuto": 81,
+        "jugador": "Petri",
+        "equipo": "España"
+      },
+      {
+        "minuto": 76,
+        "jugador": "Sidny Lopes Cabral",
+        "equipo": "Cabo Verde"
+      }
+    ],
+    "rojas": [],
+    "resumen": {
+      "España": {
+        "amarillas": 1,
+        "rojas": 0
+      },
+      "Cabo Verde": {
+        "amarillas": 1,
+        "rojas": 0
+      }
+    }
+  },
+  "records_o_notas": [
+    "España y Cabo Verde empataron 0-0 en un partido correspondiente al Grupo H del Mundial FIFA 2026",
+    "España dominó ampliamente con un 65% de posesión frente al 25% de Cabo Verde",
+    "España realizó 27 tiros totales, de los cuales 7 fueron a puerta, mientras que Cabo Verde solo tuvo 6 tiros (1 a puerta)",
+    "España completó 755 pases con una precisión del 93%, frente a los 227 pases (74% de precisión) de Cabo Verde",
+    "España tuvo 11 tiros de esquina, mientras que Cabo Verde solo tuvo 1",
+    "Ambos equipos recibieron una tarjeta amarilla cada uno",
+    "El partido se disputó en el Estadio Atlanta y terminó sin goles"
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "partido": {
+    "equipo_local": "Iran",
+    "equipo_visitante": "Nueva Zelanda",
+    "goles_local": 2,
+    "goles_visitante": 2,
+    "estadio": "Estadio Los Angeles",
+    "fase": "Fase de Grupos - Grupo G",
+    "fecha": "2026-06-15"
+  },
+  "goleadores": [
+    {
+      "minuto": 7,
+      "jugador": "Elijah Just",
+      "equipo": "Nueva Zelanda"
+    },
+    {
+      "minuto": 32,
+      "jugador": "Ramin Rezaeian",
+      "equipo": "Iran"
+    },
+    {
+      "minuto": 54,
+      "jugador": "Elijah Just",
+      "equipo": "Nueva Zelanda"
+    },
+    {
+      "minuto": 64,
+      "jugador": "Mohammad Mohebbi",
+      "equipo": "Iran"
+    }
+  ],
+  "estadisticas_generales": {
+    "posesion_porcentaje": {
+      "Iran": 43,
+      "Nueva Zelanda": 45
+    },
+    "tiros_totales": {
+      "Iran": 17,
+      "Nueva Zelanda": 14
+    },
+    "tiros_a_puerta": {
+      "Iran": 4,
+      "Nueva Zelanda": 8
+    },
+    "tiros_fuera": {
+      "Iran": 7,
+      "Nueva Zelanda": 3
+    },
+    "tiros_bloqueados": {
+      "Iran": 6,
+      "Nueva Zelanda": 3
+    },
+    "goles_esperados_xG": {
+      "Iran": 1.65,
+      "Nueva Zelanda": 1.52
+    },
+    "pases_completados": {
+      "Iran": 333,
+      "Nueva Zelanda": 378
+    },
+    "precision_pases_porcentaje": {
+      "Iran": 80,
+      "Nueva Zelanda": 84
+    }
+  },
+  "estadisticas_especificas": {
+    "corners": {
+      "Iran": 4,
+      "Nueva Zelanda": 1
+    },
+    "faltas_cometidas": {
+      "Iran": 10,
+      "Nueva Zelanda": 8
+    },
+    "fueras_de_juego": {
+      "Iran": 2,
+      "Nueva Zelanda": 0
+    },
+    "paradas_del_portero": {
+      "Iran": 6,
+      "Nueva Zelanda": 2
+    }
+  },
+  "tarjetas": {
+    "amarillas": [
+      {
+        "minuto": 65,
+        "jugador": "Ehsan Hajisafi",
+        "equipo": "Iran"
+      }
+    ],
+    "rojas": [],
+    "resumen": {
+      "Iran": {
+        "amarillas": 1,
+        "rojas": 0
+      },
+      "Nueva Zelanda": {
+        "amarillas": 0,
+        "rojas": 0
+      }
+    }
+  },
+  "records_o_notas": [
+    "Nueva Zelanda se adelantó dos veces en el marcador con un doblete de Elijah Just (minutos 7 y 54)",
+    "Iran logró empatar en ambas ocasiones gracias a los goles de Ramin Rezaeian (minuto 32) y Mohammad Mohebbi (minuto 64)",
+    "Nueva Zelanda tuvo una ligera ventaja en posesión (45%) sobre Iran (43%), con un 12% en disputa",
+    "Iran realizó mas tiros totales (17) que Nueva Zelanda (14), pero Nueva Zelanda tuvo mas tiros a puerta (8 contra 4)",
+    "Nueva Zelanda completó mas pases (378) que Iran (333) y con mayor precisión (84% contra 80%)",
+    "Iran recibió una tarjeta amarilla, mientras que Nueva Zelanda no recibió ninguna amonestación",
+    "El partido se disputó en el Estadio Los Angeles y corresponde al Grupo G del Mundial FIFA 2026"
+  ]
+}

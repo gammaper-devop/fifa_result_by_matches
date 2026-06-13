@@ -1,0 +1,107 @@
+{
+    "partido": {
+      "equipo_local": "Corea del Sur",
+      "equipo_visitante": "República Checa",
+      "goles_local": 2,
+      "goles_visitante": 1,
+      "estadio": "Estadio Akron",
+      "fase": "Fase de Grupos - Grupo A",
+      "fecha": "2026-06-11"
+    },
+    "goleadores": [
+      {
+        "minuto": 59,
+        "jugador": "Ladislav Krejčí",
+        "equipo": "República Checa"
+      },
+      {
+        "minuto": 67,
+        "jugador": "Hwang In-beom",
+        "equipo": "Corea del Sur"
+      },
+      {
+        "minuto": 80,
+        "jugador": "Oh Hyeon-gyu",
+        "equipo": "Corea del Sur"
+      }
+    ],
+    "estadisticas_generales": {
+      "posesion_porcentaje": {
+        "Corea del Sur": 55,
+        "República Checa": 34
+      },
+      "tiros_totales": {
+        "Corea del Sur": 15,
+        "República Checa": 7
+      },
+      "tiros_a_puerta": {
+        "Corea del Sur": 6,
+        "República Checa": 4
+      },
+      "tiros_fuera": {
+        "Corea del Sur": 7,
+        "República Checa": 2
+      },
+      "tiros_bloqueados": {
+        "Corea del Sur": 3,
+        "República Checa": 1
+      },
+      "goles_esperados_xG": {
+        "Corea del Sur": 1.84,
+        "República Checa": 0.81
+      },
+      "pases_completados": {
+        "Corea del Sur": 483,
+        "República Checa": 241
+      },
+      "precision_pases_porcentaje": {
+        "Corea del Sur": 89,
+        "República Checa": 74
+      }
+    },
+    "estadisticas_especificas": {
+      "corners": {
+        "Corea del Sur": 4,
+        "República Checa": 5
+      },
+      "faltas_cometidas": {
+        "Corea del Sur": 9,
+        "República Checa": 14
+      },
+      "fueras_de_juego": {
+        "Corea del Sur": 2,
+        "República Checa": 2
+      },
+      "paradas_del_portero": {
+        "Corea del Sur": 3,
+        "República Checa": 4
+      }
+    },
+    "tarjetas": {
+      "amarillas": [
+        {
+          "minuto": 90,
+          "jugador": "Lee Gi-hyuk",
+          "equipo": "Corea del Sur",
+          "nota": "Minuto 90+6' del tiempo añadido"
+        }
+      ],
+      "rojas": [],
+      "resumen": {
+        "Corea del Sur": {
+          "amarillas": 1,
+          "rojas": 0
+        },
+        "República Checa": {
+          "amarillas": 0,
+          "rojas": 0
+        }
+      }
+    },
+    "récords_o_notas": [
+      "Corea del Sur suma su tercera victoria consecutiva ante un rival europeo en Copas del Mundo (Portugal 2022, Alemania 2018)",
+      "Hwang In-beom fue nombrado 'Jugador del Partido' por su gol y asistencia",
+      "Patrik Schick (República Checa) no realizó ningún tiro a puerta en todo el encuentro",
+      "Primera remontada de Corea del Sur en un Mundial desde 2010"
+    ]
+  }

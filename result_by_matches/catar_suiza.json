@@ -1,0 +1,114 @@
+{
+  "partido": {
+    "equipo_local": "Catar",
+    "equipo_visitante": "Suiza",
+    "goles_local": 1,
+    "goles_visitante": 1,
+    "estadio": "San Francisco Bay Area Stadium",
+    "fase": "Fase de Grupos - Grupo B",
+    "fecha": "2026-06-13"
+  },
+  "goleadores": [
+    {
+      "minuto": 17,
+      "jugador": "Breel Embolo",
+      "equipo": "Suiza",
+      "nota": "Penalti"
+    },
+    {
+      "minuto": 90,
+      "jugador": "Boualem Khoukhi",
+      "equipo": "Catar",
+      "nota": "Minuto 90+4'"
+    }
+  ],
+  "estadisticas_generales": {
+    "posesion_porcentaje": {
+      "Catar": 28,
+      "Suiza": 58
+    },
+    "tiros_totales": {
+      "Catar": 6,
+      "Suiza": 26
+    },
+    "tiros_a_puerta": {
+      "Catar": 3,
+      "Suiza": 7
+    },
+    "tiros_fuera": {
+      "Catar": 2,
+      "Suiza": 10
+    },
+    "tiros_bloqueados": {
+      "Catar": 1,
+      "Suiza": 9
+    },
+    "goles_esperados_xG": {
+      "Catar": 0.60,
+      "Suiza": 1.90
+    },
+    "pases_completados": {
+      "Catar": 213,
+      "Suiza": 542
+    },
+    "precision_pases_porcentaje": {
+      "Catar": 73,
+      "Suiza": 93
+    }
+  },
+  "estadisticas_especificas": {
+    "corners": {
+      "Catar": 3,
+      "Suiza": 10
+    },
+    "faltas_cometidas": {
+      "Catar": 11,
+      "Suiza": 12
+    },
+    "fueras_de_juego": {
+      "Catar": 0,
+      "Suiza": 1
+    },
+    "paradas_del_portero": {
+      "Catar": 6,
+      "Suiza": 2
+    }
+  },
+  "tarjetas": {
+    "amarillas": [
+      {
+        "minuto": 13,
+        "jugador": "Mahmoud Abunada",
+        "equipo": "Catar"
+      },
+      {
+        "minuto": 60,
+        "jugador": "Jassem Gaber",
+        "equipo": "Catar"
+      },
+      {
+        "minuto": 78,
+        "jugador": "Denis Zakaria",
+        "equipo": "Suiza"
+      }
+    ],
+    "rojas": [],
+    "resumen": {
+      "Catar": {
+        "amarillas": 2,
+        "rojas": 0
+      },
+      "Suiza": {
+        "amarillas": 1,
+        "rojas": 0
+      }
+    }
+  },
+  "records_o_notas": [
+    "Catar consiguió su primer punto en la historia de los Mundiales",
+    "Suiza realizó 26 tiros, su mayor cantidad en un partido de Mundial desde 1966.",
+    "Suiza tuvo un xG de 3.15, la cifra más alta de un equipo que no ha ganado un partido en la Copa del Mundo desde que se tiene registro.",
+    "El gol de Khoukhi en el minuto 90+4' salvó un empate histórico para Catar.",
+    "Miro Muheim (Suiza) fue acreditado con un autogol en la jugada del empate de Catar según algunas fuentes."
+  ]
+}

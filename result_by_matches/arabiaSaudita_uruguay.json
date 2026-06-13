@@ -1,0 +1,103 @@
+{
+  "partido": {
+    "equipo_local": "Arabia Saudita",
+    "equipo_visitante": "Uruguay",
+    "goles_local": 1,
+    "goles_visitante": 1,
+    "estadio": "Estadio Miami",
+    "fase": "Fase de Grupos - Grupo H",
+    "fecha": "2026-06-15"
+  },
+  "goleadores": [
+    {
+      "minuto": 41,
+      "jugador": "Abdulelah Alamri",
+      "equipo": "Arabia Saudita"
+    },
+    {
+      "minuto": 80,
+      "jugador": "Maxi Araujo",
+      "equipo": "Uruguay"
+    }
+  ],
+  "estadisticas_generales": {
+    "posesion_porcentaje": {
+      "Arabia Saudita": 27,
+      "Uruguay": 63
+    },
+    "tiros_totales": {
+      "Arabia Saudita": 7,
+      "Uruguay": 27
+    },
+    "tiros_a_puerta": {
+      "Arabia Saudita": 3,
+      "Uruguay": 10
+    },
+    "tiros_fuera": {
+      "Arabia Saudita": 3,
+      "Uruguay": 9
+    },
+    "tiros_bloqueados": {
+      "Arabia Saudita": 1,
+      "Uruguay": 8
+    },
+    "goles_esperados_xG": {
+      "Arabia Saudita": 1.25,
+      "Uruguay": 1.25
+    },
+    "pases_completados": {
+      "Arabia Saudita": 243,
+      "Uruguay": 566
+    },
+    "precision_pases_porcentaje": {
+      "Arabia Saudita": 73,
+      "Uruguay": 91
+    }
+  },
+  "estadisticas_especificas": {
+    "corners": {
+      "Arabia Saudita": 4,
+      "Uruguay": 14
+    },
+    "faltas_cometidas": {
+      "Arabia Saudita": 11,
+      "Uruguay": 6
+    },
+    "fueras_de_juego": {
+      "Arabia Saudita": 0,
+      "Uruguay": 6
+    },
+    "paradas_del_portero": {
+      "Arabia Saudita": 9,
+      "Uruguay": 2
+    }
+  },
+  "tarjetas": {
+    "amarillas": [
+      {
+        "minuto": 40,
+        "jugador": "Abdulelah Alamri",
+        "equipo": "Arabia Saudita"
+      }
+    ],
+    "rojas": [],
+    "resumen": {
+      "Arabia Saudita": {
+        "amarillas": 1,
+        "rojas": 0
+      },
+      "Uruguay": {
+        "amarillas": 0,
+        "rojas": 0
+      }
+    }
+  },
+  "records_o_notas": [
+    "Uruguay dominó ampliamente con un 63% de posesión y 27 tiros totales, mientras que Arabia Saudita tuvo solo el 27% de posesión y 7 tiros",
+    "El portero saudí Mohammed Al-Owais fue la figura del partido con 9 paradas cruciales, incluyendo una atajada espectacular a Federico Valverde en el tiempo añadido.",
+    "El gol de Arabia Saudita llegó en el minuto 41 por Abdulelah Alamri tras un rebote en el área.",
+    "Uruguay empató en el minuto 80 gracias a Maxi Araujo, que aprovechó un rebote del portero Al-Owais.",
+    "Uruguay realizó 14 tiros de esquina, mientras que Arabia Saudita solo 4.",
+    "El empate mantiene abierto el Grupo H, especialmente después del 0-0 entre España y Cabo Verde"
+  ]
+}

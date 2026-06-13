@@ -1,0 +1,100 @@
+{
+    "partido": {
+      "equipo_local": "",
+      "equipo_visitante": "",
+      "goles_local": 0,
+      "goles_visitante": 0,
+      "estadio": "",
+      "fase": "",
+      "fecha": ""
+    },
+    "goleadores": [
+      {
+        "minuto": 0,
+        "jugador": "",
+        "equipo": ""
+      }
+    ],
+    "estadisticas_generales": {
+      "posesion_porcentaje": {
+        "": 0,
+        "": 0
+      },
+      "tiros_totales": {
+        "": 0,
+        "": 0
+      },
+      "tiros_a_puerta": {
+        "": 0,
+        "": 0
+      },
+      "tiros_fuera": {
+        "": 0,
+        "": 0
+      },
+      "tiros_bloqueados": {
+        "": 0,
+        "": 0
+      },
+      "goles_esperados_xG": {
+        "": 0.0,
+        "": 0.0
+      },
+      "pases_completados": {
+        "": 0,
+        "": 0
+      },
+      "precision_pases_porcentaje": {
+        "": 0,
+        "": 0
+      }
+    },
+    "estadisticas_especificas": {
+      "corners": {
+        "": 0,
+        "": 0
+      },
+      "faltas_cometidas": {
+        "": 0,
+        "": 0
+      },
+      "fueras_de_juego": {
+        "": 0,
+        "": 0
+      },
+      "paradas_del_portero": {
+        "": 0,
+        "": 0
+      }
+    },
+    "tarjetas": {
+      "amarillas": [
+        {
+          "minuto": 0,
+          "jugador": "",
+          "equipo": ""
+        }
+      ],
+      "rojas": [
+        {
+          "minuto": 0,
+          "jugador": "",
+          "equipo": "",
+          "tipo": ""
+        }
+      ],
+      "resumen": {
+        "": {
+          "amarillas": 0,
+          "rojas": 0
+        },
+        "": {
+          "amarillas": 0,
+          "rojas": 0
+        }
+      }
+    },
+    "récords_o_notas": [
+      ""
+    ]
+  }

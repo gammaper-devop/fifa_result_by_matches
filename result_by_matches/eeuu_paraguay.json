@@ -1,0 +1,144 @@
+{
+  "partido": {
+    "equipo_local": "Estados Unidos",
+    "equipo_visitante": "Paraguay",
+    "goles_local": 4,
+    "goles_visitante": 1,
+    "estadio": "SoFi Stadium",
+    "fase": "Fase de Grupos - Grupo D",
+    "fecha": "2026-06-12"
+  },
+  "goleadores": [
+    {
+      "minuto": 7,
+      "jugador": "Damián Bobadilla",
+      "equipo": "Paraguay",
+      "nota": "Autogol"
+    },
+    {
+      "minuto": 31,
+      "jugador": "Folarin Balogun",
+      "equipo": "Estados Unidos"
+    },
+    {
+      "minuto": 45,
+      "jugador": "Folarin Balogun",
+      "equipo": "Estados Unidos"
+    },
+    {
+      "minuto": 73,
+      "jugador": "Mauricio",
+      "equipo": "Paraguay"
+    },
+    {
+      "minuto": 90,
+      "jugador": "Giovanni Reyna",
+      "equipo": "Estados Unidos",
+      "nota": "Minuto 90+8'"
+    }
+  ],
+  "estadisticas_generales": {
+    "posesion_porcentaje": {
+      "Estados Unidos": 59,
+      "Paraguay": 28
+    },
+    "tiros_totales": {
+      "Estados Unidos": 16,
+      "Paraguay": 9
+    },
+    "tiros_a_puerta": {
+      "Estados Unidos": 6,
+      "Paraguay": 1
+    },
+    "tiros_fuera": {
+      "Estados Unidos": 6,
+      "Paraguay": 4
+    },
+    "tiros_bloqueados": {
+      "Estados Unidos": 2,
+      "Paraguay": 1
+    },
+    "goles_esperados_xG": {
+      "Estados Unidos": 2.35,
+      "Paraguay": 0.42
+    },
+    "pases_completados": {
+      "Estados Unidos": 602,
+      "Paraguay": 316
+    },
+    "precision_pases_porcentaje": {
+      "Estados Unidos": 87,
+      "Paraguay": 71
+    }
+  },
+  "estadisticas_especificas": {
+    "corners": {
+      "Estados Unidos": 3,
+      "Paraguay": 1
+    },
+    "faltas_cometidas": {
+      "Estados Unidos": 13,
+      "Paraguay": 17
+    },
+    "fueras_de_juego": {
+      "Estados Unidos": 1,
+      "Paraguay": 2
+    },
+    "paradas_del_portero": {
+      "Estados Unidos": 1,
+      "Paraguay": 3
+    }
+  },
+  "tarjetas": {
+    "amarillas": [
+      {
+        "minuto": 62,
+        "jugador": "Álex Arce",
+        "equipo": "Paraguay"
+      },
+      {
+        "minuto": 79,
+        "jugador": "Diego Gómez",
+        "equipo": "Paraguay"
+      },
+      {
+        "minuto": 79,
+        "jugador": "Juan José Cáceres",
+        "equipo": "Paraguay"
+      },
+      {
+        "minuto": 79,
+        "jugador": "Miguel Almirón",
+        "equipo": "Paraguay"
+      },
+      {
+        "minuto": 60,
+        "jugador": "Junior Alonso",
+        "equipo": "Paraguay"
+      },
+      {
+        "minuto": 82,
+        "jugador": "Tyler Adams",
+        "equipo": "Estados Unidos"
+      }
+    ],
+    "rojas": [],
+    "resumen": {
+      "Estados Unidos": {
+        "amarillas": 1,
+        "rojas": 0
+      },
+      "Paraguay": {
+        "amarillas": 5,
+        "rojas": 0
+      }
+    }
+  },
+  "récords_o_notas": [
+    "Estados Unidos anotó 4 goles en un partido mundialista por primera vez en su historia [citation:4]",
+    "Folarin Balogun es el segundo jugador estadounidense en anotar un doblete en un partido de Copa del Mundo [citation:4]",
+    "Primera vez que EE. UU. anota 3 goles en un primer tiempo en un Mundial [citation:2][citation:5]",
+    "Christian Pulisic fue sustituido al medio tiempo por precaución tras un golpe en la pantorrilla [citation:2][citation:4]",
+    "Mayor victoria de EE. UU. en un Mundial desde 1930 [citation:10]"
+  ]
+}

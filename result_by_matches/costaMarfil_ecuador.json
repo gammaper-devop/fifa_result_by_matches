@@ -1,0 +1,113 @@
+{
+  "partido": {
+    "equipo_local": "Costa de Marfil",
+    "equipo_visitante": "Ecuador",
+    "goles_local": 1,
+    "goles_visitante": 0,
+    "estadio": "Estadio Filadelfia",
+    "fase": "Fase de Grupos - Grupo E",
+    "fecha": "2026-06-14"
+  },
+  "goleadores": [
+    {
+      "minuto": 90,
+      "jugador": "Amad Diallo",
+      "equipo": "Costa de Marfil"
+    }
+  ],
+  "estadisticas_generales": {
+    "posesion_porcentaje": {
+      "Costa de Marfil": 41,
+      "Ecuador": 49
+    },
+    "tiros_totales": {
+      "Costa de Marfil": 15,
+      "Ecuador": 12
+    },
+    "tiros_a_puerta": {
+      "Costa de Marfil": 4,
+      "Ecuador": 1
+    },
+    "tiros_fuera": {
+      "Costa de Marfil": 8,
+      "Ecuador": 10
+    },
+    "tiros_bloqueados": {
+      "Costa de Marfil": 3,
+      "Ecuador": 1
+    },
+    "goles_esperados_xG": {
+      "Costa de Marfil": 1.52,
+      "Ecuador": 1.01
+    },
+    "pases_completados": {
+      "Costa de Marfil": 413,
+      "Ecuador": 438
+    },
+    "precision_pases_porcentaje": {
+      "Costa de Marfil": 88,
+      "Ecuador": 85
+    }
+  },
+  "estadisticas_especificas": {
+    "corners": {
+      "Costa de Marfil": 3,
+      "Ecuador": 5
+    },
+    "faltas_cometidas": {
+      "Costa de Marfil": 10,
+      "Ecuador": 13
+    },
+    "fueras_de_juego": {
+      "Costa de Marfil": 0,
+      "Ecuador": 0
+    },
+    "paradas_del_portero": {
+      "Costa de Marfil": 0,
+      "Ecuador": 5
+    }
+  },
+  "tarjetas": {
+    "amarillas": [
+      {
+        "minuto": 89,
+        "jugador": "Guela Doue",
+        "equipo": "Costa de Marfil"
+      },
+      {
+        "minuto": 77,
+        "jugador": "Seko Fofana",
+        "equipo": "Costa de Marfil"
+      },
+      {
+        "minuto": 78,
+        "jugador": "Yan Diomande",
+        "equipo": "Costa de Marfil"
+      },
+      {
+        "minuto": 62,
+        "jugador": "Jackson Porozo",
+        "equipo": "Ecuador"
+      }
+    ],
+    "rojas": [],
+    "resumen": {
+      "Costa de Marfil": {
+        "amarillas": 3,
+        "rojas": 0
+      },
+      "Ecuador": {
+        "amarillas": 1,
+        "rojas": 0
+      }
+    }
+  },
+  "récords_o_notas": [
+    "Costa de Marfil consiguió una victoria agónica con un gol de Amad Diallo en el minuto 90",
+    "Ecuador tuvo mayor posesión (49%) que Costa de Marfil (41%), con un 10% de posesión en disputa",
+    "Costa de Marfil realizó más tiros a puerta (4) que Ecuador (1), a pesar de tener menos tiros totales",
+    "Ambos equipos tuvieron una precisión de pases similar (88% Costa de Marfil, 85% Ecuador)",
+    "El partido fue intenso en faltas, con 10 cometidas por Costa de Marfil y 13 por Ecuador",
+    "Costa de Marfil recibió 3 tarjetas amarillas, mientras que Ecuador recibió 1"
+  ]
+}
