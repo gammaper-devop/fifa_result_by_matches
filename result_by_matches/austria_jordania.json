@@ -1,0 +1,116 @@
+{
+  "partido": {
+    "equipo_local": "Austria",
+    "equipo_visitante": "Jordania",
+    "goles_local": 3,
+    "goles_visitante": 1,
+    "estadio": "San Francisco Bay Area Stadium",
+    "fase": "Fase de Grupos - Grupo J",
+    "fecha": "2026-06-16"
+  },
+  "goleadores": [
+    {
+      "minuto": 20,
+      "jugador": "Romano Schmid",
+      "equipo": "Austria"
+    },
+    {
+      "minuto": 50,
+      "jugador": "Ali Iyad Olwan",
+      "equipo": "Jordania"
+    },
+    {
+      "minuto": 76,
+      "jugador": "Yazan Abu Al-Arab",
+      "equipo": "Austria",
+      "nota": "Autogol"
+    },
+    {
+      "minuto": 90,
+      "jugador": "Marko Arnautovic",
+      "equipo": "Austria",
+      "nota": "Minuto 90+12', penalti"
+    }
+  ],
+  "estadisticas_generales": {
+    "posesion_porcentaje": {
+      "Austria": 63,
+      "Jordania": 37
+    },
+    "tiros_totales": {
+      "Austria": 11,
+      "Jordania": 11
+    },
+    "tiros_a_puerta": {
+      "Austria": 4,
+      "Jordania": 4
+    },
+    "tiros_fuera": {
+      "Austria": 6,
+      "Jordania": 5
+    },
+    "tiros_bloqueados": {
+      "Austria": 1,
+      "Jordania": 2
+    },
+    "goles_esperados_xG": {
+      "Austria": 1.69,
+      "Jordania": 0.46
+    },
+    "pases_completados": {
+      "Austria": 487,
+      "Jordania": 241
+    },
+    "precision_pases_porcentaje": {
+      "Austria": 84,
+      "Jordania": 73
+    }
+  },
+  "estadisticas_especificas": {
+    "corners": {
+      "Austria": 4,
+      "Jordania": 3
+    },
+    "faltas_cometidas": {
+      "Austria": 12,
+      "Jordania": 7
+    },
+    "fueras_de_juego": {
+      "Austria": 3,
+      "Jordania": 1
+    },
+    "paradas_del_portero": {
+      "Austria": 3,
+      "Jordania": 1
+    }
+  },
+  "tarjetas": {
+    "amarillas": [
+      {
+        "minuto": 77,
+        "jugador": "Marcel Sabitzer",
+        "equipo": "Austria"
+      }
+    ],
+    "rojas": [],
+    "resumen": {
+      "Austria": {
+        "amarillas": 1,
+        "rojas": 0
+      },
+      "Jordania": {
+        "amarillas": 0,
+        "rojas": 0
+      }
+    }
+  },
+  "records_o_notas": [
+    "Austria dominó la posesión con un 63% frente al 37% de Jordania",
+    "Jordania, en su debut mundialista, logró empatar temporalmente el partido en el segundo tiempo",
+    "El autogol de Yazan Abu Al-Arab al minuto 76 fue clave para desequilibrar el marcador a favor de Austria",
+    "Marko Arnautovic aseguró la victoria austriaca con un penalti en el minuto 90+12'",
+    "Ambos equipos realizaron 11 tiros totales, pero Austria tuvo un xG (1.69) significativamente mayor que Jordania (0.46)",
+    "El partido se disputó ante 68,527 espectadores en el San Francisco Bay Area Stadium",
+    "Austria recibió una tarjeta amarilla (Marcel Sabitzer, minuto 77), mientras que Jordania no recibió amonestaciones"
+  ]
+}

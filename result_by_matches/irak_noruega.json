@@ -1,0 +1,121 @@
+{
+  "partido": {
+    "equipo_local": "Irak",
+    "equipo_visitante": "Noruega",
+    "goles_local": 1,
+    "goles_visitante": 4,
+    "estadio": "Estadio Boston",
+    "fase": "Fase de Grupos - Grupo I",
+    "fecha": "2026-06-16"
+  },
+  "goleadores": [
+    {
+      "minuto": 29,
+      "jugador": "Erling Haaland",
+      "equipo": "Noruega"
+    },
+    {
+      "minuto": 39,
+      "jugador": "Aymen Hussein",
+      "equipo": "Irak"
+    },
+    {
+      "minuto": 43,
+      "jugador": "Erling Haaland",
+      "equipo": "Noruega"
+    },
+    {
+      "minuto": 76,
+      "jugador": "Leo Ostigard",
+      "equipo": "Irak",
+      "nota": "Autogol"
+    },
+    {
+      "minuto": 90,
+      "jugador": "Aymen Hussein",
+      "equipo": "Irak",
+      "nota": "Minuto 90+6', penalti"
+    }
+  ],
+  "estadisticas_generales": {
+    "posesion_porcentaje": {
+      "Irak": 39,
+      "Noruega": 61
+    },
+    "tiros_totales": {
+      "Irak": 11,
+      "Noruega": 12
+    },
+    "tiros_a_puerta": {
+      "Irak": 1,
+      "Noruega": 5
+    },
+    "tiros_fuera": {
+      "Irak": 8,
+      "Noruega": 4
+    },
+    "tiros_bloqueados": {
+      "Irak": 2,
+      "Noruega": 3
+    },
+    "goles_esperados_xG": {
+      "Irak": 0.80,
+      "Noruega": 2.52
+    },
+    "pases_completados": {
+      "Irak": 271,
+      "Noruega": 477
+    },
+    "precision_pases_porcentaje": {
+      "Irak": 81,
+      "Noruega": 89
+    }
+  },
+  "estadisticas_especificas": {
+    "corners": {
+      "Irak": 2,
+      "Noruega": 5
+    },
+    "faltas_cometidas": {
+      "Irak": 12,
+      "Noruega": 13
+    },
+    "fueras_de_juego": {
+      "Irak": 1,
+      "Noruega": 0
+    },
+    "paradas_del_portero": {
+      "Irak": 2,
+      "Noruega": 0
+    }
+  },
+  "tarjetas": {
+    "amarillas": [
+      {
+        "minuto": 86,
+        "jugador": "Zaid Tahseen",
+        "equipo": "Irak"
+      }
+    ],
+    "rojas": [],
+    "resumen": {
+      "Irak": {
+        "amarillas": 1,
+        "rojas": 0
+      },
+      "Noruega": {
+        "amarillas": 0,
+        "rojas": 0
+      }
+    }
+  },
+  "records_o_notas": [
+    "Erling Haaland fue la figura del partido con un doblete y una calificación de 9.2 en Fotmob",
+    "Noruega dominó la posesión con un 61% frente al 39% de Irak",
+    "Irak tuvo 11 tiros totales, pero solo 1 a puerta, mientras que Noruega convirtió 5 de sus 12 tiros",
+    "El xG de Noruega (2.52) fue significativamente mayor que el de Irak (0.80)",
+    "El autogol de Leo Ostigard al minuto 76 acortó distancias para Irak, pero no fue suficiente",
+    "El partido se disputó en el Estadio Boston ante 63,106 espectadores",
+    "Irak recibió una tarjeta amarilla (Zaid Tahseen, minuto 86), mientras que Noruega no recibió amonestaciones"
+  ]
+}

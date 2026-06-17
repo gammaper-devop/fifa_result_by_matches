@@ -1,0 +1,102 @@
+{
+  "partido": {
+    "equipo_local": "Argentina",
+    "equipo_visitante": "Argelia",
+    "goles_local": 3,
+    "goles_visitante": 0,
+    "estadio": "Kansas City Stadium",
+    "fase": "Fase de Grupos - Grupo J",
+    "fecha": "2026-06-16"
+  },
+  "goleadores": [
+    {
+      "minuto": 17,
+      "jugador": "Lionel Messi",
+      "equipo": "Argentina"
+    },
+    {
+      "minuto": 60,
+      "jugador": "Lionel Messi",
+      "equipo": "Argentina"
+    },
+    {
+      "minuto": 76,
+      "jugador": "Lionel Messi",
+      "equipo": "Argentina"
+    }
+  ],
+  "estadisticas_generales": {
+    "posesion_porcentaje": {
+      "Argentina": 48,
+      "Argelia": 52
+    },
+    "tiros_totales": {
+      "Argentina": 10,
+      "Argelia": 7
+    },
+    "tiros_a_puerta": {
+      "Argentina": 6,
+      "Argelia": 0
+    },
+    "tiros_fuera": {
+      "Argentina": 4,
+      "Argelia": 4
+    },
+    "tiros_bloqueados": {
+      "Argentina": 0,
+      "Argelia": 3
+    },
+    "goles_esperados_xG": {
+      "Argentina": 1.26,
+      "Argelia": 0.32
+    },
+    "pases_completados": {
+      "Argentina": 504,
+      "Argelia": 563
+    },
+    "precision_pases_porcentaje": {
+      "Argentina": 90,
+      "Argelia": 92
+    }
+  },
+  "estadisticas_especificas": {
+    "corners": {
+      "Argentina": 2,
+      "Argelia": 2
+    },
+    "faltas_cometidas": {
+      "Argentina": 13,
+      "Argelia": 8
+    },
+    "fueras_de_juego": {
+      "Argentina": 3,
+      "Argelia": 1
+    },
+    "paradas_del_portero": {
+      "Argentina": 0,
+      "Argelia": 3
+    }
+  },
+  "tarjetas": {
+    "amarillas": [],
+    "rojas": [],
+    "resumen": {
+      "Argentina": {
+        "amarillas": 0,
+        "rojas": 0
+      },
+      "Argelia": {
+        "amarillas": 0,
+        "rojas": 0
+      }
+    }
+  },
+  "records_o_notas": [
+    "Lionel Messi anotó su primer hat-trick en una Copa del Mundo y se convirtió en el segundo jugador en marcar un triplete en el torneo después de Erling Haaland ",
+    "Con sus tres goles, Messi llegó a 15 tantos en Mundiales, igualando a Miroslav Klose como máximo goleador histórico de la competición ",
+    "Argentina no sufrió ni un solo tiro a puerta de Argelia, demostrando un sólido desempeño defensivo ",
+    "Luca Zidane, portero de Argelia, realizó 3 paradas para evitar un marcador más abultado ",
+    "El partido se disputó ante 69,045 espectadores en el Kansas City Stadium ",
+    "Argentina extendió su racha invicta en partidos oficiales a 25 encuentros "
+  ]
+}

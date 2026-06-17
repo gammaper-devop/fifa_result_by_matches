@@ -1,0 +1,109 @@
+{
+  "partido": {
+    "equipo_local": "Francia",
+    "equipo_visitante": "Senegal",
+    "goles_local": 3,
+    "goles_visitante": 1,
+    "estadio": "New York/New Jersey Stadium",
+    "fase": "Fase de Grupos - Grupo I",
+    "fecha": "2026-06-16"
+  },
+  "goleadores": [
+    {
+      "minuto": 66,
+      "jugador": "Kylian Mbappé",
+      "equipo": "Francia"
+    },
+    {
+      "minuto": 82,
+      "jugador": "Bradley Barcola",
+      "equipo": "Francia"
+    },
+    {
+      "minuto": 90,
+      "jugador": "Ibrahim Mbaye",
+      "equipo": "Senegal",
+      "nota": "Minuto 90+5'"
+    },
+    {
+      "minuto": 90,
+      "jugador": "Kylian Mbappé",
+      "equipo": "Francia",
+      "nota": "Minuto 90+6'"
+    }
+  ],
+  "estadisticas_generales": {
+    "posesion_porcentaje": {
+      "Francia": 49,
+      "Senegal": 44
+    },
+    "tiros_totales": {
+      "Francia": 11,
+      "Senegal": 6
+    },
+    "tiros_a_puerta": {
+      "Francia": 8,
+      "Senegal": 2
+    },
+    "tiros_fuera": {
+      "Francia": 1,
+      "Senegal": 3
+    },
+    "tiros_bloqueados": {
+      "Francia": 2,
+      "Senegal": 1
+    },
+    "goles_esperados_xG": {
+      "Francia": 1.79,
+      "Senegal": 0.53
+    },
+    "pases_completados": {
+      "Francia": 516,
+      "Senegal": 453
+    },
+    "precision_pases_porcentaje": {
+      "Francia": 88,
+      "Senegal": 87
+    }
+  },
+  "estadisticas_especificas": {
+    "corners": {
+      "Francia": 6,
+      "Senegal": 4
+    },
+    "faltas_cometidas": {
+      "Francia": 5,
+      "Senegal": 9
+    },
+    "fueras_de_juego": {
+      "Francia": 1,
+      "Senegal": 3
+    },
+    "paradas_del_portero": {
+      "Francia": 2,
+      "Senegal": 5
+    }
+  },
+  "tarjetas": {
+    "amarillas": [],
+    "rojas": [],
+    "resumen": {
+      "Francia": {
+        "amarillas": 0,
+        "rojas": 0
+      },
+      "Senegal": {
+        "amarillas": 0,
+        "rojas": 0
+      }
+    }
+  },
+  "records_o_notas": [
+    "Kylian Mbappé anotó un doblete y se convirtió en el máximo goleador histórico de Francia con 58 goles, superando a Olivier Giroud.",
+    "Con sus dos goles, Mbappé alcanzó los 14 tantos en Copas del Mundo, igualando a Gerd Müller y quedando a dos del récord de Miroslav Klose ",
+    "Senegal fue el equipo más peligroso en el primer tiempo, con Nicolas Jackson estrellando un disparo en el palo.",
+    "Bradley Barcola anotó el segundo gol de Francia solo dos minutos después de haber ingresado como sustituto ",
+    "El partido se disputó ante 80,545 espectadores en el New York/New Jersey Stadium.",
+    "Francia lidera el Grupo I con 3 puntos, mientras que Senegal se queda sin unidades."
+  ]
+}
