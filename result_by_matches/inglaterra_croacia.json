@@ -1,0 +1,115 @@
+{
+    "partido": {
+      "equipo_local": "Inglaterra",
+      "equipo_visitante": "Croacia",
+      "goles_local": 4,
+      "goles_visitante": 2,
+      "estadio": "Dallas Stadium",
+      "fase": "Fase de Grupos - Grupo L",
+      "fecha": "2026-06-17"
+    },
+    "goleadores": [
+      {
+        "minuto": 12,
+        "jugador": "Harry Kane",
+        "equipo": "Inglaterra"
+      },
+      {
+        "minuto": 36,
+        "jugador": "Martin Baturina",
+        "equipo": "Croacia"
+      },
+      {
+        "minuto": 42,
+        "jugador": "Harry Kane",
+        "equipo": "Inglaterra"
+      },
+      {
+        "minuto": 45,
+        "jugador": "Petar Musa",
+        "equipo": "Croacia"
+      },
+      {
+        "minuto": 47,
+        "jugador": "Jude Bellingham",
+        "equipo": "Inglaterra"
+      },
+      {
+        "minuto": 85,
+        "jugador": "Marcus Rashford",
+        "equipo": "Inglaterra"
+      }
+    ],
+    "estadisticas_generales": {
+      "posesion_porcentaje": {
+        "Inglaterra": 52,
+        "Croacia": 48
+      },
+      "tiros_totales": {
+        "Inglaterra": 22,
+        "Croacia": 10
+      },
+      "tiros_a_puerta": {
+        "Inglaterra": 11,
+        "Croacia": 5
+      },
+      "tiros_fuera": {
+        "Inglaterra": 6,
+        "Croacia": 3
+      },
+      "tiros_bloqueados": {
+        "Inglaterra": 5,
+        "Croacia": 2
+      },
+      "goles_esperados_xG": {
+        "Inglaterra": 3.20,
+        "Croacia": 0.70
+      },
+      "pases_completados": {
+        "Inglaterra": 406,
+        "Croacia": 381
+      },
+      "precision_pases_porcentaje": {
+        "Inglaterra": 86,
+        "Croacia": 86
+      }
+    },
+    "estadisticas_especificas": {
+      "corners": {
+        "Inglaterra": 8,
+        "Croacia": 2
+      },
+      "faltas_cometidas": {
+        "Inglaterra": 10,
+        "Croacia": 12
+      },
+      "fueras_de_juego": {
+        "Inglaterra": 0,
+        "Croacia": 1
+      },
+      "paradas_del_portero": {
+        "Inglaterra": 3,
+        "Croacia": 7
+      }
+    },
+    "tarjetas": {
+      "amarillas": [],
+      "rojas": [],
+      "resumen": {
+        "Inglaterra": {
+          "amarillas": 0,
+          "rojas": 0
+        },
+        "Croacia": {
+          "amarillas": 0,
+          "rojas": 0
+        }
+      }
+    },
+    "records_o_notas": [
+      "Harry Kane anotó un doblete, incluyendo un gol de penal al minuto 12.",
+      "Inglaterra generó un xG de 3.20, el más alto en lo que va del torneo, reflejando su dominio ofensivo.",
+      "A pesar del marcador, el partido fue muy disputado, con ambos equipos mostrando alta precisión en pases (86%).",
+      "El portero croata Dominik Livakovic realizó 7 paradas, evitando una goleada mayor."
+    ]
+  }

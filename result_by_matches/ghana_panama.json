@@ -1,0 +1,106 @@
+{
+    "partido": {
+      "equipo_local": "Ghana",
+      "equipo_visitante": "Panama",
+      "goles_local": 1,
+      "goles_visitante": 0,
+      "estadio": "Toronto Stadium",
+      "fase": "Fase de Grupos - Grupo L",
+      "fecha": "2026-06-17"
+    },
+    "goleadores": [
+      {
+        "minuto": 90,
+        "jugador": "Caleb Yirenkyi",
+        "equipo": "Ghana"
+      }
+    ],
+    "estadisticas_generales": {
+      "posesion_porcentaje": {
+        "Ghana": 38,
+        "Panama": 62
+      },
+      "tiros_totales": {
+        "Ghana": 8,
+        "Panama": 11
+      },
+      "tiros_a_puerta": {
+        "Ghana": 2,
+        "Panama": 4
+      },
+      "tiros_fuera": {
+        "Ghana": 4,
+        "Panama": 5
+      },
+      "tiros_bloqueados": {
+        "Ghana": 2,
+        "Panama": 2
+      },
+      "goles_esperados_xG": {
+        "Ghana": 1.31,
+        "Panama": 0.73
+      },
+      "pases_completados": {
+        "Ghana": 292,
+        "Panama": 503
+      },
+      "precision_pases_porcentaje": {
+        "Ghana": 83,
+        "Panama": 86
+      }
+    },
+    "estadisticas_especificas": {
+      "corners": {
+        "Ghana": 2,
+        "Panama": 2
+      },
+      "faltas_cometidas": {
+        "Ghana": 9,
+        "Panama": 11
+      },
+      "fueras_de_juego": {
+        "Ghana": 4,
+        "Panama": 1
+      },
+      "paradas_del_portero": {
+        "Ghana": 4,
+        "Panama": 2
+      }
+    },
+    "tarjetas": {
+      "amarillas": [
+        {
+          "minuto": 16,
+          "jugador": "Caleb Yirenkyi",
+          "equipo": "Ghana"
+        },
+        {
+          "minuto": 72,
+          "jugador": "César Blackman",
+          "equipo": "Panama"
+        },
+        {
+          "minuto": 90,
+          "jugador": "Carlos Harvey",
+          "equipo": "Panama"
+        }
+      ],
+      "rojas": [],
+      "resumen": {
+        "Ghana": {
+          "amarillas": 1,
+          "rojas": 0
+        },
+        "Panama": {
+          "amarillas": 2,
+          "rojas": 0
+        }
+      }
+    },
+    "records_o_notas": [
+      "Caleb Yirenkyi anotó el gol de la victoria en el minuto 90+5, siendo su primer gol en Mundiales.",
+      "Panama dominó la posesión (62%) y generó mas tiros (11), pero Ghana fue mas efectivo en la definición.",
+      "El partido fue muy disputado, con 20 faltas cometidas en total y 3 tarjetas amarillas.",
+      "El portero suplente de Ghana, Benjamin Asare, que ingresó en el entretiempo, fue clave con 4 paradas."
+    ]
+  }

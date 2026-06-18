@@ -1,0 +1,116 @@
+{
+    "partido": {
+      "equipo_local": "Colombia",
+      "equipo_visitante": "Uzbekistán",
+      "goles_local": 3,
+      "goles_visitante": 1,
+      "estadio": "Mexico City Stadium",
+      "fase": "Fase de Grupos - Grupo K",
+      "fecha": "2026-06-17"
+    },
+    "goleadores": [
+      {
+        "minuto": 40,
+        "jugador": "Daniel Muñoz",
+        "equipo": "Colombia"
+      },
+      {
+        "minuto": 60,
+        "jugador": "Abbosbek Fayzullayev",
+        "equipo": "Uzbekistán"
+      },
+      {
+        "minuto": 65,
+        "jugador": "Luis Díaz",
+        "equipo": "Colombia"
+      },
+      {
+        "minuto": 90,
+        "jugador": "Jaminton Campaz",
+        "equipo": "Colombia"
+      }
+    ],
+    "estadisticas_generales": {
+      "posesion_porcentaje": {
+        "Colombia": 61,
+        "Uzbekistán": 39
+      },
+      "tiros_totales": {
+        "Colombia": 15,
+        "Uzbekistán": 8
+      },
+      "tiros_a_puerta": {
+        "Colombia": 4,
+        "Uzbekistán": 2
+      },
+      "tiros_fuera": {
+        "Colombia": 7,
+        "Uzbekistán": 4
+      },
+      "tiros_bloqueados": {
+        "Colombia": 4,
+        "Uzbekistán": 2
+      },
+      "goles_esperados_xG": {
+        "Colombia": 1.61,
+        "Uzbekistán": 1.16
+      },
+      "pases_completados": {
+        "Colombia": 444,
+        "Uzbekistán": 243
+      },
+      "precision_pases_porcentaje": {
+        "Colombia": 86,
+        "Uzbekistán": 76
+      }
+    },
+    "estadisticas_especificas": {
+      "corners": {
+        "Colombia": 4,
+        "Uzbekistán": 3
+      },
+      "faltas_cometidas": {
+        "Colombia": 11,
+        "Uzbekistán": 14
+      },
+      "fueras_de_juego": {
+        "Colombia": 3,
+        "Uzbekistán": 0
+      },
+      "paradas_del_portero": {
+        "Colombia": 1,
+        "Uzbekistán": 1
+      }
+    },
+    "tarjetas": {
+      "amarillas": [
+        {
+          "minuto": 7,
+          "jugador": "Johan Mojica",
+          "equipo": "Colombia"
+        },
+        {
+          "minuto": 34,
+          "jugador": "Abdukodir Khusanov",
+          "equipo": "Uzbekistán"
+        }
+      ],
+      "rojas": [],
+      "resumen": {
+        "Colombia": {
+          "amarillas": 1,
+          "rojas": 0
+        },
+        "Uzbekistán": {
+          "amarillas": 1,
+          "rojas": 0
+        }
+      }
+    },
+    "records_o_notas": [
+      "Luis Díaz fue la figura del partido con un gol y una asistencia, siendo clave en el ataque colombiano.",
+      "Uzbekistán logró su primer gol en la historia de los Mundiales gracias a Abbosbek Fayzullayev.",
+      "Colombia regresó a un Mundial después de 8 años con una victoria sólida, mostrando superioridad en posesión y generación de juego.",
+      "El partido se definió en los minutos finales con el gol de Jaminton Campaz al 90+9'."
+    ]
+  }

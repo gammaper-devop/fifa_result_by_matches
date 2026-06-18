@@ -1,0 +1,115 @@
+{
+    "partido": {
+      "equipo_local": "Portugal",
+      "equipo_visitante": "RD Congo",
+      "goles_local": 1,
+      "goles_visitante": 1,
+      "estadio": "Houston Stadium",
+      "fase": "Fase de Grupos - Grupo K",
+      "fecha": "2026-06-17"
+    },
+    "goleadores": [
+      {
+        "minuto": 6,
+        "jugador": "João Neves",
+        "equipo": "Portugal"
+      },
+      {
+        "minuto": 45,
+        "jugador": "Yoane Wissa",
+        "equipo": "RD Congo"
+      }
+    ],
+    "estadisticas_generales": {
+      "posesion_porcentaje": {
+        "Portugal": 75,
+        "RD Congo": 25
+      },
+      "tiros_totales": {
+        "Portugal": 7,
+        "RD Congo": 8
+      },
+      "tiros_a_puerta": {
+        "Portugal": 1,
+        "RD Congo": 2
+      },
+      "tiros_fuera": {
+        "Portugal": 4,
+        "RD Congo": 3
+      },
+      "tiros_bloqueados": {
+        "Portugal": 2,
+        "RD Congo": 3
+      },
+      "goles_esperados_xG": {
+        "Portugal": 0.65,
+        "RD Congo": 0.87
+      },
+      "pases_completados": {
+        "Portugal": 724,
+        "RD Congo": 195
+      },
+      "precision_pases_porcentaje": {
+        "Portugal": 92,
+        "RD Congo": 78
+      }
+    },
+    "estadisticas_especificas": {
+      "corners": {
+        "Portugal": 5,
+        "RD Congo": 4
+      },
+      "faltas_cometidas": {
+        "Portugal": 9,
+        "RD Congo": 10
+      },
+      "fueras_de_juego": {
+        "Portugal": 3,
+        "RD Congo": 2
+      },
+      "paradas_del_portero": {
+        "Portugal": 1,
+        "RD Congo": 0
+      }
+    },
+    "tarjetas": {
+      "amarillas": [
+        {
+          "minuto": 13,
+          "jugador": "Bernardo Silva",
+          "equipo": "Portugal"
+        },
+        {
+          "minuto": 88,
+          "jugador": "Nélson Semedo",
+          "equipo": "Portugal"
+        },
+        {
+          "minuto": 90,
+          "jugador": "Tomás Araújo",
+          "equipo": "Portugal"
+        },
+        {
+          "minuto": 32,
+          "jugador": "Chancel Mbemba",
+          "equipo": "RD Congo"
+        }
+      ],
+      "rojas": [],
+      "resumen": {
+        "Portugal": {
+          "amarillas": 3,
+          "rojas": 0
+        },
+        "RD Congo": {
+          "amarillas": 1,
+          "rojas": 0
+        }
+      }
+    },
+    "records_o_notas": [
+      "Yoane Wissa anotó el primer gol de RD Congo en la historia de los Mundiales.",
+      "A pesar de dominar la posesión (75%), Portugal solo logró 1 tiro a puerta.",
+      "El árbitro del partido fue Abdulrahman Ibrahim Al Jassim."
+    ]
+  }
