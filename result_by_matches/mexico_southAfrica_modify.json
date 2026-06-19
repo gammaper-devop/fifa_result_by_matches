@@ -1,7 +1,7 @@
   {
     "partido": {
-      "equipo_local": "México",
-      "equipo_visitante": "Sudáfrica",
+      "equipo_local": "Mexico",
+      "equipo_visitante": "Sudafrica",
       "goles_local": 2,
       "goles_visitante": 0,
       "estadio": "Estadio Azteca",
@@ -11,65 +11,65 @@
     "goleadores": [
       {
         "minuto": 9,
-        "jugador": "Julián Quiñones",
-        "equipo": "México"
+        "jugador": "Julian Quiñones",
+        "equipo": "Mexico"
       },
       {
         "minuto": 67,
-        "jugador": "Raúl Jiménez",
-        "equipo": "México"
+        "jugador": "Raúl Jimenez",
+        "equipo": "Mexico"
       }
     ],
     "estadisticas_generales": {
       "posesion_porcentaje": {
-        "México": 62,
-        "Sudáfrica": 38
+        "Mexico": 62,
+        "Sudafrica": 38
       },
       "tiros_totales": {
-        "México": 16,
-        "Sudáfrica": 3
+        "Mexico": 16,
+        "Sudafrica": 3
       },
       "tiros_a_puerta": {
-        "México": 4,
-        "Sudáfrica": 2
+        "Mexico": 4,
+        "Sudafrica": 2
       },
       "tiros_fuera": {
-        "México": 9,
-        "Sudáfrica": 1
+        "Mexico": 9,
+        "Sudafrica": 1
       },
       "tiros_bloqueados": {
-        "México": 3,
-        "Sudáfrica": 0
+        "Mexico": 3,
+        "Sudafrica": 0
       },
       "goles_esperados_xG": {
-        "México": 1.41,
-        "Sudáfrica": 0.07
+        "Mexico": 1.41,
+        "Sudafrica": 0.07
       },
       "pases_completados": {
-        "México": 521,
-        "Sudáfrica": 309
+        "Mexico": 521,
+        "Sudafrica": 309
       },
       "precision_pases_porcentaje": {
-        "México": 89,
-        "Sudáfrica": 78
+        "Mexico": 89,
+        "Sudafrica": 78
       }
     },
     "estadisticas_especificas": {
       "corners": {
-        "México": 8,
-        "Sudáfrica": 1
+        "Mexico": 8,
+        "Sudafrica": 1
       },
       "faltas_cometidas": {
-        "México": 12,
-        "Sudáfrica": 11
+        "Mexico": 12,
+        "Sudafrica": 11
       },
       "fueras_de_juego": {
-        "México": 2,
-        "Sudáfrica": 1
+        "Mexico": 2,
+        "Sudafrica": 1
       },
       "paradas_del_portero": {
-        "México": 2,
-        "Sudáfrica": 2
+        "Mexico": 2,
+        "Sudafrica": 2
       }
     },
     "tarjetas": {
@@ -77,36 +77,36 @@
         {
           "minuto": 74,
           "jugador": "Sibisi",
-          "equipo": "Sudáfrica"
+          "equipo": "Sudafrica"
         }
       ],
       "rojas": [
         {
           "minuto": 49,
           "jugador": "Sithole",
-          "equipo": "Sudáfrica",
+          "equipo": "Sudafrica",
           "tipo": "roja_directa"
         },
         {
           "minuto": 84,
           "jugador": "Zwane",
-          "equipo": "Sudáfrica",
+          "equipo": "Sudafrica",
           "tipo": "roja_directa"
         },
         {
           "minuto": 90,
-          "jugador": "César Montes",
-          "equipo": "México",
+          "jugador": "Cesar Montes",
+          "equipo": "Mexico",
           "tipo": "roja_directa",
           "nota": "Tiempo añadido (90+2')"
         }
       ],
       "resumen": {
-        "México": {
+        "Mexico": {
           "amarillas": 0,
           "rojas": 1
         },
-        "Sudáfrica": {
+        "Sudafrica": {
           "amarillas": 1,
           "rojas": 2
         }
@@ -114,7 +114,7 @@
     },
     "records_o_notas": [
       "Primer partido inaugural con 3 tarjetas rojas",
-      "Gilberto Mora (México) - jugador más joven en representar a un país anfitrión (17 años)",
-      "Raúl Jiménez - gol más tardío para un debutante titular en un Mundial desde 2006"
+      "Gilberto Mora (Mexico) - jugador mas joven en representar a un país anfitrión (17 años)",
+      "Raúl Jimenez - gol mas tardío para un debutante titular en un Mundial desde 2006"
     ]
   }
