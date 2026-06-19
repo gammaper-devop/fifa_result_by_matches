@@ -1,0 +1,104 @@
+{
+  "partido": {
+    "equipo_local": "Mexico",
+    "equipo_visitante": "Corea del Sur",
+    "goles_local": 1,
+    "goles_visitante": 0,
+    "estadio": "Guadalajara Stadium",
+    "fase": "Fase de Grupos - Grupo A",
+    "fecha": "2026-06-18"
+  },
+  "goleadores": [
+    {
+      "minuto": 50,
+      "jugador": "Luis Romo",
+      "equipo": "Mexico"
+    }
+  ],
+  "estadisticas_generales": {
+    "posesion_porcentaje": {
+      "Mexico": 42,
+      "Corea del Sur": 58
+    },
+    "tiros_totales": {
+      "Mexico": 8,
+      "Corea del Sur": 9
+    },
+    "tiros_a_puerta": {
+      "Mexico": 4,
+      "Corea del Sur": 2
+    },
+    "tiros_fuera": {
+      "Mexico": 3,
+      "Corea del Sur": 4
+    },
+    "tiros_bloqueados": {
+      "Mexico": 1,
+      "Corea del Sur": 3
+    },
+    "goles_esperados_xG": {
+      "Mexico": 0.53,
+      "Corea del Sur": 0.91
+    },
+    "pases_completados": {
+      "Mexico": 349,
+      "Corea del Sur": 488
+    },
+    "precision_pases_porcentaje": {
+      "Mexico": 82,
+      "Corea del Sur": 84
+    }
+  },
+  "estadisticas_especificas": {
+    "corners": {
+      "Mexico": 0,
+      "Corea del Sur": 2
+    },
+    "faltas_cometidas": {
+      "Mexico": 9,
+      "Corea del Sur": 7
+    },
+    "fueras_de_juego": {
+      "Mexico": 3,
+      "Corea del Sur": 6
+    },
+    "paradas_del_portero": {
+      "Mexico": 2,
+      "Corea del Sur": 3
+    }
+  },
+  "tarjetas": {
+    "amarillas": [
+      {
+        "minuto": 4,
+        "jugador": "Kang-In Lee",
+        "equipo": "Corea del Sur"
+      },
+      {
+        "minuto": 58,
+        "jugador": "Seung-Ho Paik",
+        "equipo": "Corea del Sur"
+      }
+    ],
+    "rojas": [],
+    "resumen": {
+      "Mexico": {
+        "amarillas": 0,
+        "rojas": 0
+      },
+      "Corea del Sur": {
+        "amarillas": 2,
+        "rojas": 0
+      }
+    }
+  },
+  "records_o_notas": [
+    "Mexico aseguró su clasificación a los octavos de final con esta victoria, liderando el Grupo A con 6 puntos",
+    "Luis Romo anotó el único gol del partido al minuto 50, aprovechando un error del portero surcoreano Kim Seung-gyu",
+    "Corea del Sur dominó la posesión (58%) y tuvo un xG mayor (0.91) que Mexico (0.53), pero no logró concretar sus oportunidades",
+    "El portero mexicano Raúl Rangel fue la figura del partido con 8.4 de calificación, realizando 2 paradas clave",
+    "Corea del Sur recibió dos tarjetas amarillas (Kang-In Lee al minuto 4 y Seung-Ho Paik al minuto 58)",
+    "El partido se disputó ante 45,522 espectadores en el Guadalajara Stadium",
+    "Mexico no tuvo corners en todo el partido, mientras que Corea del Sur tuvo 2"
+  ]
+}

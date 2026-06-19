@@ -1,0 +1,145 @@
+{
+  "partido": {
+    "equipo_local": "Canada",
+    "equipo_visitante": "Catar",
+    "goles_local": 6,
+    "goles_visitante": 0,
+    "estadio": "BC Place Vancouver",
+    "fase": "Fase de Grupos - Grupo B",
+    "fecha": "2026-06-18"
+  },
+  "goleadores": [
+    {
+      "minuto": 16,
+      "jugador": "Cyle Larin",
+      "equipo": "Canada"
+    },
+    {
+      "minuto": 29,
+      "jugador": "Jonathan David",
+      "equipo": "Canada"
+    },
+    {
+      "minuto": 45,
+      "jugador": "Jonathan David",
+      "equipo": "Canada",
+      "nota": "Minuto 45+3'"
+    },
+    {
+      "minuto": 64,
+      "jugador": "Nathan Saliba",
+      "equipo": "Canada"
+    },
+    {
+      "minuto": 75,
+      "jugador": "Mohamed Al Mannai",
+      "equipo": "Canada",
+      "nota": "Autogol"
+    },
+    {
+      "minuto": 90,
+      "jugador": "Jonathan David",
+      "equipo": "Canada",
+      "nota": "Minuto 90+2'"
+    }
+  ],
+  "estadisticas_generales": {
+    "posesion_porcentaje": {
+      "Canada": 79,
+      "Catar": 21
+    },
+    "tiros_totales": {
+      "Canada": 32,
+      "Catar": 2
+    },
+    "tiros_a_puerta": {
+      "Canada": 10,
+      "Catar": 0
+    },
+    "tiros_fuera": {
+      "Canada": 8,
+      "Catar": 1
+    },
+    "tiros_bloqueados": {
+      "Canada": 14,
+      "Catar": 1
+    },
+    "goles_esperados_xG": {
+      "Canada": 4.60,
+      "Catar": 0.22
+    },
+    "pases_completados": {
+      "Canada": 515,
+      "Catar": 104
+    },
+    "precision_pases_porcentaje": {
+      "Canada": 91,
+      "Catar": 64
+    }
+  },
+  "estadisticas_especificas": {
+    "corners": {
+      "Canada": 19,
+      "Catar": 1
+    },
+    "faltas_cometidas": {
+      "Canada": 9,
+      "Catar": 10
+    },
+    "fueras_de_juego": {
+      "Canada": 1,
+      "Catar": 1
+    },
+    "paradas_del_portero": {
+      "Canada": 0,
+      "Catar": 4
+    }
+  },
+  "tarjetas": {
+    "amarillas": [
+      {
+        "minuto": 9,
+        "jugador": "Derek Cornelius",
+        "equipo": "Canada"
+      },
+      {
+        "minuto": 62,
+        "jugador": "Ahmed Fathi",
+        "equipo": "Catar"
+      }
+    ],
+    "rojas": [
+      {
+        "minuto": 33,
+        "jugador": "Homam Elamin",
+        "equipo": "Catar",
+        "tipo": "roja_directa"
+      },
+      {
+        "minuto": 51,
+        "jugador": "Assim Madibo",
+        "equipo": "Catar",
+        "tipo": "roja_directa"
+      }
+    ],
+    "resumen": {
+      "Canada": {
+        "amarillas": 1,
+        "rojas": 0
+      },
+      "Catar": {
+        "amarillas": 1,
+        "rojas": 2
+      }
+    }
+  },
+  "records_o_notas": [
+    "Canada consiguió su primera victoria en la historia de los Mundiales con una goleada histórica ",
+    "Jonathan David anotó un hat-trick (minutos 29, 45+3' y 90+2') y fue la figura del partido con 9.6 de calificación ",
+    "Canada estableció un récord de posesión (79%) y tiros totales (32) en la fase de grupos ",
+    "El xG de Canada (4.60) es el mas alto de un equipo norteamericano en un partido de la fase de grupos desde que se tiene registro ",
+    "Catar terminó el partido con 9 jugadores tras las expulsiones de Homam Elamin (33') y Assim Madibo (51') ",
+    "Canada realizó 19 corners, la mayor cantidad en un partido del torneo hasta la fecha ",
+    "El portero catarí Mahmud Abunada realizó 4 paradas para evitar un marcador mas abultado "
+  ]
+}

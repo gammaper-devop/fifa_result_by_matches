@@ -1,0 +1,115 @@
+{
+  "partido": {
+    "equipo_local": "Republica Checa",
+    "equipo_visitante": "Sudáfrica",
+    "goles_local": 1,
+    "goles_visitante": 1,
+    "estadio": "Atlanta Stadium",
+    "fase": "Fase de Grupos - Grupo A",
+    "fecha": "2026-06-18"
+  },
+  "goleadores": [
+    {
+      "minuto": 6,
+      "jugador": "Michal Sadílek",
+      "equipo": "Republica Checa"
+    },
+    {
+      "minuto": 83,
+      "jugador": "Teboho Mokoena",
+      "equipo": "Sudáfrica",
+      "nota": "Penalti"
+    }
+  ],
+  "estadisticas_generales": {
+    "posesion_porcentaje": {
+      "Republica Checa": 38,
+      "Sudáfrica": 62
+    },
+    "tiros_totales": {
+      "Republica Checa": 14,
+      "Sudáfrica": 17
+    },
+    "tiros_a_puerta": {
+      "Republica Checa": 3,
+      "Sudáfrica": 4
+    },
+    "tiros_fuera": {
+      "Republica Checa": 8,
+      "Sudáfrica": 5
+    },
+    "tiros_bloqueados": {
+      "Republica Checa": 3,
+      "Sudáfrica": 8
+    },
+    "goles_esperados_xG": {
+      "Republica Checa": 1.02,
+      "Sudáfrica": 1.38
+    },
+    "pases_completados": {
+      "Republica Checa": 272,
+      "Sudáfrica": 508
+    },
+    "precision_pases_porcentaje": {
+      "Republica Checa": 80,
+      "Sudáfrica": 90
+    }
+  },
+  "estadisticas_especificas": {
+    "corners": {
+      "Republica Checa": 5,
+      "Sudáfrica": 5
+    },
+    "faltas_cometidas": {
+      "Republica Checa": 12,
+      "Sudáfrica": 10
+    },
+    "fueras_de_juego": {
+      "Republica Checa": 2,
+      "Sudáfrica": 3
+    },
+    "paradas_del_portero": {
+      "Republica Checa": 3,
+      "Sudáfrica": 2
+    }
+  },
+  "tarjetas": {
+    "amarillas": [
+      {
+        "minuto": 33,
+        "jugador": "Teboho Mokoena",
+        "equipo": "Sudáfrica"
+      },
+      {
+        "minuto": 40,
+        "jugador": "Thalente Mbatha",
+        "equipo": "Sudáfrica"
+      },
+      {
+        "minuto": 75,
+        "jugador": "Ladislav Krejčí",
+        "equipo": "Republica Checa"
+      }
+    ],
+    "rojas": [],
+    "resumen": {
+      "Republica Checa": {
+        "amarillas": 1,
+        "rojas": 0
+      },
+      "Sudáfrica": {
+        "amarillas": 2,
+        "rojas": 0
+      }
+    }
+  },
+  "records_o_notas": [
+    "Sudáfrica dominó la posesión con un 62% frente al 38% de la Republica Checa",
+    "Sudáfrica realizó más tiros totales (17) que la Republica Checa (14), y también más tiros a puerta (4 contra 3)",
+    "El xG de Sudáfrica (1.38) fue superior al de la Republica Checa (1.02)",
+    "Teboho Mokoena fue la figura del partido, anotando el penal del empate y recibiendo una tarjeta amarilla",
+    "El partido se disputó ante 67,442 espectadores en el Atlanta Stadium",
+    "Ambos equipos tuvieron 5 corners cada uno",
+    "Republica Checa recibió una tarjeta amarilla, mientras que Sudáfrica recibió dos"
+  ]
+}

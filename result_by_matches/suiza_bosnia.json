@@ -1,0 +1,139 @@
+{
+  "partido": {
+    "equipo_local": "Suiza",
+    "equipo_visitante": "Bosnia y Herzegovina",
+    "goles_local": 4,
+    "goles_visitante": 1,
+    "estadio": "Los Angeles Stadium",
+    "fase": "Fase de Grupos - Grupo B",
+    "fecha": "2026-06-18"
+  },
+  "goleadores": [
+    {
+      "minuto": 74,
+      "jugador": "Johan Manzambi",
+      "equipo": "Suiza"
+    },
+    {
+      "minuto": 84,
+      "jugador": "Rubén Vargas",
+      "equipo": "Suiza"
+    },
+    {
+      "minuto": 90,
+      "jugador": "Johan Manzambi",
+      "equipo": "Suiza",
+      "nota": "Minuto 90'"
+    },
+    {
+      "minuto": 90,
+      "jugador": "Ermin Mahmic",
+      "equipo": "Bosnia y Herzegovina",
+      "nota": "Minuto 90+3'"
+    },
+    {
+      "minuto": 90,
+      "jugador": "Granit Xhaka",
+      "equipo": "Suiza",
+      "nota": "Minuto 90+7', penalti"
+    }
+  ],
+  "estadisticas_generales": {
+    "posesion_porcentaje": {
+      "Suiza": 62,
+      "Bosnia y Herzegovina": 38
+    },
+    "tiros_totales": {
+      "Suiza": 13,
+      "Bosnia y Herzegovina": 5
+    },
+    "tiros_a_puerta": {
+      "Suiza": 7,
+      "Bosnia y Herzegovina": 3
+    },
+    "tiros_fuera": {
+      "Suiza": 3,
+      "Bosnia y Herzegovina": 1
+    },
+    "tiros_bloqueados": {
+      "Suiza": 3,
+      "Bosnia y Herzegovina": 1
+    },
+    "goles_esperados_xG": {
+      "Suiza": 2.06,
+      "Bosnia y Herzegovina": 0.23
+    },
+    "pases_completados": {
+      "Suiza": 516,
+      "Bosnia y Herzegovina": 287
+    },
+    "precision_pases_porcentaje": {
+      "Suiza": 88,
+      "Bosnia y Herzegovina": 81
+    }
+  },
+  "estadisticas_especificas": {
+    "corners": {
+      "Suiza": 7,
+      "Bosnia y Herzegovina": 3
+    },
+    "faltas_cometidas": {
+      "Suiza": 7,
+      "Bosnia y Herzegovina": 18
+    },
+    "fueras_de_juego": {
+      "Suiza": 3,
+      "Bosnia y Herzegovina": 1
+    },
+    "paradas_del_portero": {
+      "Suiza": 2,
+      "Bosnia y Herzegovina": 3
+    }
+  },
+  "tarjetas": {
+    "amarillas": [
+      {
+        "minuto": 59,
+        "jugador": "Amar Dedic",
+        "equipo": "Bosnia y Herzegovina"
+      },
+      {
+        "minuto": 61,
+        "jugador": "Edin Dzeko",
+        "equipo": "Bosnia y Herzegovina"
+      },
+      {
+        "minuto": 65,
+        "jugador": "Nico Elvedi",
+        "equipo": "Suiza"
+      }
+    ],
+    "rojas": [
+      {
+        "minuto": 80,
+        "jugador": "Tarik Muharemovic",
+        "equipo": "Bosnia y Herzegovina",
+        "tipo": "roja_directa"
+      }
+    ],
+    "resumen": {
+      "Suiza": {
+        "amarillas": 1,
+        "rojas": 0
+      },
+      "Bosnia y Herzegovina": {
+        "amarillas": 2,
+        "rojas": 1
+      }
+    }
+  },
+  "records_o_notas": [
+    "Suiza dominó el partido con un 62% de posesión y 13 tiros totales, frente al 38% y 5 tiros de Bosnia",
+    "Johan Manzambi, que ingresó como sustituto al minuto 72, anotó un doblete (minutos 74 y 90) y fue la figura del partido con 8.6 de calificación",
+    "El xG de Suiza (2.06) fue significativamente mayor que el de Bosnia (0.23), reflejando su superioridad ofensiva",
+    "El partido se decidió en los últimos 15 minutos con 4 goles, incluyendo un penalti de Granit Xhaka en el tiempo añadido",
+    "Bosnia y Herzegovina recibió una tarjeta roja directa para Tarik Muharemovic al minuto 80, quedando con 10 jugadores",
+    "Suiza cometió solo 7 faltas, mientras que Bosnia cometió 18, lo que refleja el control del partido por parte suiza",
+    "El partido se disputó ante 70,026 espectadores en el Los Angeles Stadium"
+  ]
+}
