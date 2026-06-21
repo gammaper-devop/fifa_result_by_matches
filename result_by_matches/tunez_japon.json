@@ -1,0 +1,110 @@
+
+{
+  "partido": {
+    "equipo_local": "Tunez",
+    "equipo_visitante": "Japon",
+    "goles_local": 0,
+    "goles_visitante": 4,
+    "estadio": "Monterrey Stadium",
+    "fase": "Fase de Grupos - Grupo F",
+    "fecha": "2026-06-20"
+  },
+  "goleadores": [
+    {
+      "minuto": 4,
+      "jugador": "Daichi Kamada",
+      "equipo": "Japon"
+    },
+    {
+      "minuto": 31,
+      "jugador": "Ayase Ueda",
+      "equipo": "Japon"
+    },
+    {
+      "minuto": 69,
+      "jugador": "Junya Ito",
+      "equipo": "Japon"
+    },
+    {
+      "minuto": 83,
+      "jugador": "Ayase Ueda",
+      "equipo": "Japon"
+    }
+  ],
+  "estadisticas_generales": {
+    "posesion_porcentaje": {
+      "Tunez": 38,
+      "Japon": 62
+    },
+    "tiros_totales": {
+      "Tunez": 2,
+      "Japon": 11
+    },
+    "tiros_a_puerta": {
+      "Tunez": 0,
+      "Japon": 5
+    },
+    "tiros_fuera": {
+      "Tunez": 1,
+      "Japon": 3
+    },
+    "tiros_bloqueados": {
+      "Tunez": 1,
+      "Japon": 3
+    },
+    "goles_esperados_xG": {
+      "Tunez": 0.05,
+      "Japon": 2.13
+    },
+    "pases_completados": {
+      "Tunez": 284,
+      "Japon": 521
+    },
+    "precision_pases_porcentaje": {
+      "Tunez": 80,
+      "Japon": 89
+    }
+  },
+  "estadisticas_especificas": {
+    "corners": {
+      "Tunez": 3,
+      "Japon": 5
+    },
+    "faltas_cometidas": {
+      "Tunez": 8,
+      "Japon": 15
+    },
+    "fueras_de_juego": {
+      "Tunez": 1,
+      "Japon": 1
+    },
+    "paradas_del_portero": {
+      "Tunez": 1,
+      "Japon": 0
+    }
+  },
+  "tarjetas": {
+    "amarillas": [],
+    "rojas": [],
+    "resumen": {
+      "Tunez": {
+        "amarillas": 0,
+        "rojas": 0
+      },
+      "Japon": {
+        "amarillas": 0,
+        "rojas": 0
+      }
+    }
+  },
+  "records_o_notas": [
+    "Japon consiguio su victoria más abultada en la historia de los Mundiales, anotando 4 goles por primera vez en el torneo",
+    "Ayase Ueda fue la figura del partido con un doblete (minutos 31 y 83) y una calificacion de 9.3",
+    "Tunez quedo eliminada del Mundial tras su segunda derrota consecutiva, siendo el tercer equipo en ser eliminado",
+    "Japon alcanzo los 4 puntos en el Grupo F, igualando a Países Bajos pero con menor diferencia de goles",
+    "Tunez no realizo ningun tiro a puerta en todo el partido, reflejando el dominio japonés",
+    "El xG de Japon (2.13) fue significativamente mayor que el de Tunez (0.05)",
+    "El partido se disputo ante 51,243 espectadores en el Monterrey Stadium",
+    "No hubo tarjetas amarillas ni rojas en este partido"
+  ]
+}
