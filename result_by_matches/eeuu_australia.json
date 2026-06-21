@@ -1,0 +1,136 @@
+{
+  "partido": {
+    "equipo_local": "Estados Unidos",
+    "equipo_visitante": "Australia",
+    "goles_local": 2,
+    "goles_visitante": 0,
+    "estadio": "Seattle Stadium",
+    "fase": "Fase de Grupos - Grupo D",
+    "fecha": "2026-06-19"
+  },
+  "goleadores": [
+    {
+      "minuto": 11,
+      "jugador": "Cameron Burgess",
+      "equipo": "Estados Unidos",
+      "nota": "Autogol"
+    },
+    {
+      "minuto": 43,
+      "jugador": "Alex Freeman",
+      "equipo": "Estados Unidos"
+    }
+  ],
+  "estadisticas_generales": {
+    "posesion_porcentaje": {
+      "Estados Unidos": 62,
+      "Australia": 38
+    },
+    "tiros_totales": {
+      "Estados Unidos": 10,
+      "Australia": 5
+    },
+    "tiros_a_puerta": {
+      "Estados Unidos": 2,
+      "Australia": 2
+    },
+    "tiros_fuera": {
+      "Estados Unidos": 2,
+      "Australia": 3
+    },
+    "tiros_bloqueados": {
+      "Estados Unidos": 6,
+      "Australia": 0
+    },
+    "goles_esperados_xG": {
+      "Estados Unidos": 1.08,
+      "Australia": 0.35
+    },
+    "pases_completados": {
+      "Estados Unidos": 444,
+      "Australia": 219
+    },
+    "precision_pases_porcentaje": {
+      "Estados Unidos": 85,
+      "Australia": 71
+    }
+  },
+  "estadisticas_especificas": {
+    "corners": {
+      "Estados Unidos": 7,
+      "Australia": 4
+    },
+    "faltas_cometidas": {
+      "Estados Unidos": 12,
+      "Australia": 16
+    },
+    "fueras_de_juego": {
+      "Estados Unidos": 1,
+      "Australia": 0
+    },
+    "paradas_del_portero": {
+      "Estados Unidos": 2,
+      "Australia": 0
+    }
+  },
+  "tarjetas": {
+    "amarillas": [
+      {
+        "minuto": 16,
+        "jugador": "Jordan Bos",
+        "equipo": "Australia"
+      },
+      {
+        "minuto": 32,
+        "jugador": "Alessandro Circati",
+        "equipo": "Australia"
+      },
+      {
+        "minuto": 56,
+        "jugador": "Antonee Robinson",
+        "equipo": "Estados Unidos"
+      },
+      {
+        "minuto": 89,
+        "jugador": "Harry Souttar",
+        "equipo": "Australia"
+      },
+      {
+        "minuto": 89,
+        "jugador": "Folarin Balogun",
+        "equipo": "Estados Unidos"
+      },
+      {
+        "minuto": 89,
+        "jugador": "Jacob Italiano",
+        "equipo": "Australia"
+      },
+      {
+        "minuto": 90,
+        "jugador": "Chris Richards",
+        "equipo": "Estados Unidos",
+        "nota": "Minuto 90+3'"
+      }
+    ],
+    "rojas": [],
+    "resumen": {
+      "Estados Unidos": {
+        "amarillas": 3,
+        "rojas": 0
+      },
+      "Australia": {
+        "amarillas": 4,
+        "rojas": 0
+      }
+    }
+  },
+  "records_o_notas": [
+    "Estados Unidos aseguró su clasificación a los octavos de final como líder del Grupo D con 6 puntos",
+    "Alex Freeman anotó su primer gol en un Mundial y fue la figura del partido con 8.5 de calificación",
+    "Estados Unidos dominó el partido con un 62% de posesión y 10 tiros totales",
+    "El autogol de Cameron Burgess al minuto 11 abrió el marcador para Estados Unidos",
+    "Estados Unidos realizó 7 corners, mientras que Australia tuvo 4",
+    "El partido se disputó ante 66,925 espectadores en el Seattle Stadium",
+    "Hubo 7 tarjetas amarillas en total (3 para Estados Unidos y 4 para Australia), pero ninguna roja"
+  ]
+}

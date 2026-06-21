@@ -1,0 +1,104 @@
+{
+  "partido": {
+    "equipo_local": "Escocia",
+    "equipo_visitante": "Marruecos",
+    "goles_local": 0,
+    "goles_visitante": 1,
+    "estadio": "Boston Stadium",
+    "fase": "Fase de Grupos - Grupo C",
+    "fecha": "2026-06-19"
+  },
+  "goleadores": [
+    {
+      "minuto": 2,
+      "jugador": "Ismael Saibari",
+      "equipo": "Marruecos"
+    }
+  ],
+  "estadisticas_generales": {
+    "posesion_porcentaje": {
+      "Escocia": 41,
+      "Marruecos": 59
+    },
+    "tiros_totales": {
+      "Escocia": 6,
+      "Marruecos": 12
+    },
+    "tiros_a_puerta": {
+      "Escocia": 0,
+      "Marruecos": 2
+    },
+    "tiros_fuera": {
+      "Escocia": 3,
+      "Marruecos": 6
+    },
+    "tiros_bloqueados": {
+      "Escocia": 3,
+      "Marruecos": 4
+    },
+    "goles_esperados_xG": {
+      "Escocia": 0.51,
+      "Marruecos": 0.99
+    },
+    "pases_completados": {
+      "Escocia": 388,
+      "Marruecos": 600
+    },
+    "precision_pases_porcentaje": {
+      "Escocia": 85,
+      "Marruecos": 90
+    }
+  },
+  "estadisticas_especificas": {
+    "corners": {
+      "Escocia": 2,
+      "Marruecos": 5
+    },
+    "faltas_cometidas": {
+      "Escocia": 11,
+      "Marruecos": 8
+    },
+    "fueras_de_juego": {
+      "Escocia": 1,
+      "Marruecos": 0
+    },
+    "paradas_del_portero": {
+      "Escocia": 1,
+      "Marruecos": 0
+    }
+  },
+  "tarjetas": {
+    "amarillas": [
+      {
+        "minuto": 22,
+        "jugador": "Issa Diop",
+        "equipo": "Marruecos"
+      },
+      {
+        "minuto": 65,
+        "jugador": "Andrew Robertson",
+        "equipo": "Escocia"
+      }
+    ],
+    "rojas": [],
+    "resumen": {
+      "Escocia": {
+        "amarillas": 1,
+        "rojas": 0
+      },
+      "Marruecos": {
+        "amarillas": 1,
+        "rojas": 0
+      }
+    }
+  },
+  "records_o_notas": [
+    "Marruecos consiguió su primera victoria en el Grupo C gracias a un gol tempranero de Ismael Saibari al minuto 2",
+    "Marruecos dominó el partido con un 59% de posesión y 12 tiros totales, frente al 41% y 6 tiros de Escocia",
+    "Escocia no logró ningún tiro a puerta en todo el partido, lo que refleja la solidez defensiva marroquí",
+    "El xG de Marruecos (0.99) fue superior al de Escocia (0.51), reflejando su mayor peligrosidad ofensiva",
+    "Ambos equipos recibieron una tarjeta amarilla (Issa Diop para Marruecos y Andrew Robertson para Escocia)",
+    "El partido se disputó ante 64,146 espectadores en el Boston Stadium",
+    "Con este resultado, Marruecos se posicionó como líder del Grupo C con 4 puntos, mientras que Escocia quedó eliminada"
+  ]
+}

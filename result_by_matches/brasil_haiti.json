@@ -1,0 +1,127 @@
+{
+  "partido": {
+    "equipo_local": "Brasil",
+    "equipo_visitante": "Haiti",
+    "goles_local": 3,
+    "goles_visitante": 0,
+    "estadio": "Philadelphia Stadium",
+    "fase": "Fase de Grupos - Grupo C",
+    "fecha": "2026-06-19"
+  },
+  "goleadores": [
+    {
+      "minuto": 23,
+      "jugador": "Matheus Cunha",
+      "equipo": "Brasil"
+    },
+    {
+      "minuto": 36,
+      "jugador": "Matheus Cunha",
+      "equipo": "Brasil"
+    },
+    {
+      "minuto": 45,
+      "jugador": "Vinicius Júnior",
+      "equipo": "Brasil",
+      "nota": "Minuto 45+3'"
+    }
+  ],
+  "estadisticas_generales": {
+    "posesion_porcentaje": {
+      "Brasil": 57,
+      "Haiti": 43
+    },
+    "tiros_totales": {
+      "Brasil": 8,
+      "Haiti": 7
+    },
+    "tiros_a_puerta": {
+      "Brasil": 5,
+      "Haiti": 3
+    },
+    "tiros_fuera": {
+      "Brasil": 2,
+      "Haiti": 3
+    },
+    "tiros_bloqueados": {
+      "Brasil": 1,
+      "Haiti": 1
+    },
+    "goles_esperados_xG": {
+      "Brasil": 1.75,
+      "Haiti": 0.23
+    },
+    "pases_completados": {
+      "Brasil": 462,
+      "Haiti": 332
+    },
+    "precision_pases_porcentaje": {
+      "Brasil": 88,
+      "Haiti": 83
+    }
+  },
+  "estadisticas_especificas": {
+    "corners": {
+      "Brasil": 4,
+      "Haiti": 4
+    },
+    "faltas_cometidas": {
+      "Brasil": 13,
+      "Haiti": 14
+    },
+    "fueras_de_juego": {
+      "Brasil": 8,
+      "Haiti": 4
+    },
+    "paradas_del_portero": {
+      "Brasil": 3,
+      "Haiti": 2
+    }
+  },
+  "tarjetas": {
+    "amarillas": [
+      {
+        "minuto": 4,
+        "jugador": "Carlens Arcus",
+        "equipo": "Haiti"
+      },
+      {
+        "minuto": 45,
+        "jugador": "Frantzdy Pierrot",
+        "equipo": "Haiti",
+        "nota": "Minuto 45+4'"
+      },
+      {
+        "minuto": 65,
+        "jugador": "Douglas Santos",
+        "equipo": "Brasil"
+      },
+      {
+        "minuto": 72,
+        "jugador": "Danley Jean Jacques",
+        "equipo": "Haiti"
+      }
+    ],
+    "rojas": [],
+    "resumen": {
+      "Brasil": {
+        "amarillas": 1,
+        "rojas": 0
+      },
+      "Haiti": {
+        "amarillas": 3,
+        "rojas": 0
+      }
+    }
+  },
+  "records_o_notas": [
+    "Brasil aseguró su clasificación a los octavos de final como lider del Grupo C con 6 puntos",
+    "Matheus Cunha fue la figura del partido con un doblete (minutos 23 y 36) y una calificación de 8.9",
+    "Vinicius Júnior anotó el tercer gol en el tiempo añadido del primer tiempo (45+3')",
+    "Brasil dominó la posesión con un 57% frente al 43% de Haiti",
+    "A pesar de la victoria, Brasil solo realizó 8 tiros totales, mientras que Haiti tuvo 7",
+    "El xG de Brasil (1.75) fue significativamente mayor que el de Haiti (0.23), reflejando la calidad de las oportunidades",
+    "Haiti recibió 3 tarjetas amarillas, mientras que Brasil recibió 1",
+    "El partido se disputó ante 68,324 espectadores en el Philadelphia Stadium"
+  ]
+}

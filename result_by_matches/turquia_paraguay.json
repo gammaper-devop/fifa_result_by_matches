@@ -1,0 +1,118 @@
+{
+  "partido": {
+    "equipo_local": "Turquia",
+    "equipo_visitante": "Paraguay",
+    "goles_local": 0,
+    "goles_visitante": 1,
+    "estadio": "San Francisco Bay Area Stadium",
+    "fase": "Fase de Grupos - Grupo D",
+    "fecha": "2026-06-19"
+  },
+  "goleadores": [
+    {
+      "minuto": 2,
+      "jugador": "Matias Galarza",
+      "equipo": "Paraguay"
+    }
+  ],
+  "estadisticas_generales": {
+    "posesion_porcentaje": {
+      "Turquia": 78,
+      "Paraguay": 22
+    },
+    "tiros_totales": {
+      "Turquia": 32,
+      "Paraguay": 7
+    },
+    "tiros_a_puerta": {
+      "Turquia": 5,
+      "Paraguay": 2
+    },
+    "tiros_fuera": {
+      "Turquia": 15,
+      "Paraguay": 3
+    },
+    "tiros_bloqueados": {
+      "Turquia": 12,
+      "Paraguay": 2
+    },
+    "goles_esperados_xG": {
+      "Turquia": 2.17,
+      "Paraguay": 0.32
+    },
+    "pases_completados": {
+      "Turquia": 559,
+      "Paraguay": 96
+    },
+    "precision_pases_porcentaje": {
+      "Turquia": 89,
+      "Paraguay": 54
+    }
+  },
+  "estadisticas_especificas": {
+    "corners": {
+      "Turquia": 12,
+      "Paraguay": 0
+    },
+    "faltas_cometidas": {
+      "Turquia": 14,
+      "Paraguay": 15
+    },
+    "fueras_de_juego": {
+      "Turquia": 2,
+      "Paraguay": 3
+    },
+    "paradas_del_portero": {
+      "Turquia": 1,
+      "Paraguay": 5
+    }
+  },
+  "tarjetas": {
+    "amarillas": [
+      {
+        "minuto": 4,
+        "jugador": "Matias Galarza",
+        "equipo": "Paraguay"
+      },
+      {
+        "minuto": 63,
+        "jugador": "Vincenzo Montella",
+        "equipo": "Turquia",
+        "nota": "Amonestación al entrenador"
+      },
+      {
+        "minuto": 71,
+        "jugador": "Eren Elmali",
+        "equipo": "Turquia"
+      }
+    ],
+    "rojas": [
+      {
+        "minuto": 45,
+        "jugador": "Miguel Almirón",
+        "equipo": "Paraguay",
+        "tipo": "roja_directa",
+        "nota": "Minuto 45+3'"
+      }
+    ],
+    "resumen": {
+      "Turquia": {
+        "amarillas": 2,
+        "rojas": 0
+      },
+      "Paraguay": {
+        "amarillas": 1,
+        "rojas": 1
+      }
+    }
+  },
+  "records_o_notas": [
+    "Paraguay logró una victoria histórica con un gol tempranero de Matias Galarza al minuto 2, a pesar de jugar con 10 hombres desde el minuto 45+3'",
+    "Turquia dominó completamente el partido con un 78% de posesión y 32 tiros totales, pero no logró concretar sus oportunidades",
+    "El portero paraguayo Orlando Gill fue la figura del partido con 8.3 de calificación, realizando 5 paradas clave",
+    "Turquia tuvo 12 corners, mientras que Paraguay no tuvo ninguno, reflejando el dominio territorial turco",
+    "El xG de Turquia (2.17) fue significativamente mayor que el de Paraguay (0.32), pero la efectividad paraguaya fue determinante",
+    "El partido se disputó ante 68,827 espectadores en el San Francisco Bay Area Stadium",
+    "Con este resultado, Turquia quedó eliminada del Mundial, mientras que Paraguay mantuvo sus opciones de clasificación"
+  ]
+}
