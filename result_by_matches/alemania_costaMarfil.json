@@ -1,0 +1,106 @@
+{
+  "partido": {
+    "equipo_local": "Alemania",
+    "equipo_visitante": "Costa de Marfil",
+    "goles_local": 2,
+    "goles_visitante": 1,
+    "estadio": "Toronto Stadium",
+    "fase": "Fase de Grupos - Grupo E",
+    "fecha": "2026-06-20"
+  },
+  "goleadores": [
+    {
+      "minuto": 30,
+      "jugador": "Franck Kessié",
+      "equipo": "Costa de Marfil"
+    },
+    {
+      "minuto": 68,
+      "jugador": "Deniz Undav",
+      "equipo": "Alemania"
+    },
+    {
+      "minuto": 90,
+      "jugador": "Deniz Undav",
+      "equipo": "Alemania",
+      "nota": "Minuto 90+4'"
+    }
+  ],
+  "estadisticas_generales": {
+    "posesion_porcentaje": {
+      "Alemania": 60,
+      "Costa de Marfil": 40
+    },
+    "tiros_totales": {
+      "Alemania": 16,
+      "Costa de Marfil": 9
+    },
+    "tiros_a_puerta": {
+      "Alemania": 7,
+      "Costa de Marfil": 2
+    },
+    "tiros_fuera": {
+      "Alemania": 5,
+      "Costa de Marfil": 2
+    },
+    "tiros_bloqueados": {
+      "Alemania": 4,
+      "Costa de Marfil": 5
+    },
+    "goles_esperados_xG": {
+      "Alemania": 1.89,
+      "Costa de Marfil": 1.22
+    },
+    "pases_completados": {
+      "Alemania": 555,
+      "Costa de Marfil": 367
+    },
+    "precision_pases_porcentaje": {
+      "Alemania": 89,
+      "Costa de Marfil": 85
+    }
+  },
+  "estadisticas_especificas": {
+    "corners": {
+      "Alemania": 8,
+      "Costa de Marfil": 3
+    },
+    "faltas_cometidas": {
+      "Alemania": 5,
+      "Costa de Marfil": 7
+    },
+    "fueras_de_juego": {
+      "Alemania": 0,
+      "Costa de Marfil": 1
+    },
+    "paradas_del_portero": {
+      "Alemania": 1,
+      "Costa de Marfil": 5
+    }
+  },
+  "tarjetas": {
+    "amarillas": [],
+    "rojas": [],
+    "resumen": {
+      "Alemania": {
+        "amarillas": 0,
+        "rojas": 0
+      },
+      "Costa de Marfil": {
+        "amarillas": 0,
+        "rojas": 0
+      }
+    }
+  },
+  "records_o_notas": [
+    "Alemania aseguró su clasificación a los octavos de final como líder del Grupo E con 6 puntos",
+    "Deniz Undav fue la figura del partido con un doblete (minutos 68 y 90+4') y una calificación de 8.7, ingresando como sustituto al minuto 60",
+    "Costa de Marfil se adelantó en el marcador con un gol de Franck Kessié al minuto 30",
+    "Alemania dominó la posesión con un 60% frente al 40% de Costa de Marfil",
+    "Alemania realizó 16 tiros totales (7 a puerta), mientras que Costa de Marfil tuvo 9 tiros (2 a puerta)",
+    "El xG de Alemania (1.89) fue superior al de Costa de Marfil (1.22), reflejando el mayor peligro ofensivo alemán",
+    "El portero marfileño Yahia Fofana realizó 5 paradas para evitar un marcador más abultado",
+    "No hubo tarjetas amarillas ni rojas en este partido",
+    "El partido se disputó ante 43,036 espectadores en el Toronto Stadium"
+  ]
+}

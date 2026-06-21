@@ -1,0 +1,119 @@
+{
+  "partido": {
+    "equipo_local": "Ecuador",
+    "equipo_visitante": "Curazao",
+    "goles_local": 0,
+    "goles_visitante": 0,
+    "estadio": "Kansas City Stadium",
+    "fase": "Fase de Grupos - Grupo E",
+    "fecha": "2026-06-20"
+  },
+  "goleadores": [],
+  "estadisticas_generales": {
+    "posesion_porcentaje": {
+      "Ecuador": 75,
+      "Curazao": 25
+    },
+    "tiros_totales": {
+      "Ecuador": 27,
+      "Curazao": 10
+    },
+    "tiros_a_puerta": {
+      "Ecuador": 15,
+      "Curazao": 3
+    },
+    "tiros_fuera": {
+      "Ecuador": 10,
+      "Curazao": 4
+    },
+    "tiros_bloqueados": {
+      "Ecuador": 2,
+      "Curazao": 3
+    },
+    "goles_esperados_xG": {
+      "Ecuador": 3.05,
+      "Curazao": 0.48
+    },
+    "pases_completados": {
+      "Ecuador": 580,
+      "Curazao": 158
+    },
+    "precision_pases_porcentaje": {
+      "Ecuador": 90,
+      "Curazao": 70
+    }
+  },
+  "estadisticas_especificas": {
+    "corners": {
+      "Ecuador": 9,
+      "Curazao": 0
+    },
+    "faltas_cometidas": {
+      "Ecuador": 7,
+      "Curazao": 10
+    },
+    "fueras_de_juego": {
+      "Ecuador": 1,
+      "Curazao": 2
+    },
+    "paradas_del_portero": {
+      "Ecuador": 3,
+      "Curazao": 15
+    }
+  },
+  "tarjetas": {
+    "amarillas": [
+      {
+        "minuto": 38,
+        "jugador": "Jordy Alcívar",
+        "equipo": "Ecuador"
+      },
+      {
+        "minuto": 39,
+        "jugador": "Leandro Bacuna",
+        "equipo": "Curazao"
+      },
+      {
+        "minuto": 53,
+        "jugador": "Juninho Bacuna",
+        "equipo": "Curazao"
+      },
+      {
+        "minuto": 56,
+        "jugador": "Livano Comenencia",
+        "equipo": "Curazao"
+      },
+      {
+        "minuto": 75,
+        "jugador": "Juriën Gaari",
+        "equipo": "Curazao"
+      },
+      {
+        "minuto": 90,
+        "jugador": "Gervane Kastaneer",
+        "equipo": "Curazao",
+        "nota": "Minuto 90+1'"
+      }
+    ],
+    "rojas": [],
+    "resumen": {
+      "Ecuador": {
+        "amarillas": 1,
+        "rojas": 0
+      },
+      "Curazao": {
+        "amarillas": 5,
+        "rojas": 0
+      }
+    }
+  },
+  "records_o_notas": [
+    "Curazao consiguió su primer punto en la historia de los Mundiales con este empate histórico",
+    "El portero de Curazao, Eloy Room, fue la figura del partido con una calificación de 9.4 y realizó 15 paradas, estableciendo un récord en la historia de los Mundiales",
+    "Ecuador dominó completamente el partido con un 75% de posesión y 27 tiros totales, pero no logró concretar sus oportunidades",
+    "El xG de Ecuador (3.05) fue significativamente mayor que el de Curazao (0.48), reflejando la superioridad ecuatoriana",
+    "Ecuador tuvo 9 corners, mientras que Curazao no tuvo ninguno",
+    "El partido se disputó ante 68,598 espectadores en el Kansas City Stadium",
+    "Curazao recibió 5 tarjetas amarillas, mientras que Ecuador recibió 1"
+  ]
+}

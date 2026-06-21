@@ -1,0 +1,135 @@
+{
+  "partido": {
+    "equipo_local": "Paises Bajos",
+    "equipo_visitante": "Suecia",
+    "goles_local": 5,
+    "goles_visitante": 1,
+    "estadio": "Houston Stadium",
+    "fase": "Fase de Grupos - Grupo F",
+    "fecha": "2026-06-20"
+  },
+  "goleadores": [
+    {
+      "minuto": 5,
+      "jugador": "Brian Brobbey",
+      "equipo": "Paises Bajos"
+    },
+    {
+      "minuto": 17,
+      "jugador": "Brian Brobbey",
+      "equipo": "Paises Bajos"
+    },
+    {
+      "minuto": 47,
+      "jugador": "Cody Gakpo",
+      "equipo": "Paises Bajos"
+    },
+    {
+      "minuto": 54,
+      "jugador": "Cody Gakpo",
+      "equipo": "Paises Bajos"
+    },
+    {
+      "minuto": 59,
+      "jugador": "Anthony Elanga",
+      "equipo": "Suecia"
+    },
+    {
+      "minuto": 89,
+      "jugador": "Crysencio Summerville",
+      "equipo": "Paises Bajos"
+    }
+  ],
+  "estadisticas_generales": {
+    "posesion_porcentaje": {
+      "Paises Bajos": 51,
+      "Suecia": 49
+    },
+    "tiros_totales": {
+      "Paises Bajos": 10,
+      "Suecia": 16
+    },
+    "tiros_a_puerta": {
+      "Paises Bajos": 7,
+      "Suecia": 8
+    },
+    "tiros_fuera": {
+      "Paises Bajos": 2,
+      "Suecia": 5
+    },
+    "tiros_bloqueados": {
+      "Paises Bajos": 1,
+      "Suecia": 3
+    },
+    "goles_esperados_xG": {
+      "Paises Bajos": 2.61,
+      "Suecia": 1.01
+    },
+    "pases_completados": {
+      "Paises Bajos": 398,
+      "Suecia": 361
+    },
+    "precision_pases_porcentaje": {
+      "Paises Bajos": 89,
+      "Suecia": 85
+    }
+  },
+  "estadisticas_especificas": {
+    "corners": {
+      "Paises Bajos": 2,
+      "Suecia": 5
+    },
+    "faltas_cometidas": {
+      "Paises Bajos": 9,
+      "Suecia": 12
+    },
+    "fueras_de_juego": {
+      "Paises Bajos": 3,
+      "Suecia": 3
+    },
+    "paradas_del_portero": {
+      "Paises Bajos": 7,
+      "Suecia": 2
+    }
+  },
+  "tarjetas": {
+    "amarillas": [
+      {
+        "minuto": 53,
+        "jugador": "Gabriel Gudmundsson",
+        "equipo": "Suecia"
+      },
+      {
+        "minuto": 75,
+        "jugador": "Yasin Ayari",
+        "equipo": "Suecia"
+      },
+      {
+        "minuto": 80,
+        "jugador": "Lucas Bergvall",
+        "equipo": "Suecia"
+      }
+    ],
+    "rojas": [],
+    "resumen": {
+      "Paises Bajos": {
+        "amarillas": 0,
+        "rojas": 0
+      },
+      "Suecia": {
+        "amarillas": 3,
+        "rojas": 0
+      }
+    }
+  },
+  "records_o_notas": [
+    "Paises Bajos logró una contundente victoria con dobletes de Brian Brobbey (minutos 5 y 17) y Cody Gakpo (minutos 47 y 54)",
+    "Cody Gakpo fue la figura del partido con una calificación de 9.3, anotando dos goles y dando una asistencia",
+    "A pesar de la derrota, Suecia realizó más tiros totales (16) que Paises Bajos (10) y más tiros a puerta (8 contra 7)",
+    "El xG de Paises Bajos (2.61) fue superior al de Suecia (1.01), reflejando la mayor calidad de las oportunidades neerlandesas",
+    "El portero neerlandés Bart Verbruggen realizó 7 paradas, siendo clave para mantener la ventaja",
+    "Suecia recibió 3 tarjetas amarillas, mientras que Paises Bajos no recibió ninguna amonestación",
+    "El partido se disputó ante 68,777 espectadores en el Houston Stadium",
+    "Con este resultado, Paises Bajos se colocó como lider del Grupo F con 6 puntos"
+  ]
+}
