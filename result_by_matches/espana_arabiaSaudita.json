@@ -1,0 +1,121 @@
+{
+  "partido": {
+    "equipo_local": "España",
+    "equipo_visitante": "Arabia Saudita",
+    "goles_local": 4,
+    "goles_visitante": 0,
+    "estadio": "Atlanta Stadium",
+    "fase": "Fase de Grupos - Grupo H",
+    "fecha": "2026-06-21"
+  },
+  "goleadores": [
+    {
+      "minuto": 10,
+      "jugador": "Lamine Yamal",
+      "equipo": "España"
+    },
+    {
+      "minuto": 21,
+      "jugador": "Mikel Oyarzabal",
+      "equipo": "España"
+    },
+    {
+      "minuto": 24,
+      "jugador": "Mikel Oyarzabal",
+      "equipo": "España"
+    },
+    {
+      "minuto": 49,
+      "jugador": "Hassan Al Tambakti",
+      "equipo": "España",
+      "nota": "Autogol"
+    }
+  ],
+  "estadisticas_generales": {
+    "posesion_porcentaje": {
+      "España": 67,
+      "Arabia Saudita": 33
+    },
+    "tiros_totales": {
+      "España": 22,
+      "Arabia Saudita": 3
+    },
+    "tiros_a_puerta": {
+      "España": 8,
+      "Arabia Saudita": 1
+    },
+    "tiros_fuera": {
+      "España": 12,
+      "Arabia Saudita": 1
+    },
+    "tiros_bloqueados": {
+      "España": 2,
+      "Arabia Saudita": 1
+    },
+    "goles_esperados_xG": {
+      "España": 2.30,
+      "Arabia Saudita": 0.14
+    },
+    "pases_completados": {
+      "España": 668,
+      "Arabia Saudita": 294
+    },
+    "precision_pases_porcentaje": {
+      "España": 92,
+      "Arabia Saudita": 81
+    }
+  },
+  "estadisticas_especificas": {
+    "corners": {
+      "España": 6,
+      "Arabia Saudita": 1
+    },
+    "faltas_cometidas": {
+      "España": 10,
+      "Arabia Saudita": 2
+    },
+    "fueras_de_juego": {
+      "España": 2,
+      "Arabia Saudita": 3
+    },
+    "paradas_del_portero": {
+      "España": 1,
+      "Arabia Saudita": 5
+    }
+  },
+  "tarjetas": {
+    "amarillas": [
+      {
+        "minuto": 30,
+        "jugador": "Salem Al-Dawsari",
+        "equipo": "Arabia Saudita"
+      },
+      {
+        "minuto": 60,
+        "jugador": "Mohamed Kanno",
+        "equipo": "Arabia Saudita"
+      }
+    ],
+    "rojas": [],
+    "resumen": {
+      "España": {
+        "amarillas": 0,
+        "rojas": 0
+      },
+      "Arabia Saudita": {
+        "amarillas": 2,
+        "rojas": 0
+      }
+    }
+  },
+  "records_o_notas": [
+    "España aseguró su clasificación a los octavos de final con una contundente victoria por 4-0 sobre Arabia Saudita",
+    "Mikel Oyarzabal fue la figura del partido con un doblete (minutos 21 y 24) y una calificación de 9.3",
+    "Lamine Yamal, con 18 años, se convirtió en el goleador más joven de España en un Mundial al marcar al minuto 10",
+    "España dominó completamente el partido con un 67% de posesión y 22 tiros totales",
+    "El xG de España (2.30) fue significativamente mayor que el de Arabia Saudita (0.14)",
+    "Arabia Saudita recibió dos tarjetas amarillas (Salem Al-Dawsari y Mohamed Kanno), mientras que España no tuvo amonestaciones",
+    "El partido se disputó ante 68,239 espectadores en el Atlanta Stadium",
+    "Con este resultado, España lidera el Grupo H con 6 puntos, mientras que Arabia Saudita quedó eliminada del Mundial"
+  ]
+}

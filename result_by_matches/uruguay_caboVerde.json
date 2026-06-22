@@ -1,0 +1,133 @@
+{
+  "partido": {
+    "equipo_local": "Uruguay",
+    "equipo_visitante": "Cabo Verde",
+    "goles_local": 2,
+    "goles_visitante": 2,
+    "estadio": "Miami Stadium",
+    "fase": "Fase de Grupos - Grupo H",
+    "fecha": "2026-06-21"
+  },
+  "goleadores": [
+    {
+      "minuto": 21,
+      "jugador": "Kevin Pina",
+      "equipo": "Cabo Verde"
+    },
+    {
+      "minuto": 44,
+      "jugador": "Maxi Araújo",
+      "equipo": "Uruguay"
+    },
+    {
+      "minuto": 45,
+      "jugador": "Agustín Canobbio",
+      "equipo": "Uruguay",
+      "nota": "Minuto 45+6'"
+    },
+    {
+      "minuto": 61,
+      "jugador": "Hélio Varela",
+      "equipo": "Cabo Verde"
+    }
+  ],
+  "estadisticas_generales": {
+    "posesion_porcentaje": {
+      "Uruguay": 65,
+      "Cabo Verde": 35
+    },
+    "tiros_totales": {
+      "Uruguay": 17,
+      "Cabo Verde": 12
+    },
+    "tiros_a_puerta": {
+      "Uruguay": 2,
+      "Cabo Verde": 4
+    },
+    "tiros_fuera": {
+      "Uruguay": 8,
+      "Cabo Verde": 4
+    },
+    "tiros_bloqueados": {
+      "Uruguay": 7,
+      "Cabo Verde": 4
+    },
+    "goles_esperados_xG": {
+      "Uruguay": 2.32,
+      "Cabo Verde": 0.88
+    },
+    "pases_completados": {
+      "Uruguay": 420,
+      "Cabo Verde": 205
+    },
+    "precision_pases_porcentaje": {
+      "Uruguay": 82,
+      "Cabo Verde": 74
+    }
+  },
+  "estadisticas_especificas": {
+    "corners": {
+      "Uruguay": 11,
+      "Cabo Verde": 4
+    },
+    "faltas_cometidas": {
+      "Uruguay": 11,
+      "Cabo Verde": 4
+    },
+    "fueras_de_juego": {
+      "Uruguay": 3,
+      "Cabo Verde": 0
+    },
+    "paradas_del_portero": {
+      "Uruguay": 2,
+      "Cabo Verde": 0
+    }
+  },
+  "tarjetas": {
+    "amarillas": [
+      {
+        "minuto": 5,
+        "jugador": "Sidny Lopes Cabral",
+        "equipo": "Cabo Verde"
+      },
+      {
+        "minuto": 20,
+        "jugador": "Rodrigo Bentancur",
+        "equipo": "Uruguay"
+      },
+      {
+        "minuto": 58,
+        "jugador": "Mathías Olivera",
+        "equipo": "Uruguay"
+      },
+      {
+        "minuto": 90,
+        "jugador": "Diney Borges",
+        "equipo": "Cabo Verde",
+        "nota": "Minuto 90+3'"
+      }
+    ],
+    "rojas": [],
+    "resumen": {
+      "Uruguay": {
+        "amarillas": 2,
+        "rojas": 0
+      },
+      "Cabo Verde": {
+        "amarillas": 2,
+        "rojas": 0
+      }
+    }
+  },
+  "records_o_notas": [
+    "Cabo Verde consiguió un empate histórico ante Uruguay, sumando su primer punto en la historia de los Mundiales",
+    "Kevin Pina anotó el primer gol de Cabo Verde en una Copa del Mundo al minuto 21",
+    "Uruguay dominó la posesión con un 65% frente al 35% de Cabo Verde",
+    "Uruguay realizó más tiros totales (17) que Cabo Verde (12), pero Cabo Verde tuvo más tiros a puerta (4 contra 2)",
+    "El xG de Uruguay (2.32) fue superior al de Cabo Verde (0.88)",
+    "Uruguay tuvo 11 corners, mientras que Cabo Verde tuvo 4",
+    "Ambos equipos recibieron 2 tarjetas amarillas cada uno",
+    "El partido se disputó ante 64,003 espectadores en el Miami Stadium",
+    "Uruguay contó con las bajas por lesión de Ronald Araujo y Giorgian De Arrascaeta"
+  ]
+}

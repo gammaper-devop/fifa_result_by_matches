@@ -1,0 +1,125 @@
+{
+  "partido": {
+    "equipo_local": "Nueva Zelanda",
+    "equipo_visitante": "Egipto",
+    "goles_local": 1,
+    "goles_visitante": 3,
+    "estadio": "BC Place Vancouver",
+    "fase": "Fase de Grupos - Grupo G",
+    "fecha": "2026-06-21"
+  },
+  "goleadores": [
+    {
+      "minuto": 15,
+      "jugador": "Finn Surman",
+      "equipo": "Nueva Zelanda"
+    },
+    {
+      "minuto": 58,
+      "jugador": "Mostafa Ziko",
+      "equipo": "Egipto"
+    },
+    {
+      "minuto": 67,
+      "jugador": "Mohamed Salah",
+      "equipo": "Egipto"
+    },
+    {
+      "minuto": 82,
+      "jugador": "Trezeguet",
+      "equipo": "Egipto"
+    }
+  ],
+  "estadisticas_generales": {
+    "posesion_porcentaje": {
+      "Nueva Zelanda": 44,
+      "Egipto": 56
+    },
+    "tiros_totales": {
+      "Nueva Zelanda": 11,
+      "Egipto": 19
+    },
+    "tiros_a_puerta": {
+      "Nueva Zelanda": 5,
+      "Egipto": 7
+    },
+    "tiros_fuera": {
+      "Nueva Zelanda": 3,
+      "Egipto": 6
+    },
+    "tiros_bloqueados": {
+      "Nueva Zelanda": 3,
+      "Egipto": 6
+    },
+    "goles_esperados_xG": {
+      "Nueva Zelanda": 1.24,
+      "Egipto": 1.87
+    },
+    "pases_completados": {
+      "Nueva Zelanda": 337,
+      "Egipto": 460
+    },
+    "precision_pases_porcentaje": {
+      "Nueva Zelanda": 80,
+      "Egipto": 87
+    }
+  },
+  "estadisticas_especificas": {
+    "corners": {
+      "Nueva Zelanda": 4,
+      "Egipto": 3
+    },
+    "faltas_cometidas": {
+      "Nueva Zelanda": 14,
+      "Egipto": 8
+    },
+    "fueras_de_juego": {
+      "Nueva Zelanda": 3,
+      "Egipto": 0
+    },
+    "paradas_del_portero": {
+      "Nueva Zelanda": 4,
+      "Egipto": 4
+    }
+  },
+  "tarjetas": {
+    "amarillas": [
+      {
+        "minuto": 17,
+        "jugador": "Mohanad Lasheen",
+        "equipo": "Egipto"
+      },
+      {
+        "minuto": 20,
+        "jugador": "Sarpreet Singh",
+        "equipo": "Nueva Zelanda"
+      },
+      {
+        "minuto": 34,
+        "jugador": "Callum McCowatt",
+        "equipo": "Nueva Zelanda"
+      }
+    ],
+    "rojas": [],
+    "resumen": {
+      "Nueva Zelanda": {
+        "amarillas": 2,
+        "rojas": 0
+      },
+      "Egipto": {
+        "amarillas": 1,
+        "rojas": 0
+      }
+    }
+  },
+  "records_o_notas": [
+    "Egipto consiguió su primera victoria en la historia de los Mundiales con una remontada ante Nueva Zelanda ",
+    "Mohamed Salah fue la figura del partido con un gol y una calificación de 8.9, liderando la remontada egipcia ",
+    "Nueva Zelanda se adelantó tempranamente con un gol de Finn Surman al minuto 15, pero no pudo mantener la ventaja ",
+    "Egipto dominó la posesión con un 56% frente al 44% de Nueva Zelanda ",
+    "Egipto realizó más tiros totales (19) que Nueva Zelanda (11) y más tiros a puerta (7 contra 5) ",
+    "El xG de Egipto (1.87) fue superior al de Nueva Zelanda (1.24) ",
+    "El partido se disputó ante 52,497 espectadores en el BC Place Vancouver ",
+    "Con este resultado, Egipto se colocó como líder del Grupo G con 4 puntos "
+  ]
+}

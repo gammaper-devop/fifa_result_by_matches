@@ -1,0 +1,106 @@
+{
+  "partido": {
+    "equipo_local": "Belgica",
+    "equipo_visitante": "Iran",
+    "goles_local": 0,
+    "goles_visitante": 0,
+    "estadio": "Los Angeles Stadium",
+    "fase": "Fase de Grupos - Grupo G",
+    "fecha": "2026-06-21"
+  },
+  "goleadores": [],
+  "estadisticas_generales": {
+    "posesion_porcentaje": {
+      "Belgica": 70,
+      "Iran": 30
+    },
+    "tiros_totales": {
+      "Belgica": 23,
+      "Iran": 7
+    },
+    "tiros_a_puerta": {
+      "Belgica": 7,
+      "Iran": 3
+    },
+    "tiros_fuera": {
+      "Belgica": 10,
+      "Iran": 3
+    },
+    "tiros_bloqueados": {
+      "Belgica": 6,
+      "Iran": 1
+    },
+    "goles_esperados_xG": {
+      "Belgica": 1.79,
+      "Iran": 0.62
+    },
+    "pases_completados": {
+      "Belgica": 533,
+      "Iran": 198
+    },
+    "precision_pases_porcentaje": {
+      "Belgica": 86,
+      "Iran": 73
+    }
+  },
+  "estadisticas_especificas": {
+    "corners": {
+      "Belgica": 4,
+      "Iran": 2
+    },
+    "faltas_cometidas": {
+      "Belgica": 7,
+      "Iran": 9
+    },
+    "fueras_de_juego": {
+      "Belgica": 3,
+      "Iran": 4
+    },
+    "paradas_del_portero": {
+      "Belgica": 3,
+      "Iran": 7
+    }
+  },
+  "tarjetas": {
+    "amarillas": [
+      {
+        "minuto": 3,
+        "jugador": "Romelu Lukaku",
+        "equipo": "Belgica"
+      },
+      {
+        "minuto": 33,
+        "jugador": "Saeid Ezatolahi",
+        "equipo": "Iran"
+      }
+    ],
+    "rojas": [
+      {
+        "minuto": 66,
+        "jugador": "Nathan Ngoy",
+        "equipo": "Belgica",
+        "tipo": "roja_directa"
+      }
+    ],
+    "resumen": {
+      "Belgica": {
+        "amarillas": 1,
+        "rojas": 1
+      },
+      "Iran": {
+        "amarillas": 1,
+        "rojas": 0
+      }
+    }
+  },
+  "records_o_notas": [
+    "Belgica dominó ampliamente con un 70% de posesión y 23 tiros totales, pero no logró concretar sus oportunidades",
+    "El portero iraní Alireza Beiranvand fue la figura del partido con una calificación de 9.1 y realizó 7 paradas clave",
+    "Belgica jugó con 10 hombres desde el minuto 66 por la expulsión directa de Nathan Ngoy",
+    "El xG de Belgica (1.79) fue superior al de Iran (0.62), reflejando la superioridad belga",
+    "Belgica tuvo 4 corners, mientras que Iran tuvo 2",
+    "Ambos equipos recibieron una tarjeta amarilla (Romelu Lukaku para Belgica y Saeid Ezatolahi para Iran)",
+    "El partido se disputó ante 70,317 espectadores en el Los Angeles Stadium",
+    "Belgica sufrió las bajas por lesión de Jeremy Doku y Zeno Debast"
+  ]
+}
