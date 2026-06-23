@@ -1,0 +1,109 @@
+{
+  "partido": {
+    "equipo_local": "Francia",
+    "equipo_visitante": "Irak",
+    "goles_local": 3,
+    "goles_visitante": 0,
+    "estadio": "Philadelphia Stadium",
+    "fase": "Fase de Grupos - Grupo I",
+    "fecha": "2026-06-22"
+  },
+  "goleadores": [
+    {
+      "minuto": 14,
+      "jugador": "Kylian Mbappé",
+      "equipo": "Francia"
+    },
+    {
+      "minuto": 54,
+      "jugador": "Kylian Mbappé",
+      "equipo": "Francia"
+    },
+    {
+      "minuto": 66,
+      "jugador": "Ousmane Dembélé",
+      "equipo": "Francia"
+    }
+  ],
+  "estadisticas_generales": {
+    "posesion_porcentaje": {
+      "Francia": 56,
+      "Irak": 44
+    },
+    "tiros_totales": {
+      "Francia": 19,
+      "Irak": 4
+    },
+    "tiros_a_puerta": {
+      "Francia": 5,
+      "Irak": 0
+    },
+    "tiros_fuera": {
+      "Francia": 10,
+      "Irak": 3
+    },
+    "tiros_bloqueados": {
+      "Francia": 4,
+      "Irak": 1
+    },
+    "goles_esperados_xG": {
+      "Francia": 2.67,
+      "Irak": 0.63
+    },
+    "pases_completados": {
+      "Francia": 540,
+      "Irak": 413
+    },
+    "precision_pases_porcentaje": {
+      "Francia": 90,
+      "Irak": 86
+    }
+  },
+  "estadisticas_especificas": {
+    "corners": {
+      "Francia": 4,
+      "Irak": 2
+    },
+    "faltas_cometidas": {
+      "Francia": 8,
+      "Irak": 4
+    },
+    "fueras_de_juego": {
+      "Francia": 1,
+      "Irak": 0
+    },
+    "paradas_del_portero": {
+      "Francia": 0,
+      "Irak": 2
+    }
+  },
+  "tarjetas": {
+    "amarillas": [
+      {
+        "minuto": 6,
+        "jugador": "Amir Al-Ammari",
+        "equipo": "Irak"
+      }
+    ],
+    "rojas": [],
+    "resumen": {
+      "Francia": {
+        "amarillas": 0,
+        "rojas": 0
+      },
+      "Irak": {
+        "amarillas": 1,
+        "rojas": 0
+      }
+    }
+  },
+  "records_o_notas": [
+    "Francia aseguró su clasificación a los octavos de final como líder del Grupo I con 6 puntos",
+    "Kylian Mbappé fue la figura del partido con un doblete (minutos 14 y 54) y una calificación de 9.2, en su partido número 100 con Francia",
+    "Mbappé alcanzó los 4 goles en el torneo, consolidándose como uno de los máximos goleadores del Mundial",
+    "Francia dominó el partido con un 56% de posesión y 19 tiros totales, mientras que Irak solo tuvo 4 tiros y ninguno a puerta",
+    "El xG de Francia (2.67) fue significativamente mayor que el de Irak (0.63)",
+    "Irak recibió una tarjeta amarilla (Amir Al-Ammari), mientras que Francia no tuvo amonestaciones",
+    "El partido se disputó ante 68,324 espectadores en el Philadelphia Stadium"
+  ]
+}

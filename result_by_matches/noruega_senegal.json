@@ -1,0 +1,114 @@
+{
+  "partido": {
+    "equipo_local": "Noruega",
+    "equipo_visitante": "Senegal",
+    "goles_local": 3,
+    "goles_visitante": 2,
+    "estadio": "New York New Jersey Stadium",
+    "fase": "Fase de Grupos - Grupo I",
+    "fecha": "2026-06-22"
+  },
+  "goleadores": [
+    {
+      "minuto": 43,
+      "jugador": "Marcus Holmgren Pedersen",
+      "equipo": "Noruega"
+    },
+    {
+      "minuto": 48,
+      "jugador": "Erling Haaland",
+      "equipo": "Noruega"
+    },
+    {
+      "minuto": 53,
+      "jugador": "Ismaïla Sarr",
+      "equipo": "Senegal"
+    },
+    {
+      "minuto": 58,
+      "jugador": "Erling Haaland",
+      "equipo": "Noruega"
+    },
+    {
+      "minuto": 90,
+      "jugador": "Ismaïla Sarr",
+      "equipo": "Senegal",
+      "nota": "Minuto 90+3'"
+    }
+  ],
+  "estadisticas_generales": {
+    "posesion_porcentaje": {
+      "Noruega": 42,
+      "Senegal": 58
+    },
+    "tiros_totales": {
+      "Noruega": 13,
+      "Senegal": 16
+    },
+    "tiros_a_puerta": {
+      "Noruega": 7,
+      "Senegal": 4
+    },
+    "tiros_fuera": {
+      "Noruega": 3,
+      "Senegal": 7
+    },
+    "tiros_bloqueados": {
+      "Noruega": 3,
+      "Senegal": 5
+    },
+    "goles_esperados_xG": {
+      "Noruega": 2.20,
+      "Senegal": 1.72
+    },
+    "pases_completados": {
+      "Noruega": 282,
+      "Senegal": 430
+    },
+    "precision_pases_porcentaje": {
+      "Noruega": 80,
+      "Senegal": 88
+    }
+  },
+  "estadisticas_especificas": {
+    "corners": {
+      "Noruega": 5,
+      "Senegal": 4
+    },
+    "faltas_cometidas": {
+      "Noruega": 13,
+      "Senegal": 5
+    },
+    "fueras_de_juego": {
+      "Noruega": 0,
+      "Senegal": 4
+    },
+    "paradas_del_portero": {
+      "Noruega": 2,
+      "Senegal": 3
+    }
+  },
+  "tarjetas": {
+    "amarillas": [],
+    "rojas": [],
+    "resumen": {
+      "Noruega": {
+        "amarillas": 0,
+        "rojas": 0
+      },
+      "Senegal": {
+        "amarillas": 0,
+        "rojas": 0
+      }
+    }
+  },
+  "records_o_notas": [
+    "Noruega aseguró su clasificación a los octavos de final con 6 puntos, igualando a Francia en el Grupo I",
+    "Erling Haaland fue la figura del partido con un doblete (minutos 48 y 58) y una calificación de 9.0, alcanzando los 4 goles en el torneo",
+    "Haaland se convirtió en el segundo jugador en los últimos 50 años en anotar dos goles en cada uno de sus dos primeros partidos mundialistas, después de Harry Kane en 2018",
+    "Marcus Holmgren Pedersen anotó en su debut mundialista, tras ingresar como sustituto en el minuto 13",
+    "El xG de Noruega (2.20) fue superior al de Senegal (1.72), reflejando la mayor peligrosidad ofensiva noruega",
+    "El partido se disputó ante 80,663 espectadores en el New York New Jersey Stadium",
+    "No hubo tarjetas amarillas ni rojas en este partido"
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "partido": {
+    "equipo_local": "Argentina",
+    "equipo_visitante": "Austria",
+    "goles_local": 2,
+    "goles_visitante": 0,
+    "estadio": "Dallas Stadium",
+    "fase": "Fase de Grupos - Grupo J",
+    "fecha": "2026-06-22"
+  },
+  "goleadores": [
+    {
+      "minuto": 38,
+      "jugador": "Lionel Messi",
+      "equipo": "Argentina"
+    },
+    {
+      "minuto": 90,
+      "jugador": "Lionel Messi",
+      "equipo": "Argentina",
+      "nota": "Minuto 90+5'"
+    }
+  ],
+  "estadisticas_generales": {
+    "posesion_porcentaje": {
+      "Argentina": 54,
+      "Austria": 46
+    },
+    "tiros_totales": {
+      "Argentina": 12,
+      "Austria": 6
+    },
+    "tiros_a_puerta": {
+      "Argentina": 5,
+      "Austria": 1
+    },
+    "tiros_fuera": {
+      "Argentina": 4,
+      "Austria": 5
+    },
+    "tiros_bloqueados": {
+      "Argentina": 3,
+      "Austria": 0
+    },
+    "goles_esperados_xG": {
+      "Argentina": 2.36,
+      "Austria": 0.53
+    },
+    "pases_completados": {
+      "Argentina": 494,
+      "Austria": 401
+    },
+    "precision_pases_porcentaje": {
+      "Argentina": 89,
+      "Austria": 86
+    }
+  },
+  "estadisticas_especificas": {
+    "corners": {
+      "Argentina": 1,
+      "Austria": 3
+    },
+    "faltas_cometidas": {
+      "Argentina": 13,
+      "Austria": 13
+    },
+    "fueras_de_juego": {
+      "Argentina": 2,
+      "Austria": 0
+    },
+    "paradas_del_portero": {
+      "Argentina": 1,
+      "Austria": 2
+    }
+  },
+  "tarjetas": {
+    "amarillas": [
+      {
+        "minuto": 40,
+        "jugador": "Stefan Posch",
+        "equipo": "Austria"
+      },
+      {
+        "minuto": 76,
+        "jugador": "Facundo Medina",
+        "equipo": "Argentina"
+      },
+      {
+        "minuto": 76,
+        "jugador": "Konrad Laimer",
+        "equipo": "Austria"
+      },
+      {
+        "minuto": 90,
+        "jugador": "Leandro Paredes",
+        "equipo": "Argentina",
+        "nota": "Minuto 90+2'"
+      }
+    ],
+    "rojas": [],
+    "resumen": {
+      "Argentina": {
+        "amarillas": 2,
+        "rojas": 0
+      },
+      "Austria": {
+        "amarillas": 2,
+        "rojas": 0
+      }
+    }
+  },
+  "records_o_notas": [
+    "Lionel Messi se convirtió en el máximo goleador histórico de los Mundiales con 17 goles, superando a Miroslav Klose",
+    "Messi anotó un doblete (minutos 38 y 90+5') y fue la figura del partido con una calificación de 8.7",
+    "Argentina aseguró su clasificación a los octavos de final como líder del Grupo J con 6 puntos",
+    "Argentina dominó la posesión con un 54% frente al 46% de Austria",
+    "El xG de Argentina (2.36) fue significativamente mayor que el de Austria (0.53)",
+    "Argentina realizó 12 tiros totales (5 a puerta), mientras que Austria tuvo 6 tiros (1 a puerta)",
+    "Ambos equipos recibieron 2 tarjetas amarillas cada uno",
+    "El partido se disputó ante 70,649 espectadores en el Dallas Stadium"
+  ]
+}

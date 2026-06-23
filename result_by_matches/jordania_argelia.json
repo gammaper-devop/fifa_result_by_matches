@@ -1,0 +1,117 @@
+{
+  "partido": {
+    "equipo_local": "Jordania",
+    "equipo_visitante": "Argelia",
+    "goles_local": 1,
+    "goles_visitante": 2,
+    "estadio": "San Francisco Bay Area Stadium",
+    "fase": "Fase de Grupos - Grupo J",
+    "fecha": "2026-06-22"
+  },
+  "goleadores": [
+    {
+      "minuto": 36,
+      "jugador": "Nizar Al Rashdan",
+      "equipo": "Jordania"
+    },
+    {
+      "minuto": 69,
+      "jugador": "Nadir Benbouali",
+      "equipo": "Argelia"
+    },
+    {
+      "minuto": 82,
+      "jugador": "Amine Gouiri",
+      "equipo": "Argelia"
+    }
+  ],
+  "estadisticas_generales": {
+    "posesion_porcentaje": {
+      "Jordania": 28,
+      "Argelia": 72
+    },
+    "tiros_totales": {
+      "Jordania": 8,
+      "Argelia": 17
+    },
+    "tiros_a_puerta": {
+      "Jordania": 4,
+      "Argelia": 8
+    },
+    "tiros_fuera": {
+      "Jordania": 4,
+      "Argelia": 4
+    },
+    "tiros_bloqueados": {
+      "Jordania": 0,
+      "Argelia": 5
+    },
+    "goles_esperados_xG": {
+      "Jordania": 0.63,
+      "Argelia": 1.89
+    },
+    "pases_completados": {
+      "Jordania": 181,
+      "Argelia": 561
+    },
+    "precision_pases_porcentaje": {
+      "Jordania": 72,
+      "Argelia": 88
+    }
+  },
+  "estadisticas_especificas": {
+    "corners": {
+      "Jordania": 1,
+      "Argelia": 10
+    },
+    "faltas_cometidas": {
+      "Jordania": 11,
+      "Argelia": 6
+    },
+    "fueras_de_juego": {
+      "Jordania": 1,
+      "Argelia": 0
+    },
+    "paradas_del_portero": {
+      "Jordania": 6,
+      "Argelia": 3
+    }
+  },
+  "tarjetas": {
+    "amarillas": [
+      {
+        "minuto": 44,
+        "jugador": "Ramiz Zerrouki",
+        "equipo": "Argelia"
+      },
+      {
+        "minuto": 64,
+        "jugador": "Husam Abu Dahab",
+        "equipo": "Jordania"
+      }
+    ],
+    "rojas": [],
+    "resumen": {
+      "Jordania": {
+        "amarillas": 1,
+        "rojas": 0
+      },
+      "Argelia": {
+        "amarillas": 1,
+        "rojas": 0
+      }
+    }
+  },
+  "records_o_notas": [
+    "Argelia logró una remontada para eliminar a Jordania del Mundial, que quedó sin puntos en el Grupo J",
+    "Nadir Benbouali anotó el gol del empate para Argelia al minuto 69, apenas 23 minutos después de haber ingresado como sustituto",
+    "Amine Gouiri marcó el gol de la victoria para Argelia al minuto 82",
+    "Argelia dominó completamente la posesión con un 72% frente al 28% de Jordania",
+    "Argelia realizó 17 tiros totales (8 a puerta), mientras que Jordania tuvo 8 tiros (4 a puerta)",
+    "El xG de Argelia (1.89) fue superior al de Jordania (0.63)",
+    "Argelia tuvo 10 corners, mientras que Jordania solo tuvo 1",
+    "El portero jordano Yazeed Abulaila realizó 6 paradas para mantener a su equipo en el partido",
+    "El partido se disputó ante 68,371 espectadores en el San Francisco Bay Area Stadium",
+    "Argelia sufrió la baja por lesión de Mohamed Amoura"
+  ]
+}
