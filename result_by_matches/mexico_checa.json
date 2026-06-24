@@ -1,0 +1,111 @@
+{
+  "partido": {
+    "equipo_local": "Republica Checa",
+    "equipo_visitante": "Mexico",
+    "goles_local": 0,
+    "goles_visitante": 3,
+    "estadio": "Mexico City Stadium",
+    "fase": "Fase de Grupos - Grupo A",
+    "fecha": "2026-06-24"
+  },
+  "goleadores": [
+    {
+      "minuto": 55,
+      "jugador": "Mateo Chávez",
+      "equipo": "Mexico"
+    },
+    {
+      "minuto": 61,
+      "jugador": "Julián Quiñones",
+      "equipo": "Mexico"
+    },
+    {
+      "minuto": 90,
+      "jugador": "Álvaro Fidalgo",
+      "equipo": "Mexico",
+      "nota": "Minuto 90+4'"
+    }
+  ],
+  "estadisticas_generales": {
+    "posesion_porcentaje": {
+      "Republica Checa": 52,
+      "Mexico": 48
+    },
+    "tiros_totales": {
+      "Republica Checa": 13,
+      "Mexico": 11
+    },
+    "tiros_a_puerta": {
+      "Republica Checa": 1,
+      "Mexico": 5
+    },
+    "tiros_fuera": {
+      "Republica Checa": 8,
+      "Mexico": 4
+    },
+    "tiros_bloqueados": {
+      "Republica Checa": 4,
+      "Mexico": 2
+    },
+    "goles_esperados_xG": {
+      "Republica Checa": 0.53,
+      "Mexico": 1.74
+    },
+    "pases_completados": {
+      "Republica Checa": 333,
+      "Mexico": 330
+    },
+    "precision_pases_porcentaje": {
+      "Republica Checa": 84,
+      "Mexico": 85
+    }
+  },
+  "estadisticas_especificas": {
+    "corners": {
+      "Republica Checa": 5,
+      "Mexico": 1
+    },
+    "faltas_cometidas": {
+      "Republica Checa": 9,
+      "Mexico": 13
+    },
+    "fueras_de_juego": {
+      "Republica Checa": 1,
+      "Mexico": 0
+    },
+    "paradas_del_portero": {
+      "Republica Checa": 2,
+      "Mexico": 1
+    }
+  },
+  "tarjetas": {
+    "amarillas": [
+      {
+        "minuto": 63,
+        "jugador": "Edson Álvarez",
+        "equipo": "Mexico"
+      }
+    ],
+    "rojas": [],
+    "resumen": {
+      "Republica Checa": {
+        "amarillas": 0,
+        "rojas": 0
+      },
+      "Mexico": {
+        "amarillas": 1,
+        "rojas": 0
+      }
+    }
+  },
+  "records_o_notas": [
+    "Mexico se convirtió en el primer equipo en ganar los tres partidos de la fase de grupos, logrando puntaje perfecto (9 puntos) como líder del Grupo A",
+    "Mateo Chávez, con 17 años, se convirtió en el goleador más joven en la historia de los Mundiales al marcar al minuto 55",
+    "Mexico ganó sus tres partidos de la fase de grupos por primera vez desde 1993 en la Copa Rey Fahd",
+    "Guillermo Ochoa disputó su partido mundialista numero 10 al ingresar en el minuto 78, convirtiendose en el portero mexicano con más partidos en Mundiales",
+    "Mexico tuvo solo 5 tiros a puerta de 11 intentos, pero convirtió 3 goles, mostrando una gran efectividad",
+    "El xG de Mexico (1.74) fue superior al de Republica Checa (0.53), reflejando la calidad de las oportunidades mexicanas",
+    "El partido se disputó ante 80,824 espectadores en el Mexico City Stadium",
+    "Republica Checa sufrió la baja por lesión de David Jurásek"
+  ]
+}

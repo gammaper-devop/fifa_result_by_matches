@@ -1,0 +1,138 @@
+{
+  "partido": {
+    "equipo_local": "Marruecos",
+    "equipo_visitante": "Haiti",
+    "goles_local": 4,
+    "goles_visitante": 2,
+    "estadio": "Atlanta Stadium",
+    "fase": "Fase de Grupos - Grupo C",
+    "fecha": "2026-06-24"
+  },
+  "goleadores": [
+    {
+      "minuto": 10,
+      "jugador": "Yassine Bounou",
+      "equipo": "Haiti",
+      "nota": "Autogol"
+    },
+    {
+      "minuto": 39,
+      "jugador": "Achraf Hakimi",
+      "equipo": "Marruecos"
+    },
+    {
+      "minuto": 43,
+      "jugador": "Wilson Isidor",
+      "equipo": "Haiti"
+    },
+    {
+      "minuto": 45,
+      "jugador": "Ismael Saibari",
+      "equipo": "Marruecos",
+      "nota": "Minuto 45+1'"
+    },
+    {
+      "minuto": 78,
+      "jugador": "Soufiane Rahimi",
+      "equipo": "Marruecos"
+    },
+    {
+      "minuto": 89,
+      "jugador": "Gessime Yassine",
+      "equipo": "Marruecos"
+    }
+  ],
+  "estadisticas_generales": {
+    "posesion_porcentaje": {
+      "Marruecos": 69,
+      "Haiti": 31
+    },
+    "tiros_totales": {
+      "Marruecos": 22,
+      "Haiti": 9
+    },
+    "tiros_a_puerta": {
+      "Marruecos": 11,
+      "Haiti": 2
+    },
+    "tiros_fuera": {
+      "Marruecos": 6,
+      "Haiti": 4
+    },
+    "tiros_bloqueados": {
+      "Marruecos": 5,
+      "Haiti": 3
+    },
+    "goles_esperados_xG": {
+      "Marruecos": 3.76,
+      "Haiti": 0.67
+    },
+    "pases_completados": {
+      "Marruecos": 477,
+      "Haiti": 198
+    },
+    "precision_pases_porcentaje": {
+      "Marruecos": 88,
+      "Haiti": 80
+    }
+  },
+  "estadisticas_especificas": {
+    "corners": {
+      "Marruecos": 9,
+      "Haiti": 1
+    },
+    "faltas_cometidas": {
+      "Marruecos": 10,
+      "Haiti": 18
+    },
+    "fueras_de_juego": {
+      "Marruecos": 5,
+      "Haiti": 0
+    },
+    "paradas_del_portero": {
+      "Marruecos": 1,
+      "Haiti": 8
+    }
+  },
+  "tarjetas": {
+    "amarillas": [
+      {
+        "minuto": 79,
+        "jugador": "Duckens Nazon",
+        "equipo": "Haiti"
+      },
+      {
+        "minuto": 79,
+        "jugador": "Johny Placide",
+        "equipo": "Haiti"
+      },
+      {
+        "minuto": 90,
+        "jugador": "Josué Casimir",
+        "equipo": "Haiti",
+        "nota": "Minuto 90+3'"
+      }
+    ],
+    "rojas": [],
+    "resumen": {
+      "Marruecos": {
+        "amarillas": 0,
+        "rojas": 0
+      },
+      "Haiti": {
+        "amarillas": 3,
+        "rojas": 0
+      }
+    }
+  },
+  "records_o_notas": [
+    "Marruecos aseguró su clasificación a los octavos de final con 7 puntos en el Grupo C, pero no pudo ser lider por diferencia de goles",
+    "Achraf Hakimi fue la figura del partido con un gol y una calificación de 9.0",
+    "Marruecos dominó completamente con un 69% de posesión y 22 tiros totales",
+    "El xG de Marruecos (3.76) fue significativamente mayor que el de Haiti (0.67)",
+    "Marruecos tuvo 9 corners, mientras que Haiti tuvo solo 1",
+    "El portero haitiano Johny Placide realizó 8 paradas a pesar de los 4 goles recibidos",
+    "Haiti recibió 3 tarjetas amarillas, mientras que Marruecos no tuvo amonestaciones",
+    "El partido se disputó ante 68,239 espectadores en el Atlanta Stadium"
+  ]
+}

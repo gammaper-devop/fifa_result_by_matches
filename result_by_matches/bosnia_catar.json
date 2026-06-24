@@ -1,0 +1,121 @@
+{
+  "partido": {
+    "equipo_local": "Bosnia y Herzegovina",
+    "equipo_visitante": "Catar",
+    "goles_local": 3,
+    "goles_visitante": 1,
+    "estadio": "Seattle Stadium",
+    "fase": "Fase de Grupos - Grupo B",
+    "fecha": "2026-06-24"
+  },
+  "goleadores": [
+    {
+      "minuto": 29,
+      "jugador": "Kerim Alajbegovic",
+      "equipo": "Bosnia y Herzegovina"
+    },
+    {
+      "minuto": 34,
+      "jugador": "Mahmud Abunada",
+      "equipo": "Bosnia y Herzegovina",
+      "nota": "Autogol"
+    },
+    {
+      "minuto": 42,
+      "jugador": "Hassan Al Haidos",
+      "equipo": "Catar"
+    },
+    {
+      "minuto": 80,
+      "jugador": "Ermin Mahmic",
+      "equipo": "Bosnia y Herzegovina"
+    }
+  ],
+  "estadisticas_generales": {
+    "posesion_porcentaje": {
+      "Bosnia y Herzegovina": 54,
+      "Catar": 46
+    },
+    "tiros_totales": {
+      "Bosnia y Herzegovina": 14,
+      "Catar": 9
+    },
+    "tiros_a_puerta": {
+      "Bosnia y Herzegovina": 5,
+      "Catar": 3
+    },
+    "tiros_fuera": {
+      "Bosnia y Herzegovina": 4,
+      "Catar": 6
+    },
+    "tiros_bloqueados": {
+      "Bosnia y Herzegovina": 5,
+      "Catar": 0
+    },
+    "goles_esperados_xG": {
+      "Bosnia y Herzegovina": 0.64,
+      "Catar": 0.77
+    },
+    "pases_completados": {
+      "Bosnia y Herzegovina": 453,
+      "Catar": 370
+    },
+    "precision_pases_porcentaje": {
+      "Bosnia y Herzegovina": 88,
+      "Catar": 85
+    }
+  },
+  "estadisticas_especificas": {
+    "corners": {
+      "Bosnia y Herzegovina": 5,
+      "Catar": 5
+    },
+    "faltas_cometidas": {
+      "Bosnia y Herzegovina": 9,
+      "Catar": 14
+    },
+    "fueras_de_juego": {
+      "Bosnia y Herzegovina": 1,
+      "Catar": 3
+    },
+    "paradas_del_portero": {
+      "Bosnia y Herzegovina": 2,
+      "Catar": 3
+    }
+  },
+  "tarjetas": {
+    "amarillas": [
+      {
+        "minuto": 78,
+        "jugador": "Ahmed Fathi",
+        "equipo": "Catar"
+      },
+      {
+        "minuto": 82,
+        "jugador": "Ermin Mahmic",
+        "equipo": "Bosnia y Herzegovina"
+      }
+    ],
+    "rojas": [],
+    "resumen": {
+      "Bosnia y Herzegovina": {
+        "amarillas": 1,
+        "rojas": 0
+      },
+      "Catar": {
+        "amarillas": 1,
+        "rojas": 0
+      }
+    }
+  },
+  "records_o_notas": [
+    "Bosnia y Herzegovina consiguió su primera victoria en la historia de los Mundiales, eliminando a Catar del torneo",
+    "Kerim Alajbegovic fue la figura del partido con un gol y una calificación de 8.4",
+    "El autogol del portero catarí Mahmud Abunada al minuto 34 fue clave para la victoria bosnia",
+    "Catar se convirtió en el primer equipo eliminado del Mundial 2026 tras su segunda derrota consecutiva",
+    "El xG de Catar (0.77) fue ligeramente superior al de Bosnia (0.64), reflejando la paridad del partido",
+    "Ambos equipos tuvieron 5 corners cada uno",
+    "El partido se disputó ante 66,925 espectadores en el Seattle Stadium",
+    "Bosnia jugó sin Tarik Muharemovic (suspendido), mientras que Catar no contó con Homam Al-Amin y Assim Madibo (suspendidos)"
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "partido": {
+    "equipo_local": "Sudafrica",
+    "equipo_visitante": "Corea del Sur",
+    "goles_local": 1,
+    "goles_visitante": 0,
+    "estadio": "Monterrey Stadium",
+    "fase": "Fase de Grupos - Grupo A",
+    "fecha": "2026-06-24"
+  },
+  "goleadores": [
+    {
+      "minuto": 63,
+      "jugador": "Thapelo Maseko",
+      "equipo": "Sudafrica"
+    }
+  ],
+  "estadisticas_generales": {
+    "posesion_porcentaje": {
+      "Sudafrica": 32,
+      "Corea del Sur": 68
+    },
+    "tiros_totales": {
+      "Sudafrica": 13,
+      "Corea del Sur": 8
+    },
+    "tiros_a_puerta": {
+      "Sudafrica": 4,
+      "Corea del Sur": 3
+    },
+    "tiros_fuera": {
+      "Sudafrica": 5,
+      "Corea del Sur": 4
+    },
+    "tiros_bloqueados": {
+      "Sudafrica": 4,
+      "Corea del Sur": 1
+    },
+    "goles_esperados_xG": {
+      "Sudafrica": 1.16,
+      "Corea del Sur": 0.90
+    },
+    "pases_completados": {
+      "Sudafrica": 277,
+      "Corea del Sur": 641
+    },
+    "precision_pases_porcentaje": {
+      "Sudafrica": 81,
+      "Corea del Sur": 89
+    }
+  },
+  "estadisticas_especificas": {
+    "corners": {
+      "Sudafrica": 4,
+      "Corea del Sur": 6
+    },
+    "faltas_cometidas": {
+      "Sudafrica": 7,
+      "Corea del Sur": 9
+    },
+    "fueras_de_juego": {
+      "Sudafrica": 3,
+      "Corea del Sur": 0
+    },
+    "paradas_del_portero": {
+      "Sudafrica": 3,
+      "Corea del Sur": 2
+    }
+  },
+  "tarjetas": {
+    "amarillas": [
+      {
+        "minuto": 72,
+        "jugador": "Aubrey Maphosa Modiba",
+        "equipo": "Sudafrica"
+      },
+      {
+        "minuto": 78,
+        "jugador": "Gue-Sung Cho",
+        "equipo": "Corea del Sur"
+      }
+    ],
+    "rojas": [],
+    "resumen": {
+      "Sudafrica": {
+        "amarillas": 1,
+        "rojas": 0
+      },
+      "Corea del Sur": {
+        "amarillas": 1,
+        "rojas": 0
+      }
+    }
+  },
+  "records_o_notas": [
+    "Sudafrica logró una clasificación histórica a los octavos de final tras superar a Corea del Sur en el Grupo A",
+    "Thapelo Maseko anotó el gol de la clasificación al minuto 63, su primer gol en un Mundial",
+    "Corea del Sur dominó la posesión con un 68% frente al 32% de Sudafrica, pero no logró concretar sus oportunidades",
+    "El portero sudafricano Ronwen Williams fue la figura del partido con 3 paradas clave y una calificación de 8.6",
+    "Sudafrica realizó mas tiros totales (13) que Corea del Sur (8), a pesar de tener menos posesión",
+    "Ambos equipos recibieron una tarjeta amarilla cada uno",
+    "El partido se disputó ante 51,243 espectadores en el Monterrey Stadium",
+    "Sudafrica no contó con Teboho Mokoena y Themba Zwane, ambos suspendidos"
+  ]
+}

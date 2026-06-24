@@ -1,0 +1,121 @@
+{
+  "partido": {
+    "equipo_local": "Escocia",
+    "equipo_visitante": "Brasil",
+    "goles_local": 0,
+    "goles_visitante": 3,
+    "estadio": "Miami Stadium",
+    "fase": "Fase de Grupos - Grupo C",
+    "fecha": "2026-06-24"
+  },
+  "goleadores": [
+    {
+      "minuto": 7,
+      "jugador": "Vinícius Júnior",
+      "equipo": "Brasil"
+    },
+    {
+      "minuto": 45,
+      "jugador": "Vinícius Júnior",
+      "equipo": "Brasil",
+      "nota": "Minuto 45+3'"
+    },
+    {
+      "minuto": 60,
+      "jugador": "Matheus Cunha",
+      "equipo": "Brasil"
+    }
+  ],
+  "estadisticas_generales": {
+    "posesion_porcentaje": {
+      "Escocia": 46,
+      "Brasil": 54
+    },
+    "tiros_totales": {
+      "Escocia": 14,
+      "Brasil": 21
+    },
+    "tiros_a_puerta": {
+      "Escocia": 5,
+      "Brasil": 9
+    },
+    "tiros_fuera": {
+      "Escocia": 6,
+      "Brasil": 7
+    },
+    "tiros_bloqueados": {
+      "Escocia": 3,
+      "Brasil": 5
+    },
+    "goles_esperados_xG": {
+      "Escocia": 1.04,
+      "Brasil": 4.33
+    },
+    "pases_completados": {
+      "Escocia": 450,
+      "Brasil": 564
+    },
+    "precision_pases_porcentaje": {
+      "Escocia": 90,
+      "Brasil": 93
+    }
+  },
+  "estadisticas_especificas": {
+    "corners": {
+      "Escocia": 7,
+      "Brasil": 6
+    },
+    "faltas_cometidas": {
+      "Escocia": 10,
+      "Brasil": 11
+    },
+    "fueras_de_juego": {
+      "Escocia": 0,
+      "Brasil": 1
+    },
+    "paradas_del_portero": {
+      "Escocia": 5,
+      "Brasil": 5
+    }
+  },
+  "tarjetas": {
+    "amarillas": [
+      {
+        "minuto": 62,
+        "jugador": "Danilo",
+        "equipo": "Brasil"
+      },
+      {
+        "minuto": 82,
+        "jugador": "Fabinho",
+        "equipo": "Brasil"
+      },
+      {
+        "minuto": 89,
+        "jugador": "Ryan Christie",
+        "equipo": "Escocia"
+      }
+    ],
+    "rojas": [],
+    "resumen": {
+      "Escocia": {
+        "amarillas": 1,
+        "rojas": 0
+      },
+      "Brasil": {
+        "amarillas": 2,
+        "rojas": 0
+      }
+    }
+  },
+  "records_o_notas": [
+    "Brasil finalizó invicto el Grupo C con 7 puntos, clasificando como líder por diferencia de goles sobre Marruecos",
+    "Vinícius Júnior fue la figura del partido con un doblete (minutos 7 y 45+3') y una calificación de 9.3, alcanzando los 4 goles en el torneo",
+    "Con su doblete, Vinícius se convirtió en el quinto jugador brasileño en marcar en todos los partidos de la fase de grupos de un Mundial",
+    "Neymar regresó a la selección brasileña después de 981 días, ingresando al minuto 76 como sustituto",
+    "El xG de Brasil (4.33) fue significativamente mayor que el de Escocia (1.04), reflejando el dominio ofensivo brasileño",
+    "Ambos equipos realizaron 5 paradas de portero cada uno",
+    "El partido se disputó ante 64,478 espectadores en el Miami Stadium",
+    "Brasil sufrió la baja por lesión de Raphinha"
+  ]
+}

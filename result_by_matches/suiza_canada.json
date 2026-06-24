@@ -1,0 +1,119 @@
+{
+  "partido": {
+    "equipo_local": "Suiza",
+    "equipo_visitante": "Canadá",
+    "goles_local": 2,
+    "goles_visitante": 1,
+    "estadio": "BC Place Vancouver",
+    "fase": "Fase de Grupos - Grupo B",
+    "fecha": "2026-06-24"
+  },
+  "goleadores": [
+    {
+      "minuto": 46,
+      "jugador": "Rubén Vargas",
+      "equipo": "Suiza"
+    },
+    {
+      "minuto": 57,
+      "jugador": "Johan Manzambi",
+      "equipo": "Suiza"
+    },
+    {
+      "minuto": 76,
+      "jugador": "Promise David",
+      "equipo": "Canadá"
+    }
+  ],
+  "estadisticas_generales": {
+    "posesion_porcentaje": {
+      "Suiza": 55,
+      "Canadá": 45
+    },
+    "tiros_totales": {
+      "Suiza": 6,
+      "Canadá": 13
+    },
+    "tiros_a_puerta": {
+      "Suiza": 4,
+      "Canadá": 7
+    },
+    "tiros_fuera": {
+      "Suiza": 1,
+      "Canadá": 3
+    },
+    "tiros_bloqueados": {
+      "Suiza": 1,
+      "Canadá": 3
+    },
+    "goles_esperados_xG": {
+      "Suiza": 1.06,
+      "Canadá": 1.34
+    },
+    "pases_completados": {
+      "Suiza": 367,
+      "Canadá": 271
+    },
+    "precision_pases_porcentaje": {
+      "Suiza": 83,
+      "Canadá": 80
+    }
+  },
+  "estadisticas_especificas": {
+    "corners": {
+      "Suiza": 2,
+      "Canadá": 7
+    },
+    "faltas_cometidas": {
+      "Suiza": 19,
+      "Canadá": 13
+    },
+    "fueras_de_juego": {
+      "Suiza": 1,
+      "Canadá": 3
+    },
+    "paradas_del_portero": {
+      "Suiza": 6,
+      "Canadá": 2
+    }
+  },
+  "tarjetas": {
+    "amarillas": [
+      {
+        "minuto": 32,
+        "jugador": "Cyle Larin",
+        "equipo": "Canadá"
+      },
+      {
+        "minuto": 32,
+        "jugador": "Granit Xhaka",
+        "equipo": "Suiza"
+      },
+      {
+        "minuto": 87,
+        "jugador": "Liam Millar",
+        "equipo": "Canadá"
+      }
+    ],
+    "rojas": [],
+    "resumen": {
+      "Suiza": {
+        "amarillas": 1,
+        "rojas": 0
+      },
+      "Canadá": {
+        "amarillas": 2,
+        "rojas": 0
+      }
+    }
+  },
+  "records_o_notas": [
+    "Suiza y Canadá se clasificaron ambos a los octavos de final, pero Suiza lo hizo como líder del Grupo B",
+    "El portero suizo Gregor Kobel fue la figura del partido con 6 paradas y una calificación de 8.6",
+    "Canadá tuvo más tiros totales (13) que Suiza (6) y más tiros a puerta (7 contra 4), pero no logró la victoria",
+    "El xG de Canadá (1.34) fue superior al de Suiza (1.06), reflejando la mayor peligrosidad canadiense",
+    "Canadá tuvo 7 corners, mientras que Suiza tuvo 2",
+    "El partido se disputó ante 52,497 espectadores en el BC Place Vancouver",
+    "Canadá sufrió las bajas por lesión de Alfie Jones e Ismaël Koné, mientras que Suiza no contó con Miro Muheim"
+  ]
+}
