@@ -1,0 +1,111 @@
+{
+  "partido": {
+    "equipo_local": "Colombia",
+    "equipo_visitante": "RD Congo",
+    "goles_local": 1,
+    "goles_visitante": 0,
+    "estadio": "Guadalajara Stadium",
+    "fase": "Fase de Grupos - Grupo K",
+    "fecha": "2026-06-23"
+  },
+  "goleadores": [
+    {
+      "minuto": 76,
+      "jugador": "Daniel Muñoz",
+      "equipo": "Colombia"
+    }
+  ],
+  "estadisticas_generales": {
+    "posesion_porcentaje": {
+      "Colombia": 64,
+      "RD Congo": 36
+    },
+    "tiros_totales": {
+      "Colombia": 20,
+      "RD Congo": 7
+    },
+    "tiros_a_puerta": {
+      "Colombia": 9,
+      "RD Congo": 1
+    },
+    "tiros_fuera": {
+      "Colombia": 5,
+      "RD Congo": 4
+    },
+    "tiros_bloqueados": {
+      "Colombia": 6,
+      "RD Congo": 2
+    },
+    "goles_esperados_xG": {
+      "Colombia": 0.98,
+      "RD Congo": 0.37
+    },
+    "pases_completados": {
+      "Colombia": 473,
+      "RD Congo": 226
+    },
+    "precision_pases_porcentaje": {
+      "Colombia": 87,
+      "RD Congo": 76
+    }
+  },
+  "estadisticas_especificas": {
+    "corners": {
+      "Colombia": 5,
+      "RD Congo": 4
+    },
+    "faltas_cometidas": {
+      "Colombia": 12,
+      "RD Congo": 16
+    },
+    "fueras_de_juego": {
+      "Colombia": 7,
+      "RD Congo": 0
+    },
+    "paradas_del_portero": {
+      "Colombia": 1,
+      "RD Congo": 8
+    }
+  },
+  "tarjetas": {
+    "amarillas": [
+      {
+        "minuto": 56,
+        "jugador": "Jhon Lucumí",
+        "equipo": "Colombia"
+      },
+      {
+        "minuto": 90,
+        "jugador": "Charles Pickel",
+        "equipo": "RD Congo",
+        "nota": "Minuto 90+3'"
+      },
+      {
+        "minuto": 90,
+        "jugador": "Jefferson Lerma",
+        "equipo": "Colombia",
+        "nota": "Minuto 90+4'"
+      }
+    ],
+    "rojas": [],
+    "resumen": {
+      "Colombia": {
+        "amarillas": 2,
+        "rojas": 0
+      },
+      "RD Congo": {
+        "amarillas": 1,
+        "rojas": 0
+      }
+    }
+  },
+  "records_o_notas": [
+    "Colombia aseguró su clasificación a los octavos de final con 6 puntos, liderando el Grupo K junto a Portugal",
+    "Daniel Muñoz fue la figura del partido con el gol de la victoria al minuto 76 y una calificación de 8.2",
+    "Colombia dominó completamente el partido con un 64% de posesión y 20 tiros totales",
+    "El portero congoleño Lionel Mpasi-Nzau realizó 8 paradas para evitar una derrota más abultada",
+    "Colombia tuvo 7 fueras de juego, reflejando su constante presión ofensiva",
+    "El partido se disputó ante 45,358 espectadores en el Guadalajara Stadium",
+    "Ambos equipos recibieron tarjetas amarillas (2 para Colombia, 1 para RD Congo)"
+  ]
+}

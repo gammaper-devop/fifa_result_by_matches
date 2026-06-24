@@ -1,0 +1,126 @@
+{
+  "partido": {
+    "equipo_local": "Portugal",
+    "equipo_visitante": "Uzbekistan",
+    "goles_local": 5,
+    "goles_visitante": 0,
+    "estadio": "Houston Stadium",
+    "fase": "Fase de Grupos - Grupo K",
+    "fecha": "2026-06-23"
+  },
+  "goleadores": [
+    {
+      "minuto": 6,
+      "jugador": "Cristiano Ronaldo",
+      "equipo": "Portugal"
+    },
+    {
+      "minuto": 17,
+      "jugador": "Nuno Mendes",
+      "equipo": "Portugal"
+    },
+    {
+      "minuto": 39,
+      "jugador": "Cristiano Ronaldo",
+      "equipo": "Portugal"
+    },
+    {
+      "minuto": 60,
+      "jugador": "Abduvohid Nematov",
+      "equipo": "Portugal",
+      "nota": "Autogol"
+    },
+    {
+      "minuto": 87,
+      "jugador": "Rafael Leão",
+      "equipo": "Portugal"
+    }
+  ],
+  "estadisticas_generales": {
+    "posesion_porcentaje": {
+      "Portugal": 66,
+      "Uzbekistan": 34
+    },
+    "tiros_totales": {
+      "Portugal": 17,
+      "Uzbekistan": 7
+    },
+    "tiros_a_puerta": {
+      "Portugal": 9,
+      "Uzbekistan": 2
+    },
+    "tiros_fuera": {
+      "Portugal": 5,
+      "Uzbekistan": 2
+    },
+    "tiros_bloqueados": {
+      "Portugal": 3,
+      "Uzbekistan": 3
+    },
+    "goles_esperados_xG": {
+      "Portugal": 2.61,
+      "Uzbekistan": 0.24
+    },
+    "pases_completados": {
+      "Portugal": 561,
+      "Uzbekistan": 262
+    },
+    "precision_pases_porcentaje": {
+      "Portugal": 90,
+      "Uzbekistan": 80
+    }
+  },
+  "estadisticas_especificas": {
+    "corners": {
+      "Portugal": 3,
+      "Uzbekistan": 2
+    },
+    "faltas_cometidas": {
+      "Portugal": 14,
+      "Uzbekistan": 15
+    },
+    "fueras_de_juego": {
+      "Portugal": 2,
+      "Uzbekistan": 2
+    },
+    "paradas_del_portero": {
+      "Portugal": 2,
+      "Uzbekistan": 4
+    }
+  },
+  "tarjetas": {
+    "amarillas": [
+      {
+        "minuto": 14,
+        "jugador": "Odildzhon Khamrobekov",
+        "equipo": "Uzbekistan"
+      },
+      {
+        "minuto": 68,
+        "jugador": "Renato Veiga",
+        "equipo": "Portugal"
+      }
+    ],
+    "rojas": [],
+    "resumen": {
+      "Portugal": {
+        "amarillas": 1,
+        "rojas": 0
+      },
+      "Uzbekistan": {
+        "amarillas": 1,
+        "rojas": 0
+      }
+    }
+  },
+  "records_o_notas": [
+    "Cristiano Ronaldo fue la figura del partido con un doblete (minutos 6 y 39) y una calificación de 9.1, alcanzando los 18 goles en Mundiales",
+    "Portugal aseguró su clasificación a los octavos de final como líder del Grupo K con 6 puntos",
+    "Nuno Mendes anotó su primer gol en un Mundial al minuto 17",
+    "Portugal dominó completamente el partido con un 66% de posesión y 17 tiros totales",
+    "El xG de Portugal (2.61) fue significativamente mayor que el de Uzbekistan (0.24)",
+    "El portero uzbeko Abduvohid Nematov realizó 4 paradas, pero también marcó un autogol",
+    "Ambos equipos recibieron una tarjeta amarilla cada uno",
+    "El partido se disputó ante 68,777 espectadores en el Houston Stadium"
+  ]
+}

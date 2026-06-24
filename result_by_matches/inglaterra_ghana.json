@@ -1,0 +1,98 @@
+{
+  "partido": {
+    "equipo_local": "Inglaterra",
+    "equipo_visitante": "Ghana",
+    "goles_local": 0,
+    "goles_visitante": 0,
+    "estadio": "Boston Stadium",
+    "fase": "Fase de Grupos - Grupo L",
+    "fecha": "2026-06-23"
+  },
+  "goleadores": [],
+  "estadisticas_generales": {
+    "posesion_porcentaje": {
+      "Inglaterra": 79,
+      "Ghana": 21
+    },
+    "tiros_totales": {
+      "Inglaterra": 19,
+      "Ghana": 2
+    },
+    "tiros_a_puerta": {
+      "Inglaterra": 3,
+      "Ghana": 1
+    },
+    "tiros_fuera": {
+      "Inglaterra": 10,
+      "Ghana": 0
+    },
+    "tiros_bloqueados": {
+      "Inglaterra": 6,
+      "Ghana": 1
+    },
+    "goles_esperados_xG": {
+      "Inglaterra": 1.36,
+      "Ghana": 0.17
+    },
+    "pases_completados": {
+      "Inglaterra": 586,
+      "Ghana": 127
+    },
+    "precision_pases_porcentaje": {
+      "Inglaterra": 93,
+      "Ghana": 74
+    }
+  },
+  "estadisticas_especificas": {
+    "corners": {
+      "Inglaterra": 9,
+      "Ghana": 2
+    },
+    "faltas_cometidas": {
+      "Inglaterra": 14,
+      "Ghana": 24
+    },
+    "fueras_de_juego": {
+      "Inglaterra": 2,
+      "Ghana": 2
+    },
+    "paradas_del_portero": {
+      "Inglaterra": 1,
+      "Ghana": 3
+    }
+  },
+  "tarjetas": {
+    "amarillas": [
+      {
+        "minuto": 41,
+        "jugador": "Declan Rice",
+        "equipo": "Inglaterra"
+      },
+      {
+        "minuto": 60,
+        "jugador": "Iñaki Williams",
+        "equipo": "Ghana"
+      }
+    ],
+    "rojas": [],
+    "resumen": {
+      "Inglaterra": {
+        "amarillas": 1,
+        "rojas": 0
+      },
+      "Ghana": {
+        "amarillas": 1,
+        "rojas": 0
+      }
+    }
+  },
+  "records_o_notas": [
+    "Inglaterra dominó completamente el partido con un 79% de posesión y 19 tiros totales, pero no logró concretar sus oportunidades",
+    "Ghana defendió con éxito y logró un empate histórico, sumando su primer punto en la historia de los Mundiales",
+    "El xG de Inglaterra (1.36) fue superior al de Ghana (0.17), reflejando la superioridad inglesa",
+    "Inglaterra tuvo 9 corners, mientras que Ghana tuvo 2",
+    "Ambos equipos recibieron una tarjeta amarilla cada uno (Declan Rice para Inglaterra e Iñaki Williams para Ghana)",
+    "El partido se disputó ante 63,983 espectadores en el Boston Stadium",
+    "Con este resultado, Inglaterra lidera el Grupo L con 4 puntos, mientras que Ghana suma su primer punto en el torneo"
+  ]
+}

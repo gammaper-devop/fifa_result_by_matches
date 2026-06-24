@@ -1,0 +1,104 @@
+{
+  "partido": {
+    "equipo_local": "Panama",
+    "equipo_visitante": "Croacia",
+    "goles_local": 0,
+    "goles_visitante": 1,
+    "estadio": "Toronto Stadium",
+    "fase": "Fase de Grupos - Grupo L",
+    "fecha": "2026-06-23"
+  },
+  "goleadores": [
+    {
+      "minuto": 54,
+      "jugador": "Ante Budimir",
+      "equipo": "Croacia"
+    }
+  ],
+  "estadisticas_generales": {
+    "posesion_porcentaje": {
+      "Panama": 42,
+      "Croacia": 58
+    },
+    "tiros_totales": {
+      "Panama": 8,
+      "Croacia": 6
+    },
+    "tiros_a_puerta": {
+      "Panama": 1,
+      "Croacia": 2
+    },
+    "tiros_fuera": {
+      "Panama": 5,
+      "Croacia": 3
+    },
+    "tiros_bloqueados": {
+      "Panama": 2,
+      "Croacia": 1
+    },
+    "goles_esperados_xG": {
+      "Panama": 0.55,
+      "Croacia": 1.65
+    },
+    "pases_completados": {
+      "Panama": 277,
+      "Croacia": 432
+    },
+    "precision_pases_porcentaje": {
+      "Panama": 79,
+      "Croacia": 84
+    }
+  },
+  "estadisticas_especificas": {
+    "corners": {
+      "Panama": 7,
+      "Croacia": 2
+    },
+    "faltas_cometidas": {
+      "Panama": 19,
+      "Croacia": 12
+    },
+    "fueras_de_juego": {
+      "Panama": 1,
+      "Croacia": 2
+    },
+    "paradas_del_portero": {
+      "Panama": 1,
+      "Croacia": 1
+    }
+  },
+  "tarjetas": {
+    "amarillas": [
+      {
+        "minuto": 61,
+        "jugador": "Yoel Barcenas",
+        "equipo": "Panama"
+      },
+      {
+        "minuto": 90,
+        "jugador": "Petar Sucic",
+        "equipo": "Croacia",
+        "nota": "Minuto 90+2'"
+      }
+    ],
+    "rojas": [],
+    "resumen": {
+      "Panama": {
+        "amarillas": 1,
+        "rojas": 0
+      },
+      "Croacia": {
+        "amarillas": 1,
+        "rojas": 0
+      }
+    }
+  },
+  "records_o_notas": [
+    "Croacia consiguió una victoria vital para mantener sus opciones de clasificación en el Grupo L",
+    "Ante Budimir se convirtió en el goleador mas longevo de Croacia en un Mundial al anotar al minuto 54, tras ingresar como sustituto en el segundo tiempo",
+    "Panama tuvo mas tiros totales (8) que Croacia (6) y mas corners (7 contra 2), pero no logró concretar sus oportunidades",
+    "El xG de Croacia (1.65) fue superior al de Panama (0.55), reflejando la mayor calidad de las oportunidades croatas",
+    "El partido se disputó ante 43,036 espectadores en el Toronto Stadium",
+    "Ambos equipos recibieron una tarjeta amarilla cada uno"
+  ]
+}
