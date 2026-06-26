@@ -1,0 +1,122 @@
+{
+  "partido": {
+    "equipo_local": "Turquia",
+    "equipo_visitante": "Estados Unidos",
+    "goles_local": 3,
+    "goles_visitante": 2,
+    "estadio": "Los Angeles Stadium",
+    "fase": "Fase de Grupos - Grupo D",
+    "fecha": "2026-06-25"
+  },
+  "goleadores": [
+    {
+      "minuto": 3,
+      "jugador": "Auston Trusty",
+      "equipo": "Estados Unidos"
+    },
+    {
+      "minuto": 10,
+      "jugador": "Arda Güler",
+      "equipo": "Turquia"
+    },
+    {
+      "minuto": 31,
+      "jugador": "Baris Alper Yilmaz",
+      "equipo": "Turquia"
+    },
+    {
+      "minuto": 49,
+      "jugador": "Sebastian Berhalter",
+      "equipo": "Estados Unidos"
+    },
+    {
+      "minuto": 90,
+      "jugador": "Kaan Ayhan",
+      "equipo": "Turquia",
+      "nota": "Minuto 90+8'"
+    }
+  ],
+  "estadisticas_generales": {
+    "posesion_porcentaje": {
+      "Turquia": 47,
+      "Estados Unidos": 53
+    },
+    "tiros_totales": {
+      "Turquia": 9,
+      "Estados Unidos": 18
+    },
+    "tiros_a_puerta": {
+      "Turquia": 3,
+      "Estados Unidos": 7
+    },
+    "tiros_fuera": {
+      "Turquia": 4,
+      "Estados Unidos": 6
+    },
+    "tiros_bloqueados": {
+      "Turquia": 2,
+      "Estados Unidos": 5
+    },
+    "goles_esperados_xG": {
+      "Turquia": 3.01,
+      "Estados Unidos": 2.13
+    },
+    "pases_completados": {
+      "Turquia": 335,
+      "Estados Unidos": 398
+    },
+    "precision_pases_porcentaje": {
+      "Turquia": 77,
+      "Estados Unidos": 85
+    }
+  },
+  "estadisticas_especificas": {
+    "corners": {
+      "Turquia": 2,
+      "Estados Unidos": 9
+    },
+    "faltas_cometidas": {
+      "Turquia": 13,
+      "Estados Unidos": 13
+    },
+    "fueras_de_juego": {
+      "Turquia": 2,
+      "Estados Unidos": 5
+    },
+    "paradas_del_portero": {
+      "Turquia": 5,
+      "Estados Unidos": 0
+    }
+  },
+  "tarjetas": {
+    "amarillas": [
+      {
+        "minuto": 19,
+        "jugador": "Sebastian Berhalter",
+        "equipo": "Estados Unidos"
+      }
+    ],
+    "rojas": [],
+    "resumen": {
+      "Turquia": {
+        "amarillas": 0,
+        "rojas": 0
+      },
+      "Estados Unidos": {
+        "amarillas": 1,
+        "rojas": 0
+      }
+    }
+  },
+  "records_o_notas": [
+    "Turquia logró una victoria agónica con un gol de Kaan Ayhan en el minuto 90+8', eliminando a Estados Unidos del Grupo D",
+    "Arda Güler fue la figura del partido con un gol y una calificación de 8.4",
+    "Estados Unidos dominó la posesión con un 53% frente al 47% de Turquia",
+    "Estados Unidos realizó más tiros totales (18) que Turquia (9) y más tiros a puerta (7 contra 3)",
+    "El xG de Turquia (3.01) fue superior al de Estados Unidos (2.13), reflejando la mayor eficacia ofensiva turca",
+    "Estados Unidos tuvo 9 corners, mientras que Turquia tuvo solo 2",
+    "El portero turco Ugurcan Çakir realizó 5 paradas clave para mantener a su equipo en el partido",
+    "El partido se disputó ante 70,492 espectadores en el Los Angeles Stadium",
+    "Estados Unidos sufrió la baja por lesión de Cristian Roldan"
+  ]
+}

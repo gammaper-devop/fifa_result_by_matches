@@ -1,0 +1,111 @@
+{
+  "partido": {
+    "equipo_local": "Tunez",
+    "equipo_visitante": "Paises Bajos",
+    "goles_local": 1,
+    "goles_visitante": 3,
+    "estadio": "Kansas City Stadium",
+    "fase": "Fase de Grupos - Grupo F",
+    "fecha": "2026-06-25"
+  },
+  "goleadores": [
+    {
+      "minuto": 3,
+      "jugador": "Ellyes Skhiri",
+      "equipo": "Paises Bajos",
+      "nota": "Autogol"
+    },
+    {
+      "minuto": 7,
+      "jugador": "Brian Brobbey",
+      "equipo": "Paises Bajos"
+    },
+    {
+      "minuto": 54,
+      "jugador": "Hazem Mastouri",
+      "equipo": "Tunez"
+    },
+    {
+      "minuto": 62,
+      "jugador": "Jan Paul van Hecke",
+      "equipo": "Paises Bajos"
+    }
+  ],
+  "estadisticas_generales": {
+    "posesion_porcentaje": {
+      "Tunez": 29,
+      "Paises Bajos": 71
+    },
+    "tiros_totales": {
+      "Tunez": 10,
+      "Paises Bajos": 20
+    },
+    "tiros_a_puerta": {
+      "Tunez": 4,
+      "Paises Bajos": 7
+    },
+    "tiros_fuera": {
+      "Tunez": 5,
+      "Paises Bajos": 8
+    },
+    "tiros_bloqueados": {
+      "Tunez": 1,
+      "Paises Bajos": 5
+    },
+    "goles_esperados_xG": {
+      "Tunez": 0.62,
+      "Paises Bajos": 1.85
+    },
+    "pases_completados": {
+      "Tunez": 199,
+      "Paises Bajos": 602
+    },
+    "precision_pases_porcentaje": {
+      "Tunez": 77,
+      "Paises Bajos": 93
+    }
+  },
+  "estadisticas_especificas": {
+    "corners": {
+      "Tunez": 4,
+      "Paises Bajos": 6
+    },
+    "faltas_cometidas": {
+      "Tunez": 11,
+      "Paises Bajos": 10
+    },
+    "fueras_de_juego": {
+      "Tunez": 2,
+      "Paises Bajos": 1
+    },
+    "paradas_del_portero": {
+      "Tunez": 4,
+      "Paises Bajos": 3
+    }
+  },
+  "tarjetas": {
+    "amarillas": [],
+    "rojas": [],
+    "resumen": {
+      "Tunez": {
+        "amarillas": 0,
+        "rojas": 0
+      },
+      "Paises Bajos": {
+        "amarillas": 0,
+        "rojas": 0
+      }
+    }
+  },
+  "records_o_notas": [
+    "Paises Bajos clasificó a los octavos de final como lider del Grupo F con 7 puntos",
+    "Tunez quedó eliminada del Mundial después de una campaña sin puntos",
+    "Brian Brobbey anotó su tercer gol en el torneo al minuto 7, siendo el máximo goleador de Paises Bajos",
+    "Hazem Mastouri anotó el primer y unico gol de Tunez en el Mundial al minuto 54",
+    "Paises Bajos dominó completamente la posesión con un 71% frente al 29% de Tunez",
+    "Paises Bajos realizó 20 tiros totales (7 a puerta), mientras que Tunez tuvo 10 (4 a puerta)",
+    "El xG de Paises Bajos (1.85) fue superior al de Tunez (0.62), reflejando el dominio ofensivo neerlandés",
+    "El partido se disputó ante 68,391 espectadores en el Kansas City Stadium",
+    "No hubo tarjetas amarillas ni rojas en este partido"
+  ]
+}

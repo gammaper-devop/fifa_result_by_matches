@@ -1,0 +1,116 @@
+{
+  "partido": {
+    "equipo_local": "Japon",
+    "equipo_visitante": "Suecia",
+    "goles_local": 1,
+    "goles_visitante": 1,
+    "estadio": "Dallas Stadium",
+    "fase": "Fase de Grupos - Grupo F",
+    "fecha": "2026-06-25"
+  },
+  "goleadores": [
+    {
+      "minuto": 56,
+      "jugador": "Daizen Maeda",
+      "equipo": "Japon"
+    },
+    {
+      "minuto": 62,
+      "jugador": "Anthony Elanga",
+      "equipo": "Suecia"
+    }
+  ],
+  "estadisticas_generales": {
+    "posesion_porcentaje": {
+      "Japon": 52,
+      "Suecia": 48
+    },
+    "tiros_totales": {
+      "Japon": 8,
+      "Suecia": 11
+    },
+    "tiros_a_puerta": {
+      "Japon": 3,
+      "Suecia": 5
+    },
+    "tiros_fuera": {
+      "Japon": 3,
+      "Suecia": 3
+    },
+    "tiros_bloqueados": {
+      "Japon": 2,
+      "Suecia": 3
+    },
+    "goles_esperados_xG": {
+      "Japon": 1.21,
+      "Suecia": 0.64
+    },
+    "pases_completados": {
+      "Japon": 378,
+      "Suecia": 312
+    },
+    "precision_pases_porcentaje": {
+      "Japon": 85,
+      "Suecia": 79
+    }
+  },
+  "estadisticas_especificas": {
+    "corners": {
+      "Japon": 2,
+      "Suecia": 8
+    },
+    "faltas_cometidas": {
+      "Japon": 20,
+      "Suecia": 11
+    },
+    "fueras_de_juego": {
+      "Japon": 3,
+      "Suecia": 2
+    },
+    "paradas_del_portero": {
+      "Japon": 4,
+      "Suecia": 2
+    }
+  },
+  "tarjetas": {
+    "amarillas": [
+      {
+        "minuto": 32,
+        "jugador": "Isak Hien",
+        "equipo": "Suecia"
+      },
+      {
+        "minuto": 77,
+        "jugador": "Shogo Taniguchi",
+        "equipo": "Japon"
+      },
+      {
+        "minuto": 84,
+        "jugador": "Viktor Gyökeres",
+        "equipo": "Suecia"
+      }
+    ],
+    "rojas": [],
+    "resumen": {
+      "Japon": {
+        "amarillas": 1,
+        "rojas": 0
+      },
+      "Suecia": {
+        "amarillas": 2,
+        "rojas": 0
+      }
+    }
+  },
+  "records_o_notas": [
+    "Japon y Suecia empataron 1-1, un resultado que clasifico a ambos equipos a los octavos de final, eliminando a Túnez y Países Bajos del Grupo F",
+    "Daizen Maeda abrio el marcador para Japon al minuto 56 con su primer gol en un Mundial",
+    "Anthony Elanga empato para Suecia al minuto 62, asegurando el pase de su seleccion",
+    "Suecia domino los corners con 8, mientras que Japon tuvo solo 2",
+    "Japon tuvo más posesion (52%) que Suecia (48%), pero Suecia realizo más tiros totales (11 contra 8)",
+    "El xG de Japon (1.21) fue superior al de Suecia (0.64), reflejando la mayor calidad de las oportunidades japonesas",
+    "Japon cometio 20 faltas, mientras que Suecia cometio 11",
+    "El partido se disputo ante 70,137 espectadores en el Dallas Stadium",
+    "Japon sufrio la baja por lesion de Takefusa Kubo"
+  ]
+}

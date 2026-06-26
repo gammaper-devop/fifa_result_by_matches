@@ -1,0 +1,115 @@
+{
+  "partido": {
+    "equipo_local": "Curazao",
+    "equipo_visitante": "Costa de Marfil",
+    "goles_local": 0,
+    "goles_visitante": 2,
+    "estadio": "Philadelphia Stadium",
+    "fase": "Fase de Grupos - Grupo E",
+    "fecha": "2026-06-25"
+  },
+  "goleadores": [
+    {
+      "minuto": 7,
+      "jugador": "Nicolas Pépé",
+      "equipo": "Costa de Marfil"
+    },
+    {
+      "minuto": 64,
+      "jugador": "Nicolas Pépé",
+      "equipo": "Costa de Marfil"
+    }
+  ],
+  "estadisticas_generales": {
+    "posesion_porcentaje": {
+      "Curazao": 37,
+      "Costa de Marfil": 63
+    },
+    "tiros_totales": {
+      "Curazao": 11,
+      "Costa de Marfil": 7
+    },
+    "tiros_a_puerta": {
+      "Curazao": 2,
+      "Costa de Marfil": 3
+    },
+    "tiros_fuera": {
+      "Curazao": 7,
+      "Costa de Marfil": 3
+    },
+    "tiros_bloqueados": {
+      "Curazao": 2,
+      "Costa de Marfil": 1
+    },
+    "goles_esperados_xG": {
+      "Curazao": 0.50,
+      "Costa de Marfil": 1.31
+    },
+    "pases_completados": {
+      "Curazao": 295,
+      "Costa de Marfil": 558
+    },
+    "precision_pases_porcentaje": {
+      "Curazao": 83,
+      "Costa de Marfil": 89
+    }
+  },
+  "estadisticas_especificas": {
+    "corners": {
+      "Curazao": 4,
+      "Costa de Marfil": 6
+    },
+    "faltas_cometidas": {
+      "Curazao": 11,
+      "Costa de Marfil": 6
+    },
+    "fueras_de_juego": {
+      "Curazao": 2,
+      "Costa de Marfil": 1
+    },
+    "paradas_del_portero": {
+      "Curazao": 1,
+      "Costa de Marfil": 2
+    }
+  },
+  "tarjetas": {
+    "amarillas": [
+      {
+        "minuto": 34,
+        "jugador": "Nicolas Pépé",
+        "equipo": "Costa de Marfil"
+      },
+      {
+        "minuto": 75,
+        "jugador": "Juninho Bacuna",
+        "equipo": "Curazao"
+      },
+      {
+        "minuto": 83,
+        "jugador": "Gervane Kastaneer",
+        "equipo": "Curazao"
+      }
+    ],
+    "rojas": [],
+    "resumen": {
+      "Curazao": {
+        "amarillas": 2,
+        "rojas": 0
+      },
+      "Costa de Marfil": {
+        "amarillas": 1,
+        "rojas": 0
+      }
+    }
+  },
+  "records_o_notas": [
+    "Costa de Marfil clasificó a los octavos de final por primera vez en su historia, finalizando segunda en el Grupo E",
+    "Nicolas Pépé fue la figura del partido con un doblete (minutos 7 y 64) y una calificación de 8.9",
+    "Curazao, en su debut mundialista, puso fin a su participación sin puntos, destacando su valentía en el torneo",
+    "Costa de Marfil dominó la posesión con un 63% frente al 37% de Curazao",
+    "Curazao realizó más tiros totales (11) que Costa de Marfil (7), pero no logró concretar sus oportunidades",
+    "El xG de Costa de Marfil (1.31) fue superior al de Curazao (0.50), reflejando la mayor eficacia ofensiva marfileña",
+    "Ambos equipos recibieron tarjetas amarillas (2 para Curazao, 1 para Costa de Marfil)",
+    "El partido se disputó ante 68,324 espectadores en el Philadelphia Stadium"
+  ]
+}

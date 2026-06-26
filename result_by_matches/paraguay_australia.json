@@ -1,0 +1,100 @@
+{
+  "partido": {
+    "equipo_local": "Paraguay",
+    "equipo_visitante": "Australia",
+    "goles_local": 0,
+    "goles_visitante": 0,
+    "estadio": "San Francisco Bay Area Stadium",
+    "fase": "Fase de Grupos - Grupo D",
+    "fecha": "2026-06-25"
+  },
+  "goleadores": [],
+  "estadisticas_generales": {
+    "posesion_porcentaje": {
+      "Paraguay": 44,
+      "Australia": 56
+    },
+    "tiros_totales": {
+      "Paraguay": 7,
+      "Australia": 12
+    },
+    "tiros_a_puerta": {
+      "Paraguay": 2,
+      "Australia": 5
+    },
+    "tiros_fuera": {
+      "Paraguay": 4,
+      "Australia": 4
+    },
+    "tiros_bloqueados": {
+      "Paraguay": 1,
+      "Australia": 3
+    },
+    "goles_esperados_xG": {
+      "Paraguay": 0.24,
+      "Australia": 0.55
+    },
+    "pases_completados": {
+      "Paraguay": 330,
+      "Australia": 438
+    },
+    "precision_pases_porcentaje": {
+      "Paraguay": 77,
+      "Australia": 82
+    }
+  },
+  "estadisticas_especificas": {
+    "corners": {
+      "Paraguay": 1,
+      "Australia": 3
+    },
+    "faltas_cometidas": {
+      "Paraguay": 9,
+      "Australia": 6
+    },
+    "fueras_de_juego": {
+      "Paraguay": 0,
+      "Australia": 0
+    },
+    "paradas_del_portero": {
+      "Paraguay": 5,
+      "Australia": 2
+    }
+  },
+  "tarjetas": {
+    "amarillas": [
+      {
+        "minuto": 46,
+        "jugador": "Jackson Irvine",
+        "equipo": "Australia"
+      },
+      {
+        "minuto": 77,
+        "jugador": "Diego Gómez",
+        "equipo": "Paraguay"
+      }
+    ],
+    "rojas": [],
+    "resumen": {
+      "Paraguay": {
+        "amarillas": 1,
+        "rojas": 0
+      },
+      "Australia": {
+        "amarillas": 1,
+        "rojas": 0
+      }
+    }
+  },
+  "records_o_notas": [
+    "Australia clasificó a los octavos de final como segundo del Grupo D con 4 puntos, eliminando a Paraguay y Turquía",
+    "Paraguay quedó eliminada del Mundial, sumando su primera derrota en el torneo después de dos partidos",
+    "El portero paraguayo Orlando Gill fue la figura del partido con 5 paradas y una calificación de 8.0",
+    "Australia dominó la posesión con un 56% frente al 44% de Paraguay",
+    "Australia realizó más tiros totales (12) que Paraguay (7) y más tiros a puerta (5 contra 2)",
+    "El xG de Australia (0.55) fue superior al de Paraguay (0.24), reflejando el mayor peligro ofensivo australiano",
+    "Ambos equipos recibieron una tarjeta amarilla cada uno",
+    "El partido se disputó ante 68,827 espectadores en el San Francisco Bay Area Stadium",
+    "Paraguay no contó con Miguel Almirón (suspendido), mientras que Australia sufrió las bajas por lesión de Mathew Leckie y Jacob Italiano"
+  ]
+}

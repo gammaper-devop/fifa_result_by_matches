@@ -1,0 +1,125 @@
+{
+  "partido": {
+    "equipo_local": "Ecuador",
+    "equipo_visitante": "Alemania",
+    "goles_local": 2,
+    "goles_visitante": 1,
+    "estadio": "New York New Jersey Stadium",
+    "fase": "Fase de Grupos - Grupo E",
+    "fecha": "2026-06-25"
+  },
+  "goleadores": [
+    {
+      "minuto": 2,
+      "jugador": "Leroy Sané",
+      "equipo": "Alemania"
+    },
+    {
+      "minuto": 9,
+      "jugador": "Nilson Angulo",
+      "equipo": "Ecuador"
+    },
+    {
+      "minuto": 77,
+      "jugador": "Gonzalo Plata",
+      "equipo": "Ecuador"
+    }
+  ],
+  "estadisticas_generales": {
+    "posesion_porcentaje": {
+      "Ecuador": 39,
+      "Alemania": 61
+    },
+    "tiros_totales": {
+      "Ecuador": 7,
+      "Alemania": 11
+    },
+    "tiros_a_puerta": {
+      "Ecuador": 3,
+      "Alemania": 3
+    },
+    "tiros_fuera": {
+      "Ecuador": 2,
+      "Alemania": 3
+    },
+    "tiros_bloqueados": {
+      "Ecuador": 2,
+      "Alemania": 5
+    },
+    "goles_esperados_xG": {
+      "Ecuador": 1.27,
+      "Alemania": 0.65
+    },
+    "pases_completados": {
+      "Ecuador": 312,
+      "Alemania": 517
+    },
+    "precision_pases_porcentaje": {
+      "Ecuador": 83,
+      "Alemania": 87
+    }
+  },
+  "estadisticas_especificas": {
+    "corners": {
+      "Ecuador": 3,
+      "Alemania": 2
+    },
+    "faltas_cometidas": {
+      "Ecuador": 15,
+      "Alemania": 10
+    },
+    "fueras_de_juego": {
+      "Ecuador": 0,
+      "Alemania": 0
+    },
+    "paradas_del_portero": {
+      "Ecuador": 2,
+      "Alemania": 1
+    }
+  },
+  "tarjetas": {
+    "amarillas": [
+      {
+        "minuto": 43,
+        "jugador": "Piero Hincapié",
+        "equipo": "Ecuador"
+      },
+      {
+        "minuto": 44,
+        "jugador": "Aleksandar Pavlovic",
+        "equipo": "Alemania"
+      },
+      {
+        "minuto": 50,
+        "jugador": "Alan Franco",
+        "equipo": "Ecuador"
+      },
+      {
+        "minuto": 89,
+        "jugador": "Gonzalo Plata",
+        "equipo": "Ecuador"
+      }
+    ],
+    "rojas": [],
+    "resumen": {
+      "Ecuador": {
+        "amarillas": 3,
+        "rojas": 0
+      },
+      "Alemania": {
+        "amarillas": 1,
+        "rojas": 0
+      }
+    }
+  },
+  "records_o_notas": [
+    "Ecuador logró una remontada histórica ante Alemania, clasificando a los octavos de final como segundo del Grupo E",
+    "Pedro Vite fue la figura del partido con una calificación de 8.7, asistiendo el gol de Nilson Angulo",
+    "Alemania se adelantó tempranamente con un gol de Leroy Sané al minuto 2, pero no pudo mantener la ventaja",
+    "Ecuador tuvo menos posesión (39%) y menos tiros totales (7) que Alemania (61% y 11), pero fue más efectivo",
+    "El xG de Ecuador (1.27) fue superior al de Alemania (0.65), reflejando la calidad de las oportunidades ecuatorianas",
+    "Ecuador recibió 3 tarjetas amarillas, mientras que Alemania recibió 1",
+    "El partido se disputó ante 80,663 espectadores en el New York New Jersey Stadium",
+    "Alemania sufrió las bajas por lesión de Nathaniel Brown y Nico Schlotterbeck"
+  ]
+}
