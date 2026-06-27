@@ -1,0 +1,137 @@
+{
+  "partido": {
+    "equipo_local": "Egipto",
+    "equipo_visitante": "Iran",
+    "goles_local": 1,
+    "goles_visitante": 1,
+    "estadio": "Seattle Stadium",
+    "fase": "Fase de Grupos - Grupo G",
+    "fecha": "2026-06-26"
+  },
+  "goleadores": [
+    {
+      "minuto": 5,
+      "jugador": "Mahmoud Saber",
+      "equipo": "Egipto"
+    },
+    {
+      "minuto": 14,
+      "jugador": "Ramin Rezaeian",
+      "equipo": "Iran"
+    }
+  ],
+  "estadisticas_generales": {
+    "posesion_porcentaje": {
+      "Egipto": 61,
+      "Iran": 39
+    },
+    "tiros_totales": {
+      "Egipto": 15,
+      "Iran": 13
+    },
+    "tiros_a_puerta": {
+      "Egipto": 3,
+      "Iran": 4
+    },
+    "tiros_fuera": {
+      "Egipto": 6,
+      "Iran": 6
+    },
+    "tiros_bloqueados": {
+      "Egipto": 6,
+      "Iran": 3
+    },
+    "goles_esperados_xG": {
+      "Egipto": 0.84,
+      "Iran": 1.97
+    },
+    "pases_completados": {
+      "Egipto": 513,
+      "Iran": 281
+    },
+    "precision_pases_porcentaje": {
+      "Egipto": 87,
+      "Iran": 77
+    }
+  },
+  "estadisticas_especificas": {
+    "corners": {
+      "Egipto": 8,
+      "Iran": 2
+    },
+    "faltas_cometidas": {
+      "Egipto": 11,
+      "Iran": 16
+    },
+    "fueras_de_juego": {
+      "Egipto": 0,
+      "Iran": 3
+    },
+    "paradas_del_portero": {
+      "Egipto": 2,
+      "Iran": 2
+    }
+  },
+  "tarjetas": {
+    "amarillas": [
+      {
+        "minuto": 18,
+        "jugador": "Hossein Kanaani",
+        "equipo": "Iran"
+      },
+      {
+        "minuto": 19,
+        "jugador": "Mahmoud Saber",
+        "equipo": "Egipto"
+      },
+      {
+        "minuto": 41,
+        "jugador": "Yasser Ibrahim",
+        "equipo": "Egipto"
+      },
+      {
+        "minuto": 43,
+        "jugador": "Ali Nemati",
+        "equipo": "Iran"
+      },
+      {
+        "minuto": 79,
+        "jugador": "Saeid Ezatolahi",
+        "equipo": "Iran"
+      },
+      {
+        "minuto": 90,
+        "jugador": "Mohanad Lasheen",
+        "equipo": "Egipto",
+        "nota": "Minuto 90+2'"
+      },
+      {
+        "minuto": 90,
+        "jugador": "Shoja Khalilzadeh",
+        "equipo": "Iran",
+        "nota": "Minuto 90+4'"
+      }
+    ],
+    "rojas": [],
+    "resumen": {
+      "Egipto": {
+        "amarillas": 3,
+        "rojas": 0
+      },
+      "Iran": {
+        "amarillas": 4,
+        "rojas": 0
+      }
+    }
+  },
+  "records_o_notas": [
+    "Egipto e Iran empataron 1-1 en un partido intenso del Grupo G, que permitió a Egipto clasificar a los octavos de final como líder del grupo con 7 puntos",
+    "Iran falló un penalti al minuto 11 por Mehdi Taremi, que hubiera cambiado el rumbo del partido",
+    "El xG de Iran (1.97) fue superior al de Egipto (0.84), reflejando el mayor peligro ofensivo iraní a pesar del empate",
+    "Egipto dominó la posesión con un 61% frente al 39% de Iran",
+    "Egipto tuvo 8 corners, mientras que Iran tuvo solo 2",
+    "Ambos equipos recibieron múltiples tarjetas amarillas (3 para Egipto, 4 para Iran)",
+    "El partido se disputó ante 66,925 espectadores en el Seattle Stadium",
+    "Egipto sufrió las bajas por lesión de Hamdy Fathy y Hossam Abdelmaguid"
+  ]
+}

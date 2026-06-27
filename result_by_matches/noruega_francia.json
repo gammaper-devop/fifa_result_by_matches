@@ -1,0 +1,127 @@
+{
+  "partido": {
+    "equipo_local": "Noruega",
+    "equipo_visitante": "Francia",
+    "goles_local": 1,
+    "goles_visitante": 4,
+    "estadio": "Boston Stadium",
+    "fase": "Fase de Grupos - Grupo I",
+    "fecha": "2026-06-26"
+  },
+  "goleadores": [
+    {
+      "minuto": 7,
+      "jugador": "Ousmane Dembélé",
+      "equipo": "Francia"
+    },
+    {
+      "minuto": 20,
+      "jugador": "Ousmane Dembélé",
+      "equipo": "Francia"
+    },
+    {
+      "minuto": 21,
+      "jugador": "Thelo Aasgaard",
+      "equipo": "Noruega"
+    },
+    {
+      "minuto": 32,
+      "jugador": "Ousmane Dembélé",
+      "equipo": "Francia"
+    },
+    {
+      "minuto": 90,
+      "jugador": "Désiré Doué",
+      "equipo": "Francia",
+      "nota": "Minuto 90+4'"
+    }
+  ],
+  "estadisticas_generales": {
+    "posesion_porcentaje": {
+      "Noruega": 43,
+      "Francia": 57
+    },
+    "tiros_totales": {
+      "Noruega": 10,
+      "Francia": 18
+    },
+    "tiros_a_puerta": {
+      "Noruega": 4,
+      "Francia": 9
+    },
+    "tiros_fuera": {
+      "Noruega": 3,
+      "Francia": 6
+    },
+    "tiros_bloqueados": {
+      "Noruega": 3,
+      "Francia": 3
+    },
+    "goles_esperados_xG": {
+      "Noruega": 1.70,
+      "Francia": 1.50
+    },
+    "pases_completados": {
+      "Noruega": 343,
+      "Francia": 480
+    },
+    "precision_pases_porcentaje": {
+      "Noruega": 81,
+      "Francia": 86
+    }
+  },
+  "estadisticas_especificas": {
+    "corners": {
+      "Noruega": 4,
+      "Francia": 5
+    },
+    "faltas_cometidas": {
+      "Noruega": 9,
+      "Francia": 11
+    },
+    "fueras_de_juego": {
+      "Noruega": 1,
+      "Francia": 2
+    },
+    "paradas_del_portero": {
+      "Noruega": 5,
+      "Francia": 3
+    }
+  },
+  "tarjetas": {
+    "amarillas": [
+      {
+        "minuto": 10,
+        "jugador": "Patrick Berg",
+        "equipo": "Noruega"
+      },
+      {
+        "minuto": 74,
+        "jugador": "Aurélien Tchouaméni",
+        "equipo": "Francia"
+      }
+    ],
+    "rojas": [],
+    "resumen": {
+      "Noruega": {
+        "amarillas": 1,
+        "rojas": 0
+      },
+      "Francia": {
+        "amarillas": 1,
+        "rojas": 0
+      }
+    }
+  },
+  "records_o_notas": [
+    "Francia finalizó invicta el Grupo I con 9 puntos, clasificando como líder",
+    "Ousmane Dembélé anotó un hat-trick (minutos 7, 20 y 32) y fue la figura del partido con una calificación de 9.6",
+    "El hat-trick de Dembélé fue el segundo más rápido en la historia de los Mundiales, solo por detrás del de Kylian Mbappé en 2022",
+    "Noruega falló un penalti al minuto 50 por Jørgen Strand Larsen, que hubiera acortado distancias",
+    "Francia dominó la posesión con un 57% frente al 43% de Noruega",
+    "Francia realizó más tiros totales (18) que Noruega (10) y más tiros a puerta (9 contra 4)",
+    "El xG de Noruega (1.70) fue ligeramente superior al de Francia (1.50), reflejando la efectividad francesa",
+    "El partido se disputó ante 64,146 espectadores en el Boston Stadium",
+    "Noruega presentó un equipo alternativo, con Erling Haaland y Martin Ødegaard en el banquillo"
+  ]
+}

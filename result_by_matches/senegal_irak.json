@@ -1,0 +1,143 @@
+{
+  "partido": {
+    "equipo_local": "Senegal",
+    "equipo_visitante": "Irak",
+    "goles_local": 5,
+    "goles_visitante": 0,
+    "estadio": "Toronto Stadium",
+    "fase": "Fase de Grupos - Grupo I",
+    "fecha": "2026-06-26"
+  },
+  "goleadores": [
+    {
+      "minuto": 4,
+      "jugador": "Habib Diarra",
+      "equipo": "Senegal"
+    },
+    {
+      "minuto": 56,
+      "jugador": "Ismaïla Sarr",
+      "equipo": "Senegal"
+    },
+    {
+      "minuto": 59,
+      "jugador": "Pape Gueye",
+      "equipo": "Senegal"
+    },
+    {
+      "minuto": 71,
+      "jugador": "Pape Gueye",
+      "equipo": "Senegal"
+    },
+    {
+      "minuto": 82,
+      "jugador": "Iliman Ndiaye",
+      "equipo": "Senegal"
+    }
+  ],
+  "estadisticas_generales": {
+    "posesion_porcentaje": {
+      "Senegal": 69,
+      "Irak": 31
+    },
+    "tiros_totales": {
+      "Senegal": 28,
+      "Irak": 6
+    },
+    "tiros_a_puerta": {
+      "Senegal": 12,
+      "Irak": 1
+    },
+    "tiros_fuera": {
+      "Senegal": 11,
+      "Irak": 1
+    },
+    "tiros_bloqueados": {
+      "Senegal": 5,
+      "Irak": 4
+    },
+    "goles_esperados_xG": {
+      "Senegal": 3.01,
+      "Irak": 0.14
+    },
+    "pases_completados": {
+      "Senegal": 517,
+      "Irak": 184
+    },
+    "precision_pases_porcentaje": {
+      "Senegal": 88,
+      "Irak": 69
+    }
+  },
+  "estadisticas_especificas": {
+    "corners": {
+      "Senegal": 12,
+      "Irak": 3
+    },
+    "faltas_cometidas": {
+      "Senegal": 10,
+      "Irak": 11
+    },
+    "fueras_de_juego": {
+      "Senegal": 1,
+      "Irak": 0
+    },
+    "paradas_del_portero": {
+      "Senegal": 1,
+      "Irak": 7
+    }
+  },
+  "tarjetas": {
+    "amarillas": [
+      {
+        "minuto": 18,
+        "jugador": "Abdoulaye Seck",
+        "equipo": "Senegal"
+      },
+      {
+        "minuto": 75,
+        "jugador": "Amir Al-Ammari",
+        "equipo": "Irak"
+      },
+      {
+        "minuto": 81,
+        "jugador": "Pape Gueye",
+        "equipo": "Senegal"
+      },
+      {
+        "minuto": 90,
+        "jugador": "Merchas Doski",
+        "equipo": "Irak"
+      }
+    ],
+    "rojas": [
+      {
+        "minuto": 13,
+        "jugador": "Rebin Sulaka",
+        "equipo": "Irak",
+        "tipo": "roja_directa"
+      }
+    ],
+    "resumen": {
+      "Senegal": {
+        "amarillas": 2,
+        "rojas": 0
+      },
+      "Irak": {
+        "amarillas": 2,
+        "rojas": 1
+      }
+    }
+  },
+  "records_o_notas": [
+    "Senegal logró su victoria más abultada en la historia de los Mundiales y mantuvo vivas sus opciones de clasificación como mejor tercero",
+    "Pape Gueye fue la figura del partido con un doblete y una calificación de 9.3, ingresando como sustituto en el segundo tiempo",
+    "Irak jugó con 10 hombres desde el minuto 13 por la expulsión directa de Rebin Sulaka",
+    "Senegal dominó completamente con un 69% de posesión y 28 tiros totales",
+    "El xG de Senegal (3.01) fue significativamente mayor que el de Irak (0.14)",
+    "Senegal tuvo 12 corners, mientras que Irak tuvo solo 3",
+    "El portero iraquí Ahmed Basil Fadhil realizó 7 paradas a pesar de la goleada",
+    "El partido se disputó ante 43,036 espectadores en el Toronto Stadium",
+    "Senegal sufrió la baja por lesión de Édouard Mendy"
+  ]
+}

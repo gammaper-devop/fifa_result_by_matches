@@ -1,0 +1,124 @@
+{
+  "partido": {
+    "equipo_local": "Uruguay",
+    "equipo_visitante": "España",
+    "goles_local": 0,
+    "goles_visitante": 1,
+    "estadio": "Guadalajara Stadium",
+    "fase": "Fase de Grupos - Grupo H",
+    "fecha": "2026-06-26"
+  },
+  "goleadores": [
+    {
+      "minuto": 42,
+      "jugador": "Álex Baena",
+      "equipo": "España"
+    }
+  ],
+  "estadisticas_generales": {
+    "posesion_porcentaje": {
+      "Uruguay": 33,
+      "España": 67
+    },
+    "tiros_totales": {
+      "Uruguay": 5,
+      "España": 6
+    },
+    "tiros_a_puerta": {
+      "Uruguay": 1,
+      "España": 1
+    },
+    "tiros_fuera": {
+      "Uruguay": 3,
+      "España": 4
+    },
+    "tiros_bloqueados": {
+      "Uruguay": 1,
+      "España": 1
+    },
+    "goles_esperados_xG": {
+      "Uruguay": 0.20,
+      "España": 0.86
+    },
+    "pases_completados": {
+      "Uruguay": 228,
+      "España": 553
+    },
+    "precision_pases_porcentaje": {
+      "Uruguay": 76,
+      "España": 89
+    }
+  },
+  "estadisticas_especificas": {
+    "corners": {
+      "Uruguay": 1,
+      "España": 6
+    },
+    "faltas_cometidas": {
+      "Uruguay": 14,
+      "España": 14
+    },
+    "fueras_de_juego": {
+      "Uruguay": 5,
+      "España": 2
+    },
+    "paradas_del_portero": {
+      "Uruguay": 0,
+      "España": 2
+    }
+  },
+  "tarjetas": {
+    "amarillas": [
+      {
+        "minuto": 46,
+        "jugador": "Álex Baena",
+        "equipo": "España"
+      },
+      {
+        "minuto": 54,
+        "jugador": "Juan Sanabria",
+        "equipo": "Uruguay"
+      },
+      {
+        "minuto": 58,
+        "jugador": "Guillermo Varela",
+        "equipo": "Uruguay"
+      },
+      {
+        "minuto": 90,
+        "jugador": "Nicolás de la Cruz",
+        "equipo": "Uruguay",
+        "nota": "Minuto 90+3'"
+      }
+    ],
+    "rojas": [
+      {
+        "minuto": 90,
+        "jugador": "Agustín Canobbio",
+        "equipo": "Uruguay",
+        "tipo": "roja_directa",
+        "nota": "Minuto 90+4'"
+      }
+    ],
+    "resumen": {
+      "Uruguay": {
+        "amarillas": 3,
+        "rojas": 1
+      },
+      "España": {
+        "amarillas": 1,
+        "rojas": 0
+      }
+    }
+  },
+  "records_o_notas": [
+    "España clasificó a los octavos de final como líder del Grupo H con 7 puntos, eliminando a Uruguay",
+    "Álex Baena anotó el gol de la clasificación al minuto 42, su primer gol en un Mundial",
+    "España dominó la posesión con un 67% frente al 33% de Uruguay",
+    "España tuvo más corners (6) que Uruguay (1) y más tiros totales (6 contra 5)",
+    "El xG de España (0.86) fue superior al de Uruguay (0.20), reflejando el mayor peligro ofensivo español",
+    "Uruguay recibió 3 tarjetas amarillas y 1 roja directa (Agustín Canobbio en el minuto 90+4')",
+    "El partido se disputó ante 45,065 espectadores en el Guadalajara Stadium",
+    "Con este resultado, España se mantuvo invicta en el Grupo H junto a Cabo Verde"
+  ]
+}

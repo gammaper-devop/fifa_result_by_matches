@@ -1,0 +1,109 @@
+{
+  "partido": {
+    "equipo_local": "Cabo Verde",
+    "equipo_visitante": "Arabia Saudita",
+    "goles_local": 0,
+    "goles_visitante": 0,
+    "estadio": "Houston Stadium",
+    "fase": "Fase de Grupos - Grupo H",
+    "fecha": "2026-06-26"
+  },
+  "goleadores": [],
+  "estadisticas_generales": {
+    "posesion_porcentaje": {
+      "Cabo Verde": 51,
+      "Arabia Saudita": 49
+    },
+    "tiros_totales": {
+      "Cabo Verde": 15,
+      "Arabia Saudita": 7
+    },
+    "tiros_a_puerta": {
+      "Cabo Verde": 2,
+      "Arabia Saudita": 3
+    },
+    "tiros_fuera": {
+      "Cabo Verde": 8,
+      "Arabia Saudita": 1
+    },
+    "tiros_bloqueados": {
+      "Cabo Verde": 5,
+      "Arabia Saudita": 3
+    },
+    "goles_esperados_xG": {
+      "Cabo Verde": 1.39,
+      "Arabia Saudita": 0.39
+    },
+    "pases_completados": {
+      "Cabo Verde": 381,
+      "Arabia Saudita": 359
+    },
+    "precision_pases_porcentaje": {
+      "Cabo Verde": 84,
+      "Arabia Saudita": 81
+    }
+  },
+  "estadisticas_especificas": {
+    "corners": {
+      "Cabo Verde": 4,
+      "Arabia Saudita": 2
+    },
+    "faltas_cometidas": {
+      "Cabo Verde": 10,
+      "Arabia Saudita": 16
+    },
+    "fueras_de_juego": {
+      "Cabo Verde": 2,
+      "Arabia Saudita": 0
+    },
+    "paradas_del_portero": {
+      "Cabo Verde": 3,
+      "Arabia Saudita": 2
+    }
+  },
+  "tarjetas": {
+    "amarillas": [
+      {
+        "minuto": 4,
+        "jugador": "Saud Abdulhamid",
+        "equipo": "Arabia Saudita"
+      },
+      {
+        "minuto": 8,
+        "jugador": "Wagner Pina",
+        "equipo": "Cabo Verde"
+      },
+      {
+        "minuto": 67,
+        "jugador": "Nasser Al-Dawsari",
+        "equipo": "Arabia Saudita"
+      },
+      {
+        "minuto": 90,
+        "jugador": "Firas Al-Buraikan",
+        "equipo": "Arabia Saudita",
+        "nota": "Minuto 90+3'"
+      }
+    ],
+    "rojas": [],
+    "resumen": {
+      "Cabo Verde": {
+        "amarillas": 1,
+        "rojas": 0
+      },
+      "Arabia Saudita": {
+        "amarillas": 3,
+        "rojas": 0
+      }
+    }
+  },
+  "records_o_notas": [
+    "Cabo Verde clasificó a los octavos de final en su debut mundialista, un hito histórico para el país",
+    "El empate aseguró el pase de Cabo Verde como uno de los mejores terceros del Grupo H",
+    "Cabo Verde tuvo más posesión (51%) que Arabia Saudita (49%) y más tiros totales (15 contra 7)",
+    "El xG de Cabo Verde (1.39) fue superior al de Arabia Saudita (0.39), reflejando el mayor peligro ofensivo caboverdiano",
+    "Arabia Saudita recibió 3 tarjetas amarillas, mientras que Cabo Verde recibió 1",
+    "El partido se disputó ante 68,278 espectadores en el Houston Stadium",
+    "Cabo Verde no contó con Sidny Lopes Cabral (suspendido) y Telmo Arcanjo (lesionado)"
+  ]
+}

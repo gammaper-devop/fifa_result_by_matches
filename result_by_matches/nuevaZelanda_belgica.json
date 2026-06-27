@@ -1,0 +1,131 @@
+{
+  "partido": {
+    "equipo_local": "Nueva Zelanda",
+    "equipo_visitante": "Belgica",
+    "goles_local": 1,
+    "goles_visitante": 5,
+    "estadio": "BC Place Vancouver",
+    "fase": "Fase de Grupos - Grupo G",
+    "fecha": "2026-06-26"
+  },
+  "goleadores": [
+    {
+      "minuto": 28,
+      "jugador": "Leandro Trossard",
+      "equipo": "Belgica"
+    },
+    {
+      "minuto": 50,
+      "jugador": "Leandro Trossard",
+      "equipo": "Belgica"
+    },
+    {
+      "minuto": 66,
+      "jugador": "Kevin De Bruyne",
+      "equipo": "Belgica"
+    },
+    {
+      "minuto": 84,
+      "jugador": "Elijah Just",
+      "equipo": "Nueva Zelanda"
+    },
+    {
+      "minuto": 86,
+      "jugador": "Romelu Lukaku",
+      "equipo": "Belgica"
+    },
+    {
+      "minuto": 90,
+      "jugador": "Alexis Saelemaekers",
+      "equipo": "Belgica",
+      "nota": "Minuto 90+4'"
+    }
+  ],
+  "estadisticas_generales": {
+    "posesion_porcentaje": {
+      "Nueva Zelanda": 46,
+      "Belgica": 54
+    },
+    "tiros_totales": {
+      "Nueva Zelanda": 6,
+      "Belgica": 35
+    },
+    "tiros_a_puerta": {
+      "Nueva Zelanda": 2,
+      "Belgica": 10
+    },
+    "tiros_fuera": {
+      "Nueva Zelanda": 3,
+      "Belgica": 13
+    },
+    "tiros_bloqueados": {
+      "Nueva Zelanda": 1,
+      "Belgica": 12
+    },
+    "goles_esperados_xG": {
+      "Nueva Zelanda": 0.24,
+      "Belgica": 3.64
+    },
+    "pases_completados": {
+      "Nueva Zelanda": 369,
+      "Belgica": 462
+    },
+    "precision_pases_porcentaje": {
+      "Nueva Zelanda": 85,
+      "Belgica": 88
+    }
+  },
+  "estadisticas_especificas": {
+    "corners": {
+      "Nueva Zelanda": 5,
+      "Belgica": 8
+    },
+    "faltas_cometidas": {
+      "Nueva Zelanda": 10,
+      "Belgica": 7
+    },
+    "fueras_de_juego": {
+      "Nueva Zelanda": 1,
+      "Belgica": 1
+    },
+    "paradas_del_portero": {
+      "Nueva Zelanda": 5,
+      "Belgica": 1
+    }
+  },
+  "tarjetas": {
+    "amarillas": [
+      {
+        "minuto": 46,
+        "jugador": "Marko Stamenic",
+        "equipo": "Nueva Zelanda"
+      },
+      {
+        "minuto": 56,
+        "jugador": "Elijah Just",
+        "equipo": "Nueva Zelanda"
+      }
+    ],
+    "rojas": [],
+    "resumen": {
+      "Nueva Zelanda": {
+        "amarillas": 2,
+        "rojas": 0
+      },
+      "Belgica": {
+        "amarillas": 0,
+        "rojas": 0
+      }
+    }
+  },
+  "records_o_notas": [
+    "Belgica clasificó a los octavos de final como líder del Grupo G con 7 puntos, invicta en el torneo",
+    "Leandro Trossard fue la figura del partido con un doblete y una calificación de 9.3",
+    "Belgica realizó 35 tiros totales, su mayor cifra en un partido de Mundial desde 1970",
+    "El xG de Belgica (3.64) fue significativamente mayor que el de Nueva Zelanda (0.24), reflejando el dominio ofensivo belga",
+    "Belgica tuvo más corners (8) que Nueva Zelanda (5) y más tiros a puerta (10 contra 2)",
+    "El portero neozelandes Max Crocombe realizó 5 paradas a pesar de la goleada",
+    "El partido se disputó ante 52,497 espectadores en el BC Place Vancouver",
+    "Belgica sufrió las bajas por lesión de Zeno Debast y la suspensión de Nathan Ngoy"
+  ]
+}
