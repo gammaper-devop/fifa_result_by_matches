@@ -1,0 +1,115 @@
+{
+  "partido": {
+    "equipo_local": "Panama",
+    "equipo_visitante": "Inglaterra",
+    "goles_local": 0,
+    "goles_visitante": 2,
+    "estadio": "New York New Jersey Stadium",
+    "fase": "Fase de Grupos - Grupo L",
+    "fecha": "2026-06-27"
+  },
+  "goleadores": [
+    {
+      "minuto": 62,
+      "jugador": "Jude Bellingham",
+      "equipo": "Inglaterra"
+    },
+    {
+      "minuto": 67,
+      "jugador": "Harry Kane",
+      "equipo": "Inglaterra"
+    }
+  ],
+  "estadisticas_generales": {
+    "posesion_porcentaje": {
+      "Panama": 33,
+      "Inglaterra": 67
+    },
+    "tiros_totales": {
+      "Panama": 13,
+      "Inglaterra": 17
+    },
+    "tiros_a_puerta": {
+      "Panama": 2,
+      "Inglaterra": 6
+    },
+    "tiros_fuera": {
+      "Panama": 8,
+      "Inglaterra": 8
+    },
+    "tiros_bloqueados": {
+      "Panama": 3,
+      "Inglaterra": 3
+    },
+    "goles_esperados_xG": {
+      "Panama": 0.66,
+      "Inglaterra": 1.56
+    },
+    "pases_completados": {
+      "Panama": 202,
+      "Inglaterra": 490
+    },
+    "precision_pases_porcentaje": {
+      "Panama": 75,
+      "Inglaterra": 88
+    }
+  },
+  "estadisticas_especificas": {
+    "corners": {
+      "Panama": 3,
+      "Inglaterra": 7
+    },
+    "faltas_cometidas": {
+      "Panama": 16,
+      "Inglaterra": 13
+    },
+    "fueras_de_juego": {
+      "Panama": 4,
+      "Inglaterra": 4
+    },
+    "paradas_del_portero": {
+      "Panama": 4,
+      "Inglaterra": 2
+    }
+  },
+  "tarjetas": {
+    "amarillas": [
+      {
+        "minuto": 53,
+        "jugador": "José Fajardo",
+        "equipo": "Panama"
+      },
+      {
+        "minuto": 60,
+        "jugador": "Jarell Quansah",
+        "equipo": "Inglaterra"
+      },
+      {
+        "minuto": 83,
+        "jugador": "Andrés Andrade",
+        "equipo": "Panama"
+      }
+    ],
+    "rojas": [],
+    "resumen": {
+      "Panama": {
+        "amarillas": 2,
+        "rojas": 0
+      },
+      "Inglaterra": {
+        "amarillas": 1,
+        "rojas": 0
+      }
+    }
+  },
+  "records_o_notas": [
+    "Inglaterra clasificó a los octavos de final como líder del Grupo L con 7 puntos, invicta en el torneo",
+    "Harry Kane anotó su gol número 11 en Mundiales, estableciendo un nuevo récord para Inglaterra",
+    "Jude Bellingham fue la figura del partido con un gol y una calificación de 9.1",
+    "Inglaterra dominó la posesión con un 67% frente al 33% de Panama",
+    "Inglaterra realizó mas tiros totales (17) que Panama (13) y mas tiros a puerta (6 contra 2)",
+    "El xG de Inglaterra (1.56) fue superior al de Panama (0.66), reflejando el dominio ofensivo inglés",
+    "El partido se disputó ante 80,663 espectadores en el New York New Jersey Stadium",
+    "Inglaterra sufrió la baja por lesión de Reece James"
+  ]
+}

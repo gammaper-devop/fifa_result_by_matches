@@ -1,0 +1,138 @@
+{
+  "partido": {
+    "equipo_local": "RD Congo",
+    "equipo_visitante": "Uzbekistan",
+    "goles_local": 3,
+    "goles_visitante": 1,
+    "estadio": "Atlanta Stadium",
+    "fase": "Fase de Grupos - Grupo K",
+    "fecha": "2026-06-27"
+  },
+  "goleadores": [
+    {
+      "minuto": 10,
+      "jugador": "Eldor Shomurodov",
+      "equipo": "Uzbekistan"
+    },
+    {
+      "minuto": 68,
+      "jugador": "Yoane Wissa",
+      "equipo": "RD Congo",
+      "nota": "Penalti"
+    },
+    {
+      "minuto": 78,
+      "jugador": "Fiston Mayele",
+      "equipo": "RD Congo"
+    },
+    {
+      "minuto": 90,
+      "jugador": "Yoane Wissa",
+      "equipo": "RD Congo",
+      "nota": "Minuto 90+1'"
+    }
+  ],
+  "estadisticas_generales": {
+    "posesion_porcentaje": {
+      "RD Congo": 58,
+      "Uzbekistan": 42
+    },
+    "tiros_totales": {
+      "RD Congo": 19,
+      "Uzbekistan": 3
+    },
+    "tiros_a_puerta": {
+      "RD Congo": 4,
+      "Uzbekistan": 1
+    },
+    "tiros_fuera": {
+      "RD Congo": 14,
+      "Uzbekistan": 2
+    },
+    "tiros_bloqueados": {
+      "RD Congo": 1,
+      "Uzbekistan": 0
+    },
+    "goles_esperados_xG": {
+      "RD Congo": 2.35,
+      "Uzbekistan": 0.20
+    },
+    "pases_completados": {
+      "RD Congo": 401,
+      "Uzbekistan": 269
+    },
+    "precision_pases_porcentaje": {
+      "RD Congo": 82,
+      "Uzbekistan": 76
+    }
+  },
+  "estadisticas_especificas": {
+    "corners": {
+      "RD Congo": 2,
+      "Uzbekistan": 4
+    },
+    "faltas_cometidas": {
+      "RD Congo": 6,
+      "Uzbekistan": 16
+    },
+    "fueras_de_juego": {
+      "RD Congo": 3,
+      "Uzbekistan": 1
+    },
+    "paradas_del_portero": {
+      "RD Congo": 0,
+      "Uzbekistan": 1
+    }
+  },
+  "tarjetas": {
+    "amarillas": [
+      {
+        "minuto": 21,
+        "jugador": "Noah Sadiki",
+        "equipo": "RD Congo"
+      },
+      {
+        "minuto": 43,
+        "jugador": "Abdukodir Khusanov",
+        "equipo": "Uzbekistan"
+      },
+      {
+        "minuto": 45,
+        "jugador": "Nathanaël Mbuku",
+        "equipo": "RD Congo",
+        "nota": "Minuto 45+4'"
+      },
+      {
+        "minuto": 47,
+        "jugador": "Sherzod Nasrulloev",
+        "equipo": "Uzbekistan"
+      },
+      {
+        "minuto": 62,
+        "jugador": "Samuel Moutoussamy",
+        "equipo": "RD Congo"
+      }
+    ],
+    "rojas": [],
+    "resumen": {
+      "RD Congo": {
+        "amarillas": 3,
+        "rojas": 0
+      },
+      "Uzbekistan": {
+        "amarillas": 2,
+        "rojas": 0
+      }
+    }
+  },
+  "records_o_notas": [
+    "RD Congo clasificó a los octavos de final como uno de los mejores terceros del Grupo K, logrando una remontada ante Uzbekistan",
+    "Yoane Wissa fue la figura del partido con un doblete (incluyendo un penalti) y una calificación de 8.9",
+    "RD Congo remontó un partido que comenzó perdiendo 0-1 al minuto 10",
+    "RD Congo dominó la posesión con un 58% frente al 42% de Uzbekistan",
+    "RD Congo realizó 19 tiros totales, mientras que Uzbekistan solo tuvo 3",
+    "El xG de RD Congo (2.35) fue significativamente mayor que el de Uzbekistan (0.20)",
+    "El partido se disputó ante 68,239 espectadores en el Atlanta Stadium",
+    "Uzbekistan quedó eliminada del Mundial después de una campaña sin victorias"
+  ]
+}

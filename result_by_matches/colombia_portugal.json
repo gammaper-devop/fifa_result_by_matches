@@ -1,0 +1,94 @@
+{
+  "partido": {
+    "equipo_local": "Colombia",
+    "equipo_visitante": "Portugal",
+    "goles_local": 0,
+    "goles_visitante": 0,
+    "estadio": "Miami Stadium",
+    "fase": "Fase de Grupos - Grupo K",
+    "fecha": "2026-06-27"
+  },
+  "goleadores": [],
+  "estadisticas_generales": {
+    "posesion_porcentaje": {
+      "Colombia": 55,
+      "Portugal": 45
+    },
+    "tiros_totales": {
+      "Colombia": 24,
+      "Portugal": 13
+    },
+    "tiros_a_puerta": {
+      "Colombia": 6,
+      "Portugal": 2
+    },
+    "tiros_fuera": {
+      "Colombia": 11,
+      "Portugal": 7
+    },
+    "tiros_bloqueados": {
+      "Colombia": 7,
+      "Portugal": 4
+    },
+    "goles_esperados_xG": {
+      "Colombia": 1.63,
+      "Portugal": 0.70
+    },
+    "pases_completados": {
+      "Colombia": 485,
+      "Portugal": 405
+    },
+    "precision_pases_porcentaje": {
+      "Colombia": 89,
+      "Portugal": 91
+    }
+  },
+  "estadisticas_especificas": {
+    "corners": {
+      "Colombia": 5,
+      "Portugal": 2
+    },
+    "faltas_cometidas": {
+      "Colombia": 12,
+      "Portugal": 6
+    },
+    "fueras_de_juego": {
+      "Colombia": 3,
+      "Portugal": 2
+    },
+    "paradas_del_portero": {
+      "Colombia": 2,
+      "Portugal": 6
+    }
+  },
+  "tarjetas": {
+    "amarillas": [
+      {
+        "minuto": 86,
+        "jugador": "Gustavo Puerta",
+        "equipo": "Colombia"
+      }
+    ],
+    "rojas": [],
+    "resumen": {
+      "Colombia": {
+        "amarillas": 1,
+        "rojas": 0
+      },
+      "Portugal": {
+        "amarillas": 0,
+        "rojas": 0
+      }
+    }
+  },
+  "records_o_notas": [
+    "Colombia clasificó a los octavos de final como líder del Grupo K con 7 puntos, invicta en el torneo",
+    "Portugal también clasificó a los octavos de final como segundo del Grupo K con 7 puntos, detrás de Colombia por diferencia de goles",
+    "Colombia dominó el partido con más posesión (55%) y más tiros totales (24) que Portugal (45% y 13)",
+    "El xG de Colombia (1.63) fue superior al de Portugal (0.70), reflejando el mayor peligro ofensivo colombiano",
+    "El portero portugués Diogo Costa fue la figura del partido con 6 paradas y una calificación de 8.2",
+    "Colombia tuvo más corners (5) que Portugal (2)",
+    "El partido se disputó ante 64,478 espectadores en el Miami Stadium",
+    "Ambos equipos terminaron invictos en la fase de grupos, con 2 victorias y 1 empate cada uno"
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "partido": {
+    "equipo_local": "Croacia",
+    "equipo_visitante": "Ghana",
+    "goles_local": 2,
+    "goles_visitante": 1,
+    "estadio": "Philadelphia Stadium",
+    "fase": "Fase de Grupos - Grupo L",
+    "fecha": "2026-06-27"
+  },
+  "goleadores": [
+    {
+      "minuto": 31,
+      "jugador": "Petar Sucic",
+      "equipo": "Croacia"
+    },
+    {
+      "minuto": 73,
+      "jugador": "Derrick Luckassen",
+      "equipo": "Ghana"
+    },
+    {
+      "minuto": 83,
+      "jugador": "Nikola Vlasic",
+      "equipo": "Croacia"
+    }
+  ],
+  "estadisticas_generales": {
+    "posesion_porcentaje": {
+      "Croacia": 53,
+      "Ghana": 47
+    },
+    "tiros_totales": {
+      "Croacia": 8,
+      "Ghana": 6
+    },
+    "tiros_a_puerta": {
+      "Croacia": 4,
+      "Ghana": 1
+    },
+    "tiros_fuera": {
+      "Croacia": 2,
+      "Ghana": 3
+    },
+    "tiros_bloqueados": {
+      "Croacia": 2,
+      "Ghana": 2
+    },
+    "goles_esperados_xG": {
+      "Croacia": 0.42,
+      "Ghana": 0.64
+    },
+    "pases_completados": {
+      "Croacia": 477,
+      "Ghana": 402
+    },
+    "precision_pases_porcentaje": {
+      "Croacia": 91,
+      "Ghana": 88
+    }
+  },
+  "estadisticas_especificas": {
+    "corners": {
+      "Croacia": 3,
+      "Ghana": 2
+    },
+    "faltas_cometidas": {
+      "Croacia": 9,
+      "Ghana": 13
+    },
+    "fueras_de_juego": {
+      "Croacia": 1,
+      "Ghana": 2
+    },
+    "paradas_del_portero": {
+      "Croacia": 0,
+      "Ghana": 2
+    }
+  },
+  "tarjetas": {
+    "amarillas": [
+      {
+        "minuto": 68,
+        "jugador": "Ivan Perisic",
+        "equipo": "Croacia"
+      },
+      {
+        "minuto": 90,
+        "jugador": "Kojo Peprah Oppong",
+        "equipo": "Ghana",
+        "nota": "Minuto 90+4'"
+      }
+    ],
+    "rojas": [],
+    "resumen": {
+      "Croacia": {
+        "amarillas": 1,
+        "rojas": 0
+      },
+      "Ghana": {
+        "amarillas": 1,
+        "rojas": 0
+      }
+    }
+  },
+  "records_o_notas": [
+    "Croacia clasificó a los octavos de final como segunda del Grupo L con 6 puntos, detrás de Inglaterra",
+    "Luka Modric se convirtió, con 40 años, en el jugador de campo más longevo en disputar un partido del Mundial, superando a Roger Milla",
+    "Petar Sucic anotó su primer gol en un Mundial al minuto 31",
+    "El xG de Ghana (0.64) fue superior al de Croacia (0.42), reflejando la paridad del encuentro",
+    "Croacia tuvo mayor posesión (53%) que Ghana (47%) y más tiros totales (8 contra 6)",
+    "El partido se disputó ante 68,324 espectadores en el Philadelphia Stadium",
+    "Croacia terminó invicta en el Grupo L junto a Inglaterra, ambos con 6 puntos"
+  ]
+}

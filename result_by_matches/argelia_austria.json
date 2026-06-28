@@ -1,0 +1,127 @@
+{
+  "partido": {
+    "equipo_local": "Argelia",
+    "equipo_visitante": "Austria",
+    "goles_local": 3,
+    "goles_visitante": 3,
+    "estadio": "Kansas City Stadium",
+    "fase": "Fase de Grupos - Grupo J",
+    "fecha": "2026-06-27"
+  },
+  "goleadores": [
+    {
+      "minuto": 28,
+      "jugador": "Marko Arnautovic",
+      "equipo": "Austria"
+    },
+    {
+      "minuto": 45,
+      "jugador": "Rafik Belghali",
+      "equipo": "Argelia"
+    },
+    {
+      "minuto": 55,
+      "jugador": "Marcel Sabitzer",
+      "equipo": "Austria"
+    },
+    {
+      "minuto": 60,
+      "jugador": "Riyad Mahrez",
+      "equipo": "Argelia"
+    },
+    {
+      "minuto": 90,
+      "jugador": "Riyad Mahrez",
+      "equipo": "Argelia",
+      "nota": "Minuto 90+3'"
+    },
+    {
+      "minuto": 90,
+      "jugador": "Sasa Kalajdzic",
+      "equipo": "Austria",
+      "nota": "Minuto 90+6'"
+    }
+  ],
+  "estadisticas_generales": {
+    "posesion_porcentaje": {
+      "Argelia": 65,
+      "Austria": 35
+    },
+    "tiros_totales": {
+      "Argelia": 12,
+      "Austria": 10
+    },
+    "tiros_a_puerta": {
+      "Argelia": 5,
+      "Austria": 3
+    },
+    "tiros_fuera": {
+      "Argelia": 5,
+      "Austria": 6
+    },
+    "tiros_bloqueados": {
+      "Argelia": 2,
+      "Austria": 1
+    },
+    "goles_esperados_xG": {
+      "Argelia": 1.67,
+      "Austria": 1.49
+    },
+    "pases_completados": {
+      "Argelia": 706,
+      "Austria": 346
+    },
+    "precision_pases_porcentaje": {
+      "Argelia": 94,
+      "Austria": 87
+    }
+  },
+  "estadisticas_especificas": {
+    "corners": {
+      "Argelia": 0,
+      "Austria": 3
+    },
+    "faltas_cometidas": {
+      "Argelia": 3,
+      "Austria": 7
+    },
+    "fueras_de_juego": {
+      "Argelia": 1,
+      "Austria": 3
+    },
+    "paradas_del_portero": {
+      "Argelia": 0,
+      "Austria": 2
+    }
+  },
+  "tarjetas": {
+    "amarillas": [
+      {
+        "minuto": 11,
+        "jugador": "Marko Arnautovic",
+        "equipo": "Austria"
+      }
+    ],
+    "rojas": [],
+    "resumen": {
+      "Argelia": {
+        "amarillas": 0,
+        "rojas": 0
+      },
+      "Austria": {
+        "amarillas": 1,
+        "rojas": 0
+      }
+    }
+  },
+  "records_o_notas": [
+    "Argelia y Austria empataron 3-3 en un partido dramático que clasificó a ambos equipos a los octavos de final desde el Grupo J",
+    "Riyad Mahrez fue la figura del partido con un doblete (minutos 60 y 90+3') y una calificación de 9.1",
+    "Argelia dominó la posesión con un 65% frente al 35% de Austria",
+    "Argelia realizó más tiros totales (12) que Austria (10) y más tiros a puerta (5 contra 3)",
+    "El xG de Argelia (1.67) fue ligeramente superior al de Austria (1.49), reflejando la paridad del encuentro",
+    "Argelia completó 706 pases con una precisión del 94%, una de las cifras más altas del torneo",
+    "El partido se disputó ante 69,045 espectadores en el Kansas City Stadium",
+    "Argelia sufrió la baja por lesión de Mohamed Amoura"
+  ]
+}
