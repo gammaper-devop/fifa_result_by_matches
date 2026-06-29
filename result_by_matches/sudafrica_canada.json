@@ -1,0 +1,105 @@
+{
+  "partido": {
+    "equipo_local": "Sudafrica",
+    "equipo_visitante": "Canada",
+    "goles_local": 0,
+    "goles_visitante": 1,
+    "estadio": "Los Angeles Stadium",
+    "fase": "Octavos de final",
+    "fecha": "2026-06-28"
+  },
+  "goleadores": [
+    {
+      "minuto": 90,
+      "jugador": "Stephen Eustaquio",
+      "equipo": "Canada",
+      "nota": "Minuto 90+2'"
+    }
+  ],
+  "estadisticas_generales": {
+    "posesion_porcentaje": {
+      "Sudafrica": 58,
+      "Canada": 42
+    },
+    "tiros_totales": {
+      "Sudafrica": 6,
+      "Canada": 12
+    },
+    "tiros_a_puerta": {
+      "Sudafrica": 1,
+      "Canada": 7
+    },
+    "tiros_fuera": {
+      "Sudafrica": 4,
+      "Canada": 5
+    },
+    "tiros_bloqueados": {
+      "Sudafrica": 1,
+      "Canada": 0
+    },
+    "goles_esperados_xG": {
+      "Sudafrica": 0.14,
+      "Canada": 1.38
+    },
+    "pases_completados": {
+      "Sudafrica": 466,
+      "Canada": 298
+    },
+    "precision_pases_porcentaje": {
+      "Sudafrica": 84,
+      "Canada": 79
+    }
+  },
+  "estadisticas_especificas": {
+    "corners": {
+      "Sudafrica": 1,
+      "Canada": 4
+    },
+    "faltas_cometidas": {
+      "Sudafrica": 10,
+      "Canada": 16
+    },
+    "fueras_de_juego": {
+      "Sudafrica": 1,
+      "Canada": 0
+    },
+    "paradas_del_portero": {
+      "Sudafrica": 5,
+      "Canada": 1
+    }
+  },
+  "tarjetas": {
+    "amarillas": [
+      {
+        "minuto": 54,
+        "jugador": "Nathan Saliba",
+        "equipo": "Canada"
+      },
+      {
+        "minuto": 67,
+        "jugador": "Niko Sigur",
+        "equipo": "Canada"
+      }
+    ],
+    "rojas": [],
+    "resumen": {
+      "Sudafrica": {
+        "amarillas": 0,
+        "rojas": 0
+      },
+      "Canada": {
+        "amarillas": 2,
+        "rojas": 0
+      }
+    }
+  },
+  "records_o_notas": [
+    "Canada clasificó a los cuartos de final por primera vez en su historia, tras un gol agónico de Stephen Eustaquio en el tiempo añadido",
+    "Stephen Eustaquio fue la figura del partido con el gol de la victoria y una calificación de 8.7",
+    "Canada tuvo mas tiros totales (12) que Sudafrica (6) y mas tiros a puerta (7 contra 1)",
+    "El xG de Canada (1.38) fue significativamente mayor que el de Sudafrica (0.14), reflejando el dominio ofensivo canadiense",
+    "El portero sudafricano Ronwen Williams realizó 5 paradas para mantener a su equipo en el partido",
+    "El partido se disputó ante 69,237 espectadores en el Los Angeles Stadium",
+    "Canada no contó con Ismaël Koné (lesionado), mientras que Sudafrica no tuvo a Themba Zwane (suspendido)"
+  ]
+}
