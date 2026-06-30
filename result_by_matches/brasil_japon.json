@@ -1,0 +1,131 @@
+{
+  "partido": {
+    "equipo_local": "Brasil",
+    "equipo_visitante": "Japon",
+    "goles_local": 2,
+    "goles_visitante": 1,
+    "estadio": "Houston Stadium",
+    "fase": "Dieciseisavos de final",
+    "fecha": "2026-06-29"
+  },
+  "goleadores": [
+    {
+      "minuto": 29,
+      "jugador": "Kaishu Sano",
+      "equipo": "Japon"
+    },
+    {
+      "minuto": 56,
+      "jugador": "Casemiro",
+      "equipo": "Brasil"
+    },
+    {
+      "minuto": 90,
+      "jugador": "Gabriel Martinelli",
+      "equipo": "Brasil",
+      "nota": "Minuto 90+5'"
+    }
+  ],
+  "estadisticas_generales": {
+    "posesion_porcentaje": {
+      "Brasil": 69,
+      "Japon": 31
+    },
+    "tiros_totales": {
+      "Brasil": 19,
+      "Japon": 5
+    },
+    "tiros_a_puerta": {
+      "Brasil": 7,
+      "Japon": 2
+    },
+    "tiros_fuera": {
+      "Brasil": 6,
+      "Japon": 1
+    },
+    "tiros_bloqueados": {
+      "Brasil": 6,
+      "Japon": 2
+    },
+    "goles_esperados_xG": {
+      "Brasil": 2.07,
+      "Japon": 0.33
+    },
+    "pases_completados": {
+      "Brasil": 625,
+      "Japon": 260
+    },
+    "precision_pases_porcentaje": {
+      "Brasil": 92,
+      "Japon": 83
+    }
+  },
+  "estadisticas_especificas": {
+    "corners": {
+      "Brasil": 6,
+      "Japon": 2
+    },
+    "faltas_cometidas": {
+      "Brasil": 4,
+      "Japon": 13
+    },
+    "fueras_de_juego": {
+      "Brasil": 1,
+      "Japon": 0
+    },
+    "paradas_del_portero": {
+      "Brasil": 1,
+      "Japon": 4
+    }
+  },
+  "tarjetas": {
+    "amarillas": [
+      {
+        "minuto": 12,
+        "jugador": "Kaishu Sano",
+        "equipo": "Japon"
+      },
+      {
+        "minuto": 14,
+        "jugador": "Casemiro",
+        "equipo": "Brasil"
+      },
+      {
+        "minuto": 45,
+        "jugador": "Daichi Kamada",
+        "equipo": "Japon"
+      },
+      {
+        "minuto": 48,
+        "jugador": "Danilo",
+        "equipo": "Brasil"
+      },
+      {
+        "minuto": 84,
+        "jugador": "Junnosuke Suzuki",
+        "equipo": "Japon"
+      }
+    ],
+    "rojas": [],
+    "resumen": {
+      "Brasil": {
+        "amarillas": 2,
+        "rojas": 0
+      },
+      "Japon": {
+        "amarillas": 3,
+        "rojas": 0
+      }
+    }
+  },
+  "records_o_notas": [
+    "Brasil clasifico a los cuartos de final con una remontada agonica, gracias a un gol de Gabriel Martinelli en el minuto 90+5'",
+    "Casemiro fue la figura del partido con un gol y una calificacion de 8.4, siendo clave en la remontada brasileña",
+    "Brasil domino completamente la posesion con un 69% frente al 31% de Japon",
+    "Brasil realizo 19 tiros totales, mientras que Japon solo tuvo 5",
+    "El xG de Brasil (2.07) fue significativamente mayor que el de Japon (0.33), reflejando el dominio ofensivo brasileño",
+    "El portero japonés Zion Suzuki realizo 4 paradas para mantener a su equipo en el partido",
+    "El partido se disputo ante 68,777 espectadores en el Houston Stadium",
+    "Brasil sufrio la baja por lesion de Raphinha"
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "partido": {
+    "equipo_local": "Paises Bajos",
+    "equipo_visitante": "Marruecos",
+    "goles_local": 1,
+    "goles_visitante": 1,
+    "estadio": "Monterrey Stadium",
+    "fase": "Dieciseisavos de final",
+    "fecha": "2026-06-29"
+  },
+  "goleadores": [
+    {
+      "minuto": 72,
+      "jugador": "Cody Gakpo",
+      "equipo": "Paises Bajos"
+    },
+    {
+      "minuto": 90,
+      "jugador": "Issa Diop",
+      "equipo": "Marruecos",
+      "nota": "Minuto 90+1'"
+    }
+  ],
+  "estadisticas_generales": {
+    "posesion_porcentaje": {
+      "Paises Bajos": 30,
+      "Marruecos": 70
+    },
+    "tiros_totales": {
+      "Paises Bajos": 6,
+      "Marruecos": 11
+    },
+    "tiros_a_puerta": {
+      "Paises Bajos": 2,
+      "Marruecos": 5
+    },
+    "tiros_fuera": {
+      "Paises Bajos": 1,
+      "Marruecos": 4
+    },
+    "tiros_bloqueados": {
+      "Paises Bajos": 3,
+      "Marruecos": 2
+    },
+    "goles_esperados_xG": {
+      "Paises Bajos": 0.24,
+      "Marruecos": 1.38
+    },
+    "pases_completados": {
+      "Paises Bajos": 292,
+      "Marruecos": 801
+    },
+    "precision_pases_porcentaje": {
+      "Paises Bajos": 79,
+      "Marruecos": 91
+    }
+  },
+  "estadisticas_especificas": {
+    "corners": {
+      "Paises Bajos": 5,
+      "Marruecos": 8
+    },
+    "faltas_cometidas": {
+      "Paises Bajos": 18,
+      "Marruecos": 15
+    },
+    "fueras_de_juego": {
+      "Paises Bajos": 3,
+      "Marruecos": 0
+    },
+    "paradas_del_portero": {
+      "Paises Bajos": 5,
+      "Marruecos": 1
+    }
+  },
+  "tarjetas": {
+    "amarillas": [
+      {
+        "minuto": 47,
+        "jugador": "Issa Diop",
+        "equipo": "Marruecos"
+      }
+    ],
+    "rojas": [],
+    "resumen": {
+      "Paises Bajos": {
+        "amarillas": 0,
+        "rojas": 0
+      },
+      "Marruecos": {
+        "amarillas": 1,
+        "rojas": 0
+      }
+    }
+  },
+  "records_o_notas": [
+    "Marruecos eliminó a Paises Bajos en la tanda de penales (3-2) después de empatar 1-1 en el tiempo reglamentario y la prórroga",
+    "Marruecos dominó la posesión con un 70% frente al 30% de Paises Bajos",
+    "Marruecos realizó más tiros totales (11) que Paises Bajos (6) y más tiros a puerta (5 contra 2)",
+    "El xG de Marruecos (1.38) fue significativamente mayor que el de Paises Bajos (0.24), reflejando el dominio ofensivo marroqui",
+    "El portero neerlandés Bart Verbruggen realizó 5 paradas para mantener a su equipo en el partido",
+    "El partido se disputó ante 51,243 espectadores en el Monterrey Stadium",
+    "Marruecos clasificó a los cuartos de final por primera vez en su historia"
+  ]
+}

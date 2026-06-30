@@ -1,0 +1,132 @@
+{
+  "partido": {
+    "equipo_local": "Alemania",
+    "equipo_visitante": "Paraguay",
+    "goles_local": 1,
+    "goles_visitante": 1,
+    "estadio": "Boston Stadium",
+    "fase": "Dieciseisavos de final",
+    "fecha": "2026-06-29"
+  },
+  "goleadores": [
+    {
+      "minuto": 42,
+      "jugador": "Julio Enciso",
+      "equipo": "Paraguay"
+    },
+    {
+      "minuto": 54,
+      "jugador": "Kai Havertz",
+      "equipo": "Alemania"
+    }
+  ],
+  "estadisticas_generales": {
+    "posesion_porcentaje": {
+      "Alemania": 76,
+      "Paraguay": 24
+    },
+    "tiros_totales": {
+      "Alemania": 21,
+      "Paraguay": 7
+    },
+    "tiros_a_puerta": {
+      "Alemania": 6,
+      "Paraguay": 3
+    },
+    "tiros_fuera": {
+      "Alemania": 7,
+      "Paraguay": 2
+    },
+    "tiros_bloqueados": {
+      "Alemania": 8,
+      "Paraguay": 2
+    },
+    "goles_esperados_xG": {
+      "Alemania": 1.57,
+      "Paraguay": 0.35
+    },
+    "pases_completados": {
+      "Alemania": 725,
+      "Paraguay": 160
+    },
+    "precision_pases_porcentaje": {
+      "Alemania": 90,
+      "Paraguay": 63
+    }
+  },
+  "estadisticas_especificas": {
+    "corners": {
+      "Alemania": 16,
+      "Paraguay": 6
+    },
+    "faltas_cometidas": {
+      "Alemania": 18,
+      "Paraguay": 12
+    },
+    "fueras_de_juego": {
+      "Alemania": 4,
+      "Paraguay": 1
+    },
+    "paradas_del_portero": {
+      "Alemania": 2,
+      "Paraguay": 6
+    }
+  },
+  "tarjetas": {
+    "amarillas": [
+      {
+        "minuto": 65,
+        "jugador": "Andrés Cubas",
+        "equipo": "Paraguay"
+      },
+      {
+        "minuto": 105,
+        "jugador": "Kai Havertz",
+        "equipo": "Alemania"
+      },
+      {
+        "minuto": 106,
+        "jugador": "Gustavo Alfaro",
+        "equipo": "Paraguay",
+        "nota": "Amonestación al entrenador"
+      },
+      {
+        "minuto": 106,
+        "jugador": "Julian Nagelsmann",
+        "equipo": "Alemania",
+        "nota": "Amonestación al entrenador"
+      },
+      {
+        "minuto": 116,
+        "jugador": "Jamal Musiala",
+        "equipo": "Alemania"
+      },
+      {
+        "minuto": 118,
+        "jugador": "Matías Galarza",
+        "equipo": "Paraguay"
+      }
+    ],
+    "rojas": [],
+    "resumen": {
+      "Alemania": {
+        "amarillas": 3,
+        "rojas": 0
+      },
+      "Paraguay": {
+        "amarillas": 3,
+        "rojas": 0
+      }
+    }
+  },
+  "records_o_notas": [
+    "Paraguay eliminó a Alemania en la primera definición por penales del torneo, ganando 4-3 en la tanda tras el empate 1-1",
+    "El portero paraguayo Orlando Gill fue la figura del partido con 6 paradas y una calificación de 8.7, siendo clave en la clasificación",
+    "Alemania dominó completamente el partido con un 76% de posesión y 21 tiros totales",
+    "Paraguay tuvo solo el 24% de posesión y 7 tiros, pero fue efectivo y logró la clasificación",
+    "El xG de Alemania (1.57) fue superior al de Paraguay (0.35), reflejando el dominio alemán",
+    "Alemania realizó 16 corners, mientras que Paraguay tuvo 6",
+    "El partido se disputó ante 63,945 espectadores en el Boston Stadium",
+    "Alemania sufrió la baja por lesión de Nico Schlotterbeck, mientras que Paraguay no contó con Diego Gómez (suspendido)"
+  ]
+}
