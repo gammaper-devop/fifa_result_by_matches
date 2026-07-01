@@ -1,0 +1,125 @@
+{
+  "partido": {
+    "equipo_local": "Mexico",
+    "equipo_visitante": "Ecuador",
+    "goles_local": 2,
+    "goles_visitante": 0,
+    "estadio": "Mexico City Stadium",
+    "fase": "Dieciseisavos de final",
+    "fecha": "2026-06-30"
+  },
+  "goleadores": [
+    {
+      "minuto": 22,
+      "jugador": "Julián Quiñones",
+      "equipo": "Mexico"
+    },
+    {
+      "minuto": 31,
+      "jugador": "Raul Jimenez",
+      "equipo": "Mexico"
+    }
+  ],
+  "estadisticas_generales": {
+    "posesion_porcentaje": {
+      "Mexico": 43,
+      "Ecuador": 57
+    },
+    "tiros_totales": {
+      "Mexico": 15,
+      "Ecuador": 7
+    },
+    "tiros_a_puerta": {
+      "Mexico": 3,
+      "Ecuador": 1
+    },
+    "tiros_fuera": {
+      "Mexico": 9,
+      "Ecuador": 5
+    },
+    "tiros_bloqueados": {
+      "Mexico": 3,
+      "Ecuador": 1
+    },
+    "goles_esperados_xG": {
+      "Mexico": 1.05,
+      "Ecuador": 0.75
+    },
+    "pases_completados": {
+      "Mexico": 248,
+      "Ecuador": 341
+    },
+    "precision_pases_porcentaje": {
+      "Mexico": 78,
+      "Ecuador": 83
+    }
+  },
+  "estadisticas_especificas": {
+    "corners": {
+      "Mexico": 3,
+      "Ecuador": 8
+    },
+    "faltas_cometidas": {
+      "Mexico": 10,
+      "Ecuador": 14
+    },
+    "fueras_de_juego": {
+      "Mexico": 0,
+      "Ecuador": 1
+    },
+    "paradas_del_portero": {
+      "Mexico": 1,
+      "Ecuador": 1
+    }
+  },
+  "tarjetas": {
+    "amarillas": [
+      {
+        "minuto": 45,
+        "jugador": "Alan Franco",
+        "equipo": "Ecuador",
+        "nota": "Minuto 45+1'"
+      },
+      {
+        "minuto": 90,
+        "jugador": "Kendry Páez",
+        "equipo": "Ecuador",
+        "nota": "Minuto 90+3'"
+      },
+      {
+        "minuto": 90,
+        "jugador": "Moises Caicedo",
+        "equipo": "Ecuador",
+        "nota": "Minuto 90+9'"
+      }
+    ],
+    "rojas": [
+      {
+        "minuto": 90,
+        "jugador": "Piero Hincapie",
+        "equipo": "Ecuador",
+        "tipo": "roja_directa",
+        "nota": "Minuto 90+5'"
+      }
+    ],
+    "resumen": {
+      "Mexico": {
+        "amarillas": 0,
+        "rojas": 0
+      },
+      "Ecuador": {
+        "amarillas": 3,
+        "rojas": 1
+      }
+    }
+  },
+  "records_o_notas": [
+    "Mexico clasificó a los cuartos de final con una victoria contundente sobre Ecuador en el Estadio Azteca",
+    "Julián Quiñones fue la figura del partido con un gol y una calificación de 8.6",
+    "Mexico fue más efectivo que Ecuador, convirtiendo 2 de sus 3 tiros a puerta en gol",
+    "Ecuador tuvo más posesión (57%) que Mexico (43%) y más corners (8 contra 3), pero no logró concretar sus oportunidades",
+    "El xG de Mexico (1.05) fue superior al de Ecuador (0.75), reflejando la mayor eficacia ofensiva mexicana",
+    "Ecuador recibió 3 tarjetas amarillas y 1 roja directa (Piero Hincapie en el minuto 90+5')",
+    "El partido se disputó ante 80,824 espectadores en el Mexico City Stadium"
+  ]
+}

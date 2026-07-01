@@ -1,0 +1,110 @@
+{
+  "partido": {
+    "equipo_local": "Costa de Marfil",
+    "equipo_visitante": "Noruega",
+    "goles_local": 1,
+    "goles_visitante": 2,
+    "estadio": "Dallas Stadium",
+    "fase": "Dieciseisavos de final",
+    "fecha": "2026-06-30"
+  },
+  "goleadores": [
+    {
+      "minuto": 39,
+      "jugador": "Antonio Nusa",
+      "equipo": "Noruega"
+    },
+    {
+      "minuto": 74,
+      "jugador": "Amad Diallo",
+      "equipo": "Costa de Marfil"
+    },
+    {
+      "minuto": 86,
+      "jugador": "Erling Haaland",
+      "equipo": "Noruega"
+    }
+  ],
+  "estadisticas_generales": {
+    "posesion_porcentaje": {
+      "Costa de Marfil": 47,
+      "Noruega": 53
+    },
+    "tiros_totales": {
+      "Costa de Marfil": 14,
+      "Noruega": 9
+    },
+    "tiros_a_puerta": {
+      "Costa de Marfil": 5,
+      "Noruega": 4
+    },
+    "tiros_fuera": {
+      "Costa de Marfil": 9,
+      "Noruega": 2
+    },
+    "tiros_bloqueados": {
+      "Costa de Marfil": 0,
+      "Noruega": 3
+    },
+    "goles_esperados_xG": {
+      "Costa de Marfil": 1.49,
+      "Noruega": 1.90
+    },
+    "pases_completados": {
+      "Costa de Marfil": 339,
+      "Noruega": 415
+    },
+    "precision_pases_porcentaje": {
+      "Costa de Marfil": 85,
+      "Noruega": 88
+    }
+  },
+  "estadisticas_especificas": {
+    "corners": {
+      "Costa de Marfil": 14,
+      "Noruega": 3
+    },
+    "faltas_cometidas": {
+      "Costa de Marfil": 6,
+      "Noruega": 7
+    },
+    "fueras_de_juego": {
+      "Costa de Marfil": 2,
+      "Noruega": 2
+    },
+    "paradas_del_portero": {
+      "Costa de Marfil": 1,
+      "Noruega": 4
+    }
+  },
+  "tarjetas": {
+    "amarillas": [
+      {
+        "minuto": 45,
+        "jugador": "Antonio Nusa",
+        "equipo": "Noruega",
+        "nota": "Minuto 45+1'"
+      }
+    ],
+    "rojas": [],
+    "resumen": {
+      "Costa de Marfil": {
+        "amarillas": 0,
+        "rojas": 0
+      },
+      "Noruega": {
+        "amarillas": 1,
+        "rojas": 0
+      }
+    }
+  },
+  "records_o_notas": [
+    "Noruega clasificó a los cuartos de final tras vencer a Costa de Marfil con un gol de Erling Haaland en el minuto 86",
+    "Erling Haaland anotó su quinto gol en el torneo, consolidándose como máximo goleador del Mundial 2026",
+    "Patrick Berg fue la figura del partido con una calificación de 8.2, asistiendo el gol de Haaland",
+    "Costa de Marfil tuvo más tiros totales (14) que Noruega (9) y más corners (14 contra 3), pero no logró la clasificación",
+    "El xG de Noruega (1.90) fue superior al de Costa de Marfil (1.49), reflejando la mayor eficacia ofensiva noruega",
+    "El portero noruego Ørjan Håskjold Nyland realizó 4 paradas clave para asegurar la victoria",
+    "El partido se disputó ante 69,665 espectadores en el Dallas Stadium"
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "partido": {
+    "equipo_local": "Francia",
+    "equipo_visitante": "Suecia",
+    "goles_local": 3,
+    "goles_visitante": 0,
+    "estadio": "New York New Jersey Stadium",
+    "fase": "Dieciseisavos de final",
+    "fecha": "2026-06-30"
+  },
+  "goleadores": [
+    {
+      "minuto": 45,
+      "jugador": "Kylian Mbappé",
+      "equipo": "Francia"
+    },
+    {
+      "minuto": 53,
+      "jugador": "Bradley Barcola",
+      "equipo": "Francia"
+    },
+    {
+      "minuto": 74,
+      "jugador": "Kylian Mbappé",
+      "equipo": "Francia"
+    }
+  ],
+  "estadisticas_generales": {
+    "posesion_porcentaje": {
+      "Francia": 61,
+      "Suecia": 39
+    },
+    "tiros_totales": {
+      "Francia": 25,
+      "Suecia": 8
+    },
+    "tiros_a_puerta": {
+      "Francia": 12,
+      "Suecia": 3
+    },
+    "tiros_fuera": {
+      "Francia": 9,
+      "Suecia": 4
+    },
+    "tiros_bloqueados": {
+      "Francia": 4,
+      "Suecia": 1
+    },
+    "goles_esperados_xG": {
+      "Francia": 3.24,
+      "Suecia": 0.70
+    },
+    "pases_completados": {
+      "Francia": 484,
+      "Suecia": 278
+    },
+    "precision_pases_porcentaje": {
+      "Francia": 88,
+      "Suecia": 79
+    }
+  },
+  "estadisticas_especificas": {
+    "corners": {
+      "Francia": 9,
+      "Suecia": 1
+    },
+    "faltas_cometidas": {
+      "Francia": 14,
+      "Suecia": 10
+    },
+    "fueras_de_juego": {
+      "Francia": 3,
+      "Suecia": 1
+    },
+    "paradas_del_portero": {
+      "Francia": 3,
+      "Suecia": 9
+    }
+  },
+  "tarjetas": {
+    "amarillas": [],
+    "rojas": [],
+    "resumen": {
+      "Francia": {
+        "amarillas": 0,
+        "rojas": 0
+      },
+      "Suecia": {
+        "amarillas": 0,
+        "rojas": 0
+      }
+    }
+  },
+  "records_o_notas": [
+    "Francia clasificó a los cuartos de final con una contundente victoria sobre Suecia",
+    "Kylian Mbappé fue la figura del partido con un doblete y una calificación de 9.4, alcanzando los 6 goles en el torneo",
+    "Michael Olise fue clave con dos asistencias y una calificación de 9.3",
+    "Francia dominó completamente la posesión con un 61% frente al 39% de Suecia",
+    "Francia realizó 25 tiros totales, mientras que Suecia solo tuvo 8",
+    "El xG de Francia (3.24) fue significativamente mayor que el de Suecia (0.70), reflejando el dominio ofensivo francés",
+    "El portero sueco Jacob Widell Zetterström realizó 9 paradas para evitar un marcador más abultado",
+    "El partido se disputó ante 80,663 espectadores en el New York New Jersey Stadium",
+    "Suecia sufrió la baja por lesión de Isak Hien"
+  ]
+}
