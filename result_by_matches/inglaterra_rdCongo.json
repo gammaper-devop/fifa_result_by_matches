@@ -1,0 +1,114 @@
+{
+  "partido": {
+    "equipo_local": "Inglaterra",
+    "equipo_visitante": "RD Congo",
+    "goles_local": 2,
+    "goles_visitante": 1,
+    "estadio": "Atlanta Stadium",
+    "fase": "Dieciseisavos de final",
+    "fecha": "2026-07-01"
+  },
+  "goleadores": [
+    {
+      "minuto": 7,
+      "jugador": "Brian Cipenga",
+      "equipo": "RD Congo"
+    },
+    {
+      "minuto": 75,
+      "jugador": "Harry Kane",
+      "equipo": "Inglaterra"
+    },
+    {
+      "minuto": 86,
+      "jugador": "Harry Kane",
+      "equipo": "Inglaterra"
+    }
+  ],
+  "estadisticas_generales": {
+    "posesion_porcentaje": {
+      "Inglaterra": 60,
+      "RD Congo": 40
+    },
+    "tiros_totales": {
+      "Inglaterra": 16,
+      "RD Congo": 7
+    },
+    "tiros_a_puerta": {
+      "Inglaterra": 7,
+      "RD Congo": 2
+    },
+    "tiros_fuera": {
+      "Inglaterra": 6,
+      "RD Congo": 3
+    },
+    "tiros_bloqueados": {
+      "Inglaterra": 3,
+      "RD Congo": 2
+    },
+    "goles_esperados_xG": {
+      "Inglaterra": 2.16,
+      "RD Congo": 0.77
+    },
+    "pases_completados": {
+      "Inglaterra": 468,
+      "RD Congo": 299
+    },
+    "precision_pases_porcentaje": {
+      "Inglaterra": 91,
+      "RD Congo": 82
+    }
+  },
+  "estadisticas_especificas": {
+    "corners": {
+      "Inglaterra": 5,
+      "RD Congo": 3
+    },
+    "faltas_cometidas": {
+      "Inglaterra": 10,
+      "RD Congo": 12
+    },
+    "fueras_de_juego": {
+      "Inglaterra": 0,
+      "RD Congo": 4
+    },
+    "paradas_del_portero": {
+      "Inglaterra": 1,
+      "RD Congo": 5
+    }
+  },
+  "tarjetas": {
+    "amarillas": [
+      {
+        "minuto": 19,
+        "jugador": "Jude Bellingham",
+        "equipo": "Inglaterra"
+      },
+      {
+        "minuto": 27,
+        "jugador": "Noah Sadiki",
+        "equipo": "RD Congo"
+      }
+    ],
+    "rojas": [],
+    "resumen": {
+      "Inglaterra": {
+        "amarillas": 1,
+        "rojas": 0
+      },
+      "RD Congo": {
+        "amarillas": 1,
+        "rojas": 0
+      }
+    }
+  },
+  "records_o_notas": [
+    "Inglaterra clasificó a los cuartos de final con una remontada agónica gracias a un doblete de Harry Kane en los últimos 15 minutos",
+    "Harry Kane fue la figura del partido con dos goles y una calificación de 8.9, alcanzando los 13 goles en Mundiales",
+    "Inglaterra dominó la posesión con un 60% frente al 40% de RD Congo",
+    "Inglaterra realizó más tiros totales (16) que RD Congo (7) y más tiros a puerta (7 contra 2)",
+    "El xG de Inglaterra (2.16) fue superior al de RD Congo (0.77), reflejando el dominio ofensivo inglés",
+    "El portero congoleño Lionel Mpasi-Nzau realizó 5 paradas para mantener a su equipo en el partido",
+    "El partido se disputó ante 68,239 espectadores en el Atlanta Stadium"
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "partido": {
+    "equipo_local": "Estados Unidos",
+    "equipo_visitante": "Bosnia y Herzegovina",
+    "goles_local": 1,
+    "goles_visitante": 0,
+    "estadio": "Los Angeles Stadium",
+    "fase": "Dieciseisavos de final",
+    "fecha": "2026-07-01"
+  },
+  "goleadores": [
+    {
+      "minuto": 85,
+      "jugador": "Sergiño Dest",
+      "equipo": "Estados Unidos"
+    }
+  ],
+  "estadisticas_generales": {
+    "posesion_porcentaje": {
+      "Estados Unidos": 51,
+      "Bosnia y Herzegovina": 49
+    },
+    "tiros_totales": {
+      "Estados Unidos": 8,
+      "Bosnia y Herzegovina": 17
+    },
+    "tiros_a_puerta": {
+      "Estados Unidos": 3,
+      "Bosnia y Herzegovina": 5
+    },
+    "tiros_fuera": {
+      "Estados Unidos": 4,
+      "Bosnia y Herzegovina": 7
+    },
+    "tiros_bloqueados": {
+      "Estados Unidos": 1,
+      "Bosnia y Herzegovina": 5
+    },
+    "goles_esperados_xG": {
+      "Estados Unidos": 0.63,
+      "Bosnia y Herzegovina": 1.14
+    },
+    "pases_completados": {
+      "Estados Unidos": 459,
+      "Bosnia y Herzegovina": 433
+    },
+    "precision_pases_porcentaje": {
+      "Estados Unidos": 88,
+      "Bosnia y Herzegovina": 87
+    }
+  },
+  "estadisticas_especificas": {
+    "corners": {
+      "Estados Unidos": 3,
+      "Bosnia y Herzegovina": 5
+    },
+    "faltas_cometidas": {
+      "Estados Unidos": 12,
+      "Bosnia y Herzegovina": 15
+    },
+    "fueras_de_juego": {
+      "Estados Unidos": 6,
+      "Bosnia y Herzegovina": 0
+    },
+    "paradas_del_portero": {
+      "Estados Unidos": 5,
+      "Bosnia y Herzegovina": 2
+    }
+  },
+  "tarjetas": {
+    "amarillas": [
+      {
+        "minuto": 22,
+        "jugador": "Amar Dedic",
+        "equipo": "Bosnia y Herzegovina"
+      },
+      {
+        "minuto": 63,
+        "jugador": "Edin Dzeko",
+        "equipo": "Bosnia y Herzegovina"
+      },
+      {
+        "minuto": 86,
+        "jugador": "Sergiño Dest",
+        "equipo": "Estados Unidos"
+      }
+    ],
+    "rojas": [],
+    "resumen": {
+      "Estados Unidos": {
+        "amarillas": 1,
+        "rojas": 0
+      },
+      "Bosnia y Herzegovina": {
+        "amarillas": 2,
+        "rojas": 0
+      }
+    }
+  },
+  "records_o_notas": [
+    "Estados Unidos clasificó a los cuartos de final con un gol de Sergiño Dest en el minuto 85",
+    "Bosnia y Herzegovina tuvo más tiros totales (17) que Estados Unidos (8) y más tiros a puerta (5 contra 3), pero no logró concretar sus oportunidades",
+    "El xG de Bosnia y Herzegovina (1.14) fue superior al de Estados Unidos (0.63), reflejando el mayor peligro ofensivo bosnio",
+    "Estados Unidos tuvo más posesión (51%) que Bosnia y Herzegovina (49%) y más precisión de pases (88% contra 87%)",
+    "El portero estadounidense Matt Freese realizó 5 paradas clave para mantener la portería a cero",
+    "El partido se disputó ante 68,827 espectadores en el Los Angeles Stadium",
+    "Con este resultado, Estados Unidos avanzó a los cuartos de final del Mundial 2026"
+  ]
+}

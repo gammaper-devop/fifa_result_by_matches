@@ -1,0 +1,131 @@
+{
+  "partido": {
+    "equipo_local": "Belgica",
+    "equipo_visitante": "Senegal",
+    "goles_local": 3,
+    "goles_visitante": 2,
+    "estadio": "Seattle Stadium",
+    "fase": "Dieciseisavos de final",
+    "fecha": "2026-07-01"
+  },
+  "goleadores": [
+    {
+      "minuto": 24,
+      "jugador": "Habib Diarra",
+      "equipo": "Senegal"
+    },
+    {
+      "minuto": 51,
+      "jugador": "Ismaïla Sarr",
+      "equipo": "Senegal"
+    },
+    {
+      "minuto": 86,
+      "jugador": "Romelu Lukaku",
+      "equipo": "Belgica"
+    },
+    {
+      "minuto": 89,
+      "jugador": "Youri Tielemans",
+      "equipo": "Belgica"
+    },
+    {
+      "minuto": 120,
+      "jugador": "Youri Tielemans",
+      "equipo": "Belgica",
+      "nota": "Minuto 120+5', penalti"
+    }
+  ],
+  "estadisticas_generales": {
+    "posesion_porcentaje": {
+      "Belgica": 52,
+      "Senegal": 48
+    },
+    "tiros_totales": {
+      "Belgica": 19,
+      "Senegal": 19
+    },
+    "tiros_a_puerta": {
+      "Belgica": 5,
+      "Senegal": 5
+    },
+    "tiros_fuera": {
+      "Belgica": 9,
+      "Senegal": 11
+    },
+    "tiros_bloqueados": {
+      "Belgica": 5,
+      "Senegal": 3
+    },
+    "goles_esperados_xG": {
+      "Belgica": 1.74,
+      "Senegal": 3.58
+    },
+    "pases_completados": {
+      "Belgica": 602,
+      "Senegal": 536
+    },
+    "precision_pases_porcentaje": {
+      "Belgica": 86,
+      "Senegal": 84
+    }
+  },
+  "estadisticas_especificas": {
+    "corners": {
+      "Belgica": 4,
+      "Senegal": 2
+    },
+    "faltas_cometidas": {
+      "Belgica": 22,
+      "Senegal": 12
+    },
+    "fueras_de_juego": {
+      "Belgica": 2,
+      "Senegal": 2
+    },
+    "paradas_del_portero": {
+      "Belgica": 3,
+      "Senegal": 3
+    }
+  },
+  "tarjetas": {
+    "amarillas": [
+      {
+        "minuto": 64,
+        "jugador": "Brandon Mechele",
+        "equipo": "Belgica"
+      },
+      {
+        "minuto": 67,
+        "jugador": "Lamine Camara",
+        "equipo": "Senegal"
+      },
+      {
+        "minuto": 90,
+        "jugador": "Rudi Garcia",
+        "equipo": "Belgica",
+        "nota": "Amonestación al entrenador"
+      }
+    ],
+    "rojas": [],
+    "resumen": {
+      "Belgica": {
+        "amarillas": 2,
+        "rojas": 0
+      },
+      "Senegal": {
+        "amarillas": 1,
+        "rojas": 0
+      }
+    }
+  },
+  "records_o_notas": [
+    "Belgica logró una remontada histórica en el tiempo añadido, ganando 3-2 en la prórroga despues de ir perdiendo 0-2 al minuto 51",
+    "Youri Tielemans fue la figura del partido con dos goles (incluyendo el penalti decisivo en el minuto 120+5') y una calificación de 9.1",
+    "Senegal tuvo un xG de 3.58, el más alto para un equipo perdedor en lo que va del torneo",
+    "Belgica y Senegal igualaron en tiros totales (19 cada uno) y en tiros a puerta (5 cada uno)",
+    "Belgica tuvo más posesión (52%) que Senegal (48%) y más corners (4 contra 2)",
+    "El partido se disputó ante 66,925 espectadores en el Seattle Stadium",
+    "Belgica sufrió la baja por lesión de Zeno Debast, mientras que Senegal no contó con edouard Mendy (lesionado)"
+  ]
+}
