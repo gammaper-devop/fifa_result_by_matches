@@ -1,0 +1,111 @@
+{
+  "partido": {
+    "equipo_local": "España",
+    "equipo_visitante": "Austria",
+    "goles_local": 3,
+    "goles_visitante": 0,
+    "estadio": "Los Angeles Stadium",
+    "fase": "Dieciseisavos de final",
+    "fecha": "2026-07-02"
+  },
+  "goleadores": [
+    {
+      "minuto": 36,
+      "jugador": "Mikel Oyarzabal",
+      "equipo": "España"
+    },
+    {
+      "minuto": 66,
+      "jugador": "Pedro Porro",
+      "equipo": "España"
+    },
+    {
+      "minuto": 89,
+      "jugador": "Mikel Oyarzabal",
+      "equipo": "España"
+    }
+  ],
+  "estadisticas_generales": {
+    "posesion_porcentaje": {
+      "España": 64,
+      "Austria": 36
+    },
+    "tiros_totales": {
+      "España": 23,
+      "Austria": 5
+    },
+    "tiros_a_puerta": {
+      "España": 10,
+      "Austria": 0
+    },
+    "tiros_fuera": {
+      "España": 6,
+      "Austria": 4
+    },
+    "tiros_bloqueados": {
+      "España": 7,
+      "Austria": 1
+    },
+    "goles_esperados_xG": {
+      "España": 2.80,
+      "Austria": 0.32
+    },
+    "pases_completados": {
+      "España": 570,
+      "Austria": 285
+    },
+    "precision_pases_porcentaje": {
+      "España": 91,
+      "Austria": 82
+    }
+  },
+  "estadisticas_especificas": {
+    "corners": {
+      "España": 9,
+      "Austria": 0
+    },
+    "faltas_cometidas": {
+      "España": 8,
+      "Austria": 15
+    },
+    "fueras_de_juego": {
+      "España": 2,
+      "Austria": 5
+    },
+    "paradas_del_portero": {
+      "España": 0,
+      "Austria": 6
+    }
+  },
+  "tarjetas": {
+    "amarillas": [
+      {
+        "minuto": 83,
+        "jugador": "Stefan Posch",
+        "equipo": "Austria"
+      }
+    ],
+    "rojas": [],
+    "resumen": {
+      "España": {
+        "amarillas": 0,
+        "rojas": 0
+      },
+      "Austria": {
+        "amarillas": 1,
+        "rojas": 0
+      }
+    }
+  },
+  "records_o_notas": [
+    "España clasificó a los cuartos de final con una contundente victoria sobre Austria",
+    "Mikel Oyarzabal fue la figura del partido con un doblete y una calificación de 9.1",
+    "Pedro Porro anotó un golazo y fue clave en la defensa con una calificación de 8.9",
+    "España dominó completamente la posesión con un 64% frente al 36% de Austria",
+    "España realizó 23 tiros totales, mientras que Austria solo tuvo 5, ninguno a puerta",
+    "El xG de España (2.80) fue significativamente mayor que el de Austria (0.32), reflejando el dominio ofensivo español",
+    "El portero austriaco Alexander Schlager realizó 6 paradas para evitar un marcador más abultado",
+    "El partido se disputó ante 70,492 espectadores en el Los Angeles Stadium",
+    "Con este resultado, España se enfrentará a Inglaterra en los cuartos de final"
+  ]
+}

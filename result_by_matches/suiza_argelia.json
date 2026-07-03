@@ -1,0 +1,110 @@
+{
+  "partido": {
+    "equipo_local": "Suiza",
+    "equipo_visitante": "Argelia",
+    "goles_local": 2,
+    "goles_visitante": 0,
+    "estadio": "BC Place Vancouver",
+    "fase": "Dieciseisavos de final",
+    "fecha": "2026-07-02"
+  },
+  "goleadores": [
+    {
+      "minuto": 10,
+      "jugador": "Breel Embolo",
+      "equipo": "Suiza"
+    },
+    {
+      "minuto": 46,
+      "jugador": "Dan Ndoye",
+      "equipo": "Suiza"
+    }
+  ],
+  "estadisticas_generales": {
+    "posesion_porcentaje": {
+      "Suiza": 44,
+      "Argelia": 56
+    },
+    "tiros_totales": {
+      "Suiza": 11,
+      "Argelia": 8
+    },
+    "tiros_a_puerta": {
+      "Suiza": 5,
+      "Argelia": 2
+    },
+    "tiros_fuera": {
+      "Suiza": 4,
+      "Argelia": 3
+    },
+    "tiros_bloqueados": {
+      "Suiza": 2,
+      "Argelia": 3
+    },
+    "goles_esperados_xG": {
+      "Suiza": 2.45,
+      "Argelia": 0.74
+    },
+    "pases_completados": {
+      "Suiza": 355,
+      "Argelia": 478
+    },
+    "precision_pases_porcentaje": {
+      "Suiza": 81,
+      "Argelia": 85
+    }
+  },
+  "estadisticas_especificas": {
+    "corners": {
+      "Suiza": 4,
+      "Argelia": 2
+    },
+    "faltas_cometidas": {
+      "Suiza": 10,
+      "Argelia": 12
+    },
+    "fueras_de_juego": {
+      "Suiza": 0,
+      "Argelia": 2
+    },
+    "paradas_del_portero": {
+      "Suiza": 2,
+      "Argelia": 2
+    }
+  },
+  "tarjetas": {
+    "amarillas": [
+      {
+        "minuto": 36,
+        "jugador": "Farès Chaïbi",
+        "equipo": "Argelia"
+      },
+      {
+        "minuto": 72,
+        "jugador": "Hicham Boudaoui",
+        "equipo": "Argelia"
+      }
+    ],
+    "rojas": [],
+    "resumen": {
+      "Suiza": {
+        "amarillas": 0,
+        "rojas": 0
+      },
+      "Argelia": {
+        "amarillas": 2,
+        "rojas": 0
+      }
+    }
+  },
+  "records_o_notas": [
+    "Suiza logró su primera victoria en octavos de final de un Mundial desde 1938, con un sólido 2-0 sobre Argelia",
+    "Breel Embolo abrió el marcador al minuto 10, su segundo gol en el torneo",
+    "Dan Ndoye sentenció el partido con un gol al inicio del segundo tiempo (minuto 46)",
+    "Argelia tuvo más posesión (56%) que Suiza (44%), pero no logró concretar sus oportunidades",
+    "El xG de Suiza (2.45) fue significativamente mayor que el de Argelia (0.74), reflejando la eficacia ofensiva suiza",
+    "El portero suizo Gregor Kobel fue clave con 8.0 de calificación y 2 paradas",
+    "El partido se disputó ante 52,497 espectadores en el BC Place Vancouver",
+    "Ambos equipos sufrieron bajas por lesión: Luca Jaquez (Suiza) y Mohamed Amoura (Argelia)"
+  ]
+}

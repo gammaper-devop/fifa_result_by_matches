@@ -1,0 +1,123 @@
+{
+  "partido": {
+    "equipo_local": "Portugal",
+    "equipo_visitante": "Croacia",
+    "goles_local": 2,
+    "goles_visitante": 1,
+    "estadio": "Toronto Stadium",
+    "fase": "Dieciseisavos de final",
+    "fecha": "2026-07-02"
+  },
+  "goleadores": [
+    {
+      "minuto": 53,
+      "jugador": "Ivan Perisic",
+      "equipo": "Croacia"
+    },
+    {
+      "minuto": 68,
+      "jugador": "Cristiano Ronaldo",
+      "equipo": "Portugal",
+      "nota": "Penalti"
+    },
+    {
+      "minuto": 90,
+      "jugador": "Gonçalo Ramos",
+      "equipo": "Portugal",
+      "nota": "Minuto 90+4'"
+    }
+  ],
+  "estadisticas_generales": {
+    "posesion_porcentaje": {
+      "Portugal": 60,
+      "Croacia": 40
+    },
+    "tiros_totales": {
+      "Portugal": 15,
+      "Croacia": 13
+    },
+    "tiros_a_puerta": {
+      "Portugal": 3,
+      "Croacia": 6
+    },
+    "tiros_fuera": {
+      "Portugal": 8,
+      "Croacia": 5
+    },
+    "tiros_bloqueados": {
+      "Portugal": 4,
+      "Croacia": 2
+    },
+    "goles_esperados_xG": {
+      "Portugal": 2.20,
+      "Croacia": 1.34
+    },
+    "pases_completados": {
+      "Portugal": 533,
+      "Croacia": 312
+    },
+    "precision_pases_porcentaje": {
+      "Portugal": 91,
+      "Croacia": 84
+    }
+  },
+  "estadisticas_especificas": {
+    "corners": {
+      "Portugal": 9,
+      "Croacia": 5
+    },
+    "faltas_cometidas": {
+      "Portugal": 6,
+      "Croacia": 12
+    },
+    "fueras_de_juego": {
+      "Portugal": 1,
+      "Croacia": 4
+    },
+    "paradas_del_portero": {
+      "Portugal": 5,
+      "Croacia": 2
+    }
+  },
+  "tarjetas": {
+    "amarillas": [
+      {
+        "minuto": 17,
+        "jugador": "Rúben Dias",
+        "equipo": "Portugal"
+      },
+      {
+        "minuto": 59,
+        "jugador": "Luka Modric",
+        "equipo": "Croacia"
+      },
+      {
+        "minuto": 90,
+        "jugador": "Ivan Perisic",
+        "equipo": "Croacia",
+        "nota": "Minuto 90+8'"
+      }
+    ],
+    "rojas": [],
+    "resumen": {
+      "Portugal": {
+        "amarillas": 1,
+        "rojas": 0
+      },
+      "Croacia": {
+        "amarillas": 2,
+        "rojas": 0
+      }
+    }
+  },
+  "records_o_notas": [
+    "Portugal clasificó a los cuartos de final con una remontada en el tiempo añadido, gracias a un gol de Gonçalo Ramos en el minuto 90+4'",
+    "Cristiano Ronaldo anotó su primer gol en la fase de eliminación del Mundial, un penalti al minuto 68",
+    "Portugal dominó la posesión con un 60% frente al 40% de Croacia",
+    "Portugal realizó más tiros totales (15) que Croacia (13), pero Croacia tuvo más tiros a puerta (6 contra 3)",
+    "El xG de Portugal (2.20) fue superior al de Croacia (1.34), reflejando la mayor calidad de las oportunidades portuguesas",
+    "El portero portugués Diogo Costa realizó 5 paradas clave para mantener a su equipo en el partido",
+    "El partido se disputó ante 43,036 espectadores en el Toronto Stadium",
+    "Con este resultado, Portugal se enfrentará a España en los cuartos de final"
+  ]
+}
