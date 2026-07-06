@@ -1,0 +1,112 @@
+{
+  "partido": {
+    "equipo_local": "Portugal",
+    "equipo_visitante": "España",
+    "goles_local": 0,
+    "goles_visitante": 1,
+    "estadio": "Dallas Stadium",
+    "fase": "Octavos de final",
+    "fecha": "2026-07-07"
+  },
+  "goleadores": [
+    {
+      "minuto": 90,
+      "jugador": "Mikel Merino",
+      "equipo": "España",
+      "nota": "Minuto 90+1'"
+    }
+  ],
+  "estadisticas_generales": {
+    "posesion_porcentaje": {
+      "Portugal": 44,
+      "España": 56
+    },
+    "tiros_totales": {
+      "Portugal": 10,
+      "España": 15
+    },
+    "tiros_a_puerta": {
+      "Portugal": 2,
+      "España": 6
+    },
+    "tiros_fuera": {
+      "Portugal": 5,
+      "España": 6
+    },
+    "tiros_bloqueados": {
+      "Portugal": 3,
+      "España": 3
+    },
+    "goles_esperados_xG": {
+      "Portugal": 0.60,
+      "España": 1.77
+    },
+    "pases_completados": {
+      "Portugal": 357,
+      "España": 467
+    },
+    "precision_pases_porcentaje": {
+      "Portugal": 84,
+      "España": 88
+    }
+  },
+  "estadisticas_especificas": {
+    "corners": {
+      "Portugal": 3,
+      "España": 7
+    },
+    "faltas_cometidas": {
+      "Portugal": 9,
+      "España": 13
+    },
+    "fueras_de_juego": {
+      "Portugal": 2,
+      "España": 1
+    },
+    "paradas_del_portero": {
+      "Portugal": 5,
+      "España": 2
+    }
+  },
+  "tarjetas": {
+    "amarillas": [
+      {
+        "minuto": 89,
+        "jugador": "Bernardo Silva",
+        "equipo": "Portugal"
+      },
+      {
+        "minuto": 90,
+        "jugador": "Renato Veiga",
+        "equipo": "Portugal",
+        "nota": "Minuto 90+3'"
+      },
+      {
+        "minuto": 90,
+        "jugador": "Ferran Torres",
+        "equipo": "España",
+        "nota": "Minuto 90+8'"
+      }
+    ],
+    "rojas": [],
+    "resumen": {
+      "Portugal": {
+        "amarillas": 2,
+        "rojas": 0
+      },
+      "España": {
+        "amarillas": 1,
+        "rojas": 0
+      }
+    }
+  },
+  "records_o_notas": [
+    "España clasificó a los cuartos de final con un gol de Mikel Merino en el tiempo añadido, eliminando a Portugal en el derbi ibérico",
+    "España dominó la posesión con un 56% frente al 44% de Portugal",
+    "España realizó más tiros totales (15) que Portugal (10) y más tiros a puerta (6 contra 2)",
+    "El xG de España (1.77) fue significativamente mayor que el de Portugal (0.60), reflejando el dominio ofensivo español",
+    "El portero portugués Diogo Costa realizó 5 paradas para mantener a su equipo en el partido",
+    "El partido se disputó ante 70,649 espectadores en el Dallas Stadium",
+    "Con este resultado, España se enfrentará a Estados Unidos o Bélgica en los cuartos de final"
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "partido": {
+    "equipo_local": "Estados Unidos",
+    "equipo_visitante": "Belgica",
+    "goles_local": 1,
+    "goles_visitante": 4,
+    "estadio": "Seattle Stadium",
+    "fase": "Octavos de final",
+    "fecha": "2026-07-06"
+  },
+  "goleadores": [
+    {
+      "minuto": 9,
+      "jugador": "Charles De Ketelaere",
+      "equipo": "Belgica"
+    },
+    {
+      "minuto": 31,
+      "jugador": "Malik Tillman",
+      "equipo": "Estados Unidos"
+    },
+    {
+      "minuto": 33,
+      "jugador": "Charles De Ketelaere",
+      "equipo": "Belgica"
+    },
+    {
+      "minuto": 57,
+      "jugador": "Hans Vanaken",
+      "equipo": "Belgica"
+    },
+    {
+      "minuto": 90,
+      "jugador": "Romelu Lukaku",
+      "equipo": "Belgica",
+      "nota": "Minuto 90+3'"
+    }
+  ],
+  "estadisticas_generales": {
+    "posesion_porcentaje": {
+      "Estados Unidos": 56,
+      "Belgica": 44
+    },
+    "tiros_totales": {
+      "Estados Unidos": 7,
+      "Belgica": 15
+    },
+    "tiros_a_puerta": {
+      "Estados Unidos": 2,
+      "Belgica": 7
+    },
+    "tiros_fuera": {
+      "Estados Unidos": 5,
+      "Belgica": 4
+    },
+    "tiros_bloqueados": {
+      "Estados Unidos": 0,
+      "Belgica": 4
+    },
+    "goles_esperados_xG": {
+      "Estados Unidos": 0.63,
+      "Belgica": 2.01
+    },
+    "pases_completados": {
+      "Estados Unidos": 459,
+      "Belgica": 334
+    },
+    "precision_pases_porcentaje": {
+      "Estados Unidos": 87,
+      "Belgica": 81
+    }
+  },
+  "estadisticas_especificas": {
+    "corners": {
+      "Estados Unidos": 3,
+      "Belgica": 5
+    },
+    "faltas_cometidas": {
+      "Estados Unidos": 11,
+      "Belgica": 9
+    },
+    "fueras_de_juego": {
+      "Estados Unidos": 0,
+      "Belgica": 1
+    },
+    "paradas_del_portero": {
+      "Estados Unidos": 3,
+      "Belgica": 1
+    }
+  },
+  "tarjetas": {
+    "amarillas": [
+      {
+        "minuto": 35,
+        "jugador": "Weston McKennie",
+        "equipo": "Estados Unidos"
+      },
+      {
+        "minuto": 69,
+        "jugador": "Malik Tillman",
+        "equipo": "Estados Unidos"
+      }
+    ],
+    "rojas": [],
+    "resumen": {
+      "Estados Unidos": {
+        "amarillas": 2,
+        "rojas": 0
+      },
+      "Belgica": {
+        "amarillas": 0,
+        "rojas": 0
+      }
+    }
+  },
+  "records_o_notas": [
+    "Belgica clasificó a los cuartos de final con una contundente victoria sobre Estados Unidos, eliminando a los coanfitriones",
+    "Charles De Ketelaere fue la figura del partido con un doblete (minutos 9 y 33) y una calificación de 9.4",
+    "Belgica fue más efectiva que Estados Unidos, convirtiendo 4 de sus 7 tiros a puerta en gol",
+    "El xG de Belgica (2.01) fue superior al de Estados Unidos (0.63), reflejando el dominio ofensivo belga",
+    "Estados Unidos tuvo más posesión (56%) que Belgica (44%), pero no logró concretar sus oportunidades",
+    "El partido se disputó ante 66,925 espectadores en el Seattle Stadium",
+    "Belgica se enfrentará a España en los cuartos de final"
+  ]
+}
