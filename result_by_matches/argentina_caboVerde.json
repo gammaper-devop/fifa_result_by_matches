@@ -1,0 +1,126 @@
+{
+  "partido": {
+    "equipo_local": "Argentina",
+    "equipo_visitante": "Cabo Verde",
+    "goles_local": 3,
+    "goles_visitante": 2,
+    "estadio": "Miami Stadium",
+    "fase": "Dieciseisavos de final",
+    "fecha": "2026-07-03"
+  },
+  "goleadores": [
+    {
+      "minuto": 29,
+      "jugador": "Lionel Messi",
+      "equipo": "Argentina"
+    },
+    {
+      "minuto": 59,
+      "jugador": "Deroy Duarte",
+      "equipo": "Cabo Verde"
+    },
+    {
+      "minuto": 92,
+      "jugador": "Lisandro Martínez",
+      "equipo": "Argentina"
+    },
+    {
+      "minuto": 103,
+      "jugador": "Sidny Lopes Cabral",
+      "equipo": "Cabo Verde"
+    },
+    {
+      "minuto": 111,
+      "jugador": "Diney Borges",
+      "equipo": "Argentina",
+      "nota": "Autogol"
+    }
+  ],
+  "estadisticas_generales": {
+    "posesion_porcentaje": {
+      "Argentina": 64,
+      "Cabo Verde": 36
+    },
+    "tiros_totales": {
+      "Argentina": 22,
+      "Cabo Verde": 16
+    },
+    "tiros_a_puerta": {
+      "Argentina": 10,
+      "Cabo Verde": 5
+    },
+    "tiros_fuera": {
+      "Argentina": 5,
+      "Cabo Verde": 5
+    },
+    "tiros_bloqueados": {
+      "Argentina": 7,
+      "Cabo Verde": 6
+    },
+    "goles_esperados_xG": {
+      "Argentina": 2.26,
+      "Cabo Verde": 0.47
+    },
+    "pases_completados": {
+      "Argentina": 779,
+      "Cabo Verde": 409
+    },
+    "precision_pases_porcentaje": {
+      "Argentina": 92,
+      "Cabo Verde": 86
+    }
+  },
+  "estadisticas_especificas": {
+    "corners": {
+      "Argentina": 8,
+      "Cabo Verde": 8
+    },
+    "faltas_cometidas": {
+      "Argentina": 13,
+      "Cabo Verde": 12
+    },
+    "fueras_de_juego": {
+      "Argentina": 3,
+      "Cabo Verde": 2
+    },
+    "paradas_del_portero": {
+      "Argentina": 3,
+      "Cabo Verde": 8
+    }
+  },
+  "tarjetas": {
+    "amarillas": [
+      {
+        "minuto": 68,
+        "jugador": "Kevin Pina",
+        "equipo": "Cabo Verde"
+      },
+      {
+        "minuto": 115,
+        "jugador": "Gonzalo Montiel",
+        "equipo": "Argentina"
+      }
+    ],
+    "rojas": [],
+    "resumen": {
+      "Argentina": {
+        "amarillas": 1,
+        "rojas": 0
+      },
+      "Cabo Verde": {
+        "amarillas": 1,
+        "rojas": 0
+      }
+    }
+  },
+  "records_o_notas": [
+    "Argentina clasificó a los cuartos de final tras una agónica victoria en la prórroga contra la revelación Cabo Verde",
+    "Lionel Messi fue la figura del partido con un gol y una calificación de 8.7, extendiendo su récord de goles en Mundiales",
+    "Cabo Verde, en su debut en octavos de final, plantó cara a los campeones del mundo y obligó a la prórroga",
+    "Argentina dominó la posesión con un 64% frente al 36% de Cabo Verde",
+    "Argentina realizó 22 tiros totales (10 a puerta), mientras que Cabo Verde tuvo 16 (5 a puerta)",
+    "El xG de Argentina (2.26) fue superior al de Cabo Verde (0.47), reflejando el dominio ofensivo argentino",
+    "El portero caboverdiano Vozinha realizó 8 paradas para mantener a su equipo en el partido",
+    "El partido se disputó ante 64,478 espectadores en el Miami Stadium"
+  ]
+}

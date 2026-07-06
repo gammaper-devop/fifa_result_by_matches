@@ -1,0 +1,156 @@
+{
+  "partido": {
+    "equipo_local": "Mexico",
+    "equipo_visitante": "Inglaterra",
+    "goles_local": 2,
+    "goles_visitante": 3,
+    "estadio": "Mexico City Stadium",
+    "fase": "Octavos de final",
+    "fecha": "2026-07-05"
+  },
+  "goleadores": [
+    {
+      "minuto": 36,
+      "jugador": "Jude Bellingham",
+      "equipo": "Inglaterra"
+    },
+    {
+      "minuto": 38,
+      "jugador": "Jude Bellingham",
+      "equipo": "Inglaterra"
+    },
+    {
+      "minuto": 42,
+      "jugador": "Julián Quiñones",
+      "equipo": "Mexico"
+    },
+    {
+      "minuto": 60,
+      "jugador": "Harry Kane",
+      "equipo": "Inglaterra",
+      "nota": "Penalti"
+    },
+    {
+      "minuto": 69,
+      "jugador": "Raul Jimenez",
+      "equipo": "Mexico",
+      "nota": "Penalti"
+    }
+  ],
+  "estadisticas_generales": {
+    "posesion_porcentaje": {
+      "Mexico": 67,
+      "Inglaterra": 33
+    },
+    "tiros_totales": {
+      "Mexico": 20,
+      "Inglaterra": 6
+    },
+    "tiros_a_puerta": {
+      "Mexico": 5,
+      "Inglaterra": 5
+    },
+    "tiros_fuera": {
+      "Mexico": 8,
+      "Inglaterra": 1
+    },
+    "tiros_bloqueados": {
+      "Mexico": 7,
+      "Inglaterra": 0
+    },
+    "goles_esperados_xG": {
+      "Mexico": 1.88,
+      "Inglaterra": 1.61
+    },
+    "pases_completados": {
+      "Mexico": 418,
+      "Inglaterra": 195
+    },
+    "precision_pases_porcentaje": {
+      "Mexico": 92,
+      "Inglaterra": 80
+    }
+  },
+  "estadisticas_especificas": {
+    "corners": {
+      "Mexico": 12,
+      "Inglaterra": 2
+    },
+    "faltas_cometidas": {
+      "Mexico": 14,
+      "Inglaterra": 7
+    },
+    "fueras_de_juego": {
+      "Mexico": 1,
+      "Inglaterra": 0
+    },
+    "paradas_del_portero": {
+      "Mexico": 2,
+      "Inglaterra": 3
+    }
+  },
+  "tarjetas": {
+    "amarillas": [
+      {
+        "minuto": 1,
+        "jugador": "Declan Rice",
+        "equipo": "Inglaterra"
+      },
+      {
+        "minuto": 68,
+        "jugador": "Marc Guehi",
+        "equipo": "Inglaterra"
+      },
+      {
+        "minuto": 71,
+        "jugador": "Jorge Sánchez",
+        "equipo": "Mexico"
+      },
+      {
+        "minuto": 72,
+        "jugador": "Nico O'Reilly",
+        "equipo": "Inglaterra"
+      },
+      {
+        "minuto": 90,
+        "jugador": "Johan Vásquez",
+        "equipo": "Mexico",
+        "nota": "Minuto 90+8'"
+      },
+      {
+        "minuto": 90,
+        "jugador": "Jordan Henderson",
+        "equipo": "Inglaterra",
+        "nota": "Minuto 90+8'"
+      }
+    ],
+    "rojas": [
+      {
+        "minuto": 54,
+        "jugador": "Jarell Quansah",
+        "equipo": "Inglaterra",
+        "tipo": "roja_directa"
+      }
+    ],
+    "resumen": {
+      "Mexico": {
+        "amarillas": 2,
+        "rojas": 0
+      },
+      "Inglaterra": {
+        "amarillas": 4,
+        "rojas": 1
+      }
+    }
+  },
+  "records_o_notas": [
+    "Inglaterra clasificó a los cuartos de final a pesar de jugar con 10 hombres desde el minuto 54 por la expulsión de Jarell Quansah",
+    "Jude Bellingham fue la figura del partido con un doblete en dos minutos (36 y 38) y una calificación de 9.2",
+    "Mexico dominó la posesión con un 67% frente al 33% de Inglaterra",
+    "Mexico realizó 20 tiros totales, mientras que Inglaterra solo tuvo 6",
+    "El xG de Mexico (1.88) fue superior al de Inglaterra (1.61), reflejando el dominio ofensivo mexicano",
+    "Inglaterra recibió 4 tarjetas amarillas y 1 roja directa, mientras que Mexico recibió 2 amarillas",
+    "El partido se disputó ante 80,824 espectadores en el Mexico City Stadium",
+    "Con este resultado, Inglaterra se enfrentará a Noruega en los cuartos de final"
+  ]
+}

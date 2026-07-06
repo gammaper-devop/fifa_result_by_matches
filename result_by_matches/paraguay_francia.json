@@ -1,0 +1,111 @@
+{
+  "partido": {
+    "equipo_local": "Paraguay",
+    "equipo_visitante": "Francia",
+    "goles_local": 0,
+    "goles_visitante": 1,
+    "estadio": "Philadelphia Stadium",
+    "fase": "Octavos de final",
+    "fecha": "2026-07-04"
+  },
+  "goleadores": [
+    {
+      "minuto": 70,
+      "jugador": "Kylian Mbappé",
+      "equipo": "Francia",
+      "nota": "Penalti"
+    }
+  ],
+  "estadisticas_generales": {
+    "posesion_porcentaje": {
+      "Paraguay": 24,
+      "Francia": 76
+    },
+    "tiros_totales": {
+      "Paraguay": 5,
+      "Francia": 15
+    },
+    "tiros_a_puerta": {
+      "Paraguay": 0,
+      "Francia": 5
+    },
+    "tiros_fuera": {
+      "Paraguay": 4,
+      "Francia": 6
+    },
+    "tiros_bloqueados": {
+      "Paraguay": 1,
+      "Francia": 4
+    },
+    "goles_esperados_xG": {
+      "Paraguay": 0.13,
+      "Francia": 1.45
+    },
+    "pases_completados": {
+      "Paraguay": 98,
+      "Francia": 510
+    },
+    "precision_pases_porcentaje": {
+      "Paraguay": 54,
+      "Francia": 90
+    }
+  },
+  "estadisticas_especificas": {
+    "corners": {
+      "Paraguay": 2,
+      "Francia": 12
+    },
+    "faltas_cometidas": {
+      "Paraguay": 13,
+      "Francia": 11
+    },
+    "fueras_de_juego": {
+      "Paraguay": 0,
+      "Francia": 0
+    },
+    "paradas_del_portero": {
+      "Paraguay": 4,
+      "Francia": 0
+    }
+  },
+  "tarjetas": {
+    "amarillas": [
+      {
+        "minuto": 19,
+        "jugador": "Bradley Barcola",
+        "equipo": "Francia"
+      },
+      {
+        "minuto": 81,
+        "jugador": "Kouadio Koné",
+        "equipo": "Francia"
+      },
+      {
+        "minuto": 90,
+        "jugador": "Michael Olise",
+        "equipo": "Francia",
+        "nota": "Minuto 90+7'"
+      }
+    ],
+    "rojas": [],
+    "resumen": {
+      "Paraguay": {
+        "amarillas": 0,
+        "rojas": 0
+      },
+      "Francia": {
+        "amarillas": 3,
+        "rojas": 0
+      }
+    }
+  },
+  "records_o_notas": [
+    "Francia clasificó a los cuartos de final con un gol de penalti de Kylian Mbappé, su séptimo en el torneo",
+    "Francia dominó completamente la posesión con un 76% frente al 24% de Paraguay",
+    "Francia realizó 15 tiros totales (5 a puerta), mientras que Paraguay no logró ningún tiro a puerta",
+    "El xG de Francia (1.45) fue significativamente mayor que el de Paraguay (0.13), reflejando el dominio ofensivo francés",
+    "El portero paraguayo Orlando Gill realizó 4 paradas para mantener a su equipo en el partido",
+    "Francia recibió 3 tarjetas amarillas, mientras que Paraguay no tuvo amonestaciones",
+    "El partido se disputó ante 68,324 espectadores en el Philadelphia Stadium"
+  ]
+}

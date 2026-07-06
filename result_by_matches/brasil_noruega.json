@@ -1,0 +1,112 @@
+{
+  "partido": {
+    "equipo_local": "Brasil",
+    "equipo_visitante": "Noruega",
+    "goles_local": 1,
+    "goles_visitante": 2,
+    "estadio": "New York New Jersey Stadium",
+    "fase": "Octavos de final",
+    "fecha": "2026-07-05"
+  },
+  "goleadores": [
+    {
+      "minuto": 79,
+      "jugador": "Erling Haaland",
+      "equipo": "Noruega"
+    },
+    {
+      "minuto": 90,
+      "jugador": "Erling Haaland",
+      "equipo": "Noruega"
+    },
+    {
+      "minuto": 90,
+      "jugador": "Neymar",
+      "equipo": "Brasil",
+      "nota": "Minuto 90+10', penalti"
+    }
+  ],
+  "estadisticas_generales": {
+    "posesion_porcentaje": {
+      "Brasil": 34,
+      "Noruega": 66
+    },
+    "tiros_totales": {
+      "Brasil": 14,
+      "Noruega": 9
+    },
+    "tiros_a_puerta": {
+      "Brasil": 4,
+      "Noruega": 5
+    },
+    "tiros_fuera": {
+      "Brasil": 6,
+      "Noruega": 3
+    },
+    "tiros_bloqueados": {
+      "Brasil": 4,
+      "Noruega": 1
+    },
+    "goles_esperados_xG": {
+      "Brasil": 2.61,
+      "Noruega": 1.05
+    },
+    "pases_completados": {
+      "Brasil": 279,
+      "Noruega": 618
+    },
+    "precision_pases_porcentaje": {
+      "Brasil": 84,
+      "Noruega": 91
+    }
+  },
+  "estadisticas_especificas": {
+    "corners": {
+      "Brasil": 5,
+      "Noruega": 5
+    },
+    "faltas_cometidas": {
+      "Brasil": 7,
+      "Noruega": 6
+    },
+    "fueras_de_juego": {
+      "Brasil": 1,
+      "Noruega": 1
+    },
+    "paradas_del_portero": {
+      "Brasil": 3,
+      "Noruega": 4
+    }
+  },
+  "tarjetas": {
+    "amarillas": [
+      {
+        "minuto": 90,
+        "jugador": "Neymar",
+        "equipo": "Brasil",
+        "nota": "Minuto 90+6'"
+      }
+    ],
+    "rojas": [],
+    "resumen": {
+      "Brasil": {
+        "amarillas": 1,
+        "rojas": 0
+      },
+      "Noruega": {
+        "amarillas": 0,
+        "rojas": 0
+      }
+    }
+  },
+  "records_o_notas": [
+    "Noruega eliminó a Brasil con un doblete de Erling Haaland, alcanzando los 7 goles en el torneo, igualando a Kylian Mbappé y Lionel Messi",
+    "Noruega dominó la posesión con un 66% frente al 34% de Brasil",
+    "Noruega completó 618 pases con una precisión del 91%, mostrando un control absoluto del partido",
+    "Brasil tuvo más tiros totales (14) que Noruega (9) y un xG mayor (2.61 contra 1.05), pero no logró concretar sus oportunidades",
+    "El portero noruego Ørjan Håskjold Nyland realizó 4 paradas clave para asegurar la victoria",
+    "Neymar anotó un penalti en el tiempo añadido (90+10'), pero no fue suficiente para evitar la eliminación brasileña",
+    "El partido se disputó ante 80,663 espectadores en el New York New Jersey Stadium",
+    "Brasil sufrió la baja por lesión de Lucas Paquetá"
+  ]
+}

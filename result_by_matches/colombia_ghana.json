@@ -1,0 +1,119 @@
+{
+  "partido": {
+    "equipo_local": "Colombia",
+    "equipo_visitante": "Ghana",
+    "goles_local": 1,
+    "goles_visitante": 0,
+    "estadio": "Kansas City Stadium",
+    "fase": "Dieciseisavos de final",
+    "fecha": "2026-07-03"
+  },
+  "goleadores": [
+    {
+      "minuto": 14,
+      "jugador": "Jhon Arias",
+      "equipo": "Colombia"
+    }
+  ],
+  "estadisticas_generales": {
+    "posesion_porcentaje": {
+      "Colombia": 61,
+      "Ghana": 39
+    },
+    "tiros_totales": {
+      "Colombia": 20,
+      "Ghana": 8
+    },
+    "tiros_a_puerta": {
+      "Colombia": 8,
+      "Ghana": 0
+    },
+    "tiros_fuera": {
+      "Colombia": 8,
+      "Ghana": 3
+    },
+    "tiros_bloqueados": {
+      "Colombia": 4,
+      "Ghana": 5
+    },
+    "goles_esperados_xG": {
+      "Colombia": 2.04,
+      "Ghana": 0.27
+    },
+    "pases_completados": {
+      "Colombia": 532,
+      "Ghana": 312
+    },
+    "precision_pases_porcentaje": {
+      "Colombia": 91,
+      "Ghana": 83
+    }
+  },
+  "estadisticas_especificas": {
+    "corners": {
+      "Colombia": 3,
+      "Ghana": 2
+    },
+    "faltas_cometidas": {
+      "Colombia": 14,
+      "Ghana": 10
+    },
+    "fueras_de_juego": {
+      "Colombia": 2,
+      "Ghana": 0
+    },
+    "paradas_del_portero": {
+      "Colombia": 0,
+      "Ghana": 7
+    }
+  },
+  "tarjetas": {
+    "amarillas": [
+      {
+        "minuto": 12,
+        "jugador": "Jhon Arias",
+        "equipo": "Colombia"
+      },
+      {
+        "minuto": 49,
+        "jugador": "Caleb Yirenkyi",
+        "equipo": "Ghana"
+      },
+      {
+        "minuto": 66,
+        "jugador": "Abdul Fatawu",
+        "equipo": "Ghana"
+      },
+      {
+        "minuto": 76,
+        "jugador": "Alidu Seidu",
+        "equipo": "Ghana"
+      },
+      {
+        "minuto": 78,
+        "jugador": "Richard Ríos",
+        "equipo": "Colombia"
+      }
+    ],
+    "rojas": [],
+    "resumen": {
+      "Colombia": {
+        "amarillas": 2,
+        "rojas": 0
+      },
+      "Ghana": {
+        "amarillas": 3,
+        "rojas": 0
+      }
+    }
+  },
+  "records_o_notas": [
+    "Colombia clasificó a los cuartos de final con una victoria sólida sobre Ghana, y se enfrentará a Suiza en la siguiente ronda",
+    "Jhon Arias fue la figura del partido con el gol de la victoria y una calificación de 8.3",
+    "Colombia dominó la posesión con un 61% frente al 39% de Ghana",
+    "Colombia realizó 20 tiros totales (8 a puerta), mientras que Ghana no logró ningún tiro a puerta",
+    "El xG de Colombia (2.04) fue significativamente mayor que el de Ghana (0.27), reflejando el dominio ofensivo colombiano",
+    "El portero ghanés Lawrence Ati-Zigi realizó 7 paradas para evitar un marcador más abultado",
+    "El partido se disputó ante 69,045 espectadores en el Kansas City Stadium"
+  ]
+}

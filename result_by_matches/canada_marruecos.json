@@ -1,0 +1,145 @@
+{
+  "partido": {
+    "equipo_local": "Canada",
+    "equipo_visitante": "Marruecos",
+    "goles_local": 0,
+    "goles_visitante": 3,
+    "estadio": "Houston Stadium",
+    "fase": "Octavos de final",
+    "fecha": "2026-07-04"
+  },
+  "goleadores": [
+    {
+      "minuto": 50,
+      "jugador": "Azzedine Ounahi",
+      "equipo": "Marruecos"
+    },
+    {
+      "minuto": 82,
+      "jugador": "Azzedine Ounahi",
+      "equipo": "Marruecos"
+    },
+    {
+      "minuto": 90,
+      "jugador": "Soufiane Rahimi",
+      "equipo": "Marruecos",
+      "nota": "Minuto 90+8'"
+    }
+  ],
+  "estadisticas_generales": {
+    "posesion_porcentaje": {
+      "Canada": 45,
+      "Marruecos": 55
+    },
+    "tiros_totales": {
+      "Canada": 10,
+      "Marruecos": 5
+    },
+    "tiros_a_puerta": {
+      "Canada": 3,
+      "Marruecos": 4
+    },
+    "tiros_fuera": {
+      "Canada": 4,
+      "Marruecos": 1
+    },
+    "tiros_bloqueados": {
+      "Canada": 3,
+      "Marruecos": 0
+    },
+    "goles_esperados_xG": {
+      "Canada": 0.84,
+      "Marruecos": 0.82
+    },
+    "pases_completados": {
+      "Canada": 272,
+      "Marruecos": 388
+    },
+    "precision_pases_porcentaje": {
+      "Canada": 76,
+      "Marruecos": 82
+    }
+  },
+  "estadisticas_especificas": {
+    "corners": {
+      "Canada": 11,
+      "Marruecos": 1
+    },
+    "faltas_cometidas": {
+      "Canada": 24,
+      "Marruecos": 14
+    },
+    "fueras_de_juego": {
+      "Canada": 2,
+      "Marruecos": 3
+    },
+    "paradas_del_portero": {
+      "Canada": 1,
+      "Marruecos": 3
+    }
+  },
+  "tarjetas": {
+    "amarillas": [
+      {
+        "minuto": 20,
+        "jugador": "Redouane Halhal",
+        "equipo": "Marruecos"
+      },
+      {
+        "minuto": 40,
+        "jugador": "Achraf Hakimi",
+        "equipo": "Marruecos"
+      },
+      {
+        "minuto": 40,
+        "jugador": "Richie Laryea",
+        "equipo": "Canada"
+      },
+      {
+        "minuto": 43,
+        "jugador": "Jonathan David",
+        "equipo": "Canada"
+      },
+      {
+        "minuto": 45,
+        "jugador": "Azzedine Ounahi",
+        "equipo": "Marruecos"
+      },
+      {
+        "minuto": 45,
+        "jugador": "Bilal El Khannouss",
+        "equipo": "Marruecos",
+        "nota": "Minuto 45+6'"
+      },
+      {
+        "minuto": 49,
+        "jugador": "Luc De Fougerolles",
+        "equipo": "Canada"
+      },
+      {
+        "minuto": 67,
+        "jugador": "Cyle Larin",
+        "equipo": "Canada"
+      }
+    ],
+    "rojas": [],
+    "resumen": {
+      "Canada": {
+        "amarillas": 4,
+        "rojas": 0
+      },
+      "Marruecos": {
+        "amarillas": 4,
+        "rojas": 0
+      }
+    }
+  },
+  "records_o_notas": [
+    "Marruecos clasificó a los cuartos de final con una victoria contundente sobre Canada",
+    "Azzedine Ounahi fue la figura del partido con un doblete y una calificación de 8.9",
+    "Canada tuvo mas tiros totales (10) que Marruecos (5) y mas corners (11 contra 1), pero no logró concretar sus oportunidades",
+    "El xG de Canada (0.84) fue ligeramente superior al de Marruecos (0.82), reflejando la paridad en la creación de oportunidades",
+    "El partido se disputó ante 68,777 espectadores en el Houston Stadium",
+    "Ambos equipos recibieron 4 tarjetas amarillas cada uno"
+  ]
+}

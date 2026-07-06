@@ -1,0 +1,110 @@
+{
+  "partido": {
+    "equipo_local": "Australia",
+    "equipo_visitante": "Egipto",
+    "goles_local": 1,
+    "goles_visitante": 1,
+    "estadio": "Dallas Stadium",
+    "fase": "Dieciseisavos de final",
+    "fecha": "2026-07-03"
+  },
+  "goleadores": [
+    {
+      "minuto": 13,
+      "jugador": "Emam Ashour",
+      "equipo": "Egipto"
+    },
+    {
+      "minuto": 55,
+      "jugador": "Mohamed Hany",
+      "equipo": "Australia",
+      "nota": "Autogol"
+    }
+  ],
+  "estadisticas_generales": {
+    "posesion_porcentaje": {
+      "Australia": 42,
+      "Egipto": 58
+    },
+    "tiros_totales": {
+      "Australia": 16,
+      "Egipto": 14
+    },
+    "tiros_a_puerta": {
+      "Australia": 1,
+      "Egipto": 3
+    },
+    "tiros_fuera": {
+      "Australia": 6,
+      "Egipto": 5
+    },
+    "tiros_bloqueados": {
+      "Australia": 9,
+      "Egipto": 6
+    },
+    "goles_esperados_xG": {
+      "Australia": 0.84,
+      "Egipto": 1.32
+    },
+    "pases_completados": {
+      "Australia": 403,
+      "Egipto": 613
+    },
+    "precision_pases_porcentaje": {
+      "Australia": 80,
+      "Egipto": 85
+    }
+  },
+  "estadisticas_especificas": {
+    "corners": {
+      "Australia": 4,
+      "Egipto": 7
+    },
+    "faltas_cometidas": {
+      "Australia": 12,
+      "Egipto": 14
+    },
+    "fueras_de_juego": {
+      "Australia": 0,
+      "Egipto": 3
+    },
+    "paradas_del_portero": {
+      "Australia": 3,
+      "Egipto": 1
+    }
+  },
+  "tarjetas": {
+    "amarillas": [
+      {
+        "minuto": 104,
+        "jugador": "Haissem Hassan",
+        "equipo": "Egipto"
+      },
+      {
+        "minuto": 120,
+        "jugador": "Yasser Ibrahim",
+        "equipo": "Egipto"
+      }
+    ],
+    "rojas": [],
+    "resumen": {
+      "Australia": {
+        "amarillas": 0,
+        "rojas": 0
+      },
+      "Egipto": {
+        "amarillas": 2,
+        "rojas": 0
+      }
+    }
+  },
+  "records_o_notas": [
+    "Egipto clasificó a los cuartos de final por primera vez en su historia tras ganar 4-2 en la tanda de penales",
+    "Mohamed Salah fue la figura del partido con una calificación de 8.1, siendo clave en el ataque egipcio",
+    "Australia tuvo más tiros totales (16) que Egipto (14), pero Egipto tuvo más tiros a puerta (3 contra 1)",
+    "El xG de Egipto (1.32) fue superior al de Australia (0.84), reflejando la mayor calidad de las oportunidades egipcias",
+    "Egipto dominó la posesión con un 58% frente al 42% de Australia",
+    "El partido se disputó ante 70,244 espectadores en el Dallas Stadium",
+    "Egipto no contó con Mohanad Lasheen, quien estaba suspendido"
+  ]
+}
