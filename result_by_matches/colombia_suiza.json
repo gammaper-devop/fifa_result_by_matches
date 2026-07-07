@@ -1,0 +1,113 @@
+{
+  "partido": {
+    "equipo_local": "Suiza",
+    "equipo_visitante": "Colombia",
+    "goles_local": 0,
+    "goles_visitante": 0,
+    "estadio": "BC Place Vancouver",
+    "fase": "Octavos de final",
+    "fecha": "2026-07-07"
+  },
+  "goleadores": [],
+  "estadisticas_generales": {
+    "posesion_porcentaje": {
+      "Suiza": 53,
+      "Colombia": 47
+    },
+    "tiros_totales": {
+      "Suiza": 7,
+      "Colombia": 15
+    },
+    "tiros_a_puerta": {
+      "Suiza": 2,
+      "Colombia": 3
+    },
+    "tiros_fuera": {
+      "Suiza": 4,
+      "Colombia": 8
+    },
+    "tiros_bloqueados": {
+      "Suiza": 1,
+      "Colombia": 4
+    },
+    "goles_esperados_xG": {
+      "Suiza": 0.35,
+      "Colombia": 1.03
+    },
+    "pases_completados": {
+      "Suiza": 546,
+      "Colombia": 454
+    },
+    "precision_pases_porcentaje": {
+      "Suiza": 87,
+      "Colombia": 83
+    }
+  },
+  "estadisticas_especificas": {
+    "corners": {
+      "Suiza": 3,
+      "Colombia": 7
+    },
+    "faltas_cometidas": {
+      "Suiza": 22,
+      "Colombia": 21
+    },
+    "fueras_de_juego": {
+      "Suiza": 5,
+      "Colombia": 4
+    },
+    "paradas_del_portero": {
+      "Suiza": 3,
+      "Colombia": 2
+    }
+  },
+  "tarjetas": {
+    "amarillas": [
+      {
+        "minuto": 51,
+        "jugador": "Granit Xhaka",
+        "equipo": "Suiza"
+      },
+      {
+        "minuto": 59,
+        "jugador": "Denis Zakaria",
+        "equipo": "Suiza"
+      },
+      {
+        "minuto": 60,
+        "jugador": "Luis Suárez",
+        "equipo": "Colombia"
+      },
+      {
+        "minuto": 94,
+        "jugador": "Davinson Sánchez",
+        "equipo": "Colombia"
+      },
+      {
+        "minuto": 105,
+        "jugador": "Miro Muheim",
+        "equipo": "Suiza"
+      }
+    ],
+    "rojas": [],
+    "resumen": {
+      "Suiza": {
+        "amarillas": 3,
+        "rojas": 0
+      },
+      "Colombia": {
+        "amarillas": 2,
+        "rojas": 0
+      }
+    }
+  },
+  "records_o_notas": [
+    "Suiza clasificó a los cuartos de final tras ganar 4-3 en la tanda de penales, y se enfrentará a Argentina en la siguiente ronda",
+    "El portero suizo Gregor Kobel fue la figura del partido con una calificación de 8.4, realizando una parada clave en la tanda de penales",
+    "Colombia tuvo más tiros totales (15) que Suiza (7) y más corners (7 contra 3), pero no logró concretar sus oportunidades",
+    "El xG de Colombia (1.03) fue superior al de Suiza (0.35), reflejando el mayor peligro ofensivo colombiano",
+    "Ambos equipos mostraron intensidad, con 22 faltas cometidas por Suiza y 21 por Colombia",
+    "El partido se disputó ante 52,497 espectadores en el BC Place Vancouver",
+    "Suiza sufrió las bajas por lesión de Johan Manzambi, Michel Aebischer y Luca Jaquez"
+  ]
+}

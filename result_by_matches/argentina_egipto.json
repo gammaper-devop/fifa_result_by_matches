@@ -1,0 +1,146 @@
+{
+  "partido": {
+    "equipo_local": "Argentina",
+    "equipo_visitante": "Egipto",
+    "goles_local": 3,
+    "goles_visitante": 2,
+    "estadio": "Atlanta Stadium",
+    "fase": "Octavos de final",
+    "fecha": "2026-07-07"
+  },
+  "goleadores": [
+    {
+      "minuto": 15,
+      "jugador": "Yasser Ibrahim",
+      "equipo": "Egipto"
+    },
+    {
+      "minuto": 67,
+      "jugador": "Mostafa Ziko",
+      "equipo": "Egipto"
+    },
+    {
+      "minuto": 79,
+      "jugador": "Cristian Romero",
+      "equipo": "Argentina"
+    },
+    {
+      "minuto": 83,
+      "jugador": "Lionel Messi",
+      "equipo": "Argentina"
+    },
+    {
+      "minuto": 90,
+      "jugador": "Enzo Fernández",
+      "equipo": "Argentina",
+      "nota": "Minuto 90+2'"
+    }
+  ],
+  "estadisticas_generales": {
+    "posesion_porcentaje": {
+      "Argentina": 64,
+      "Egipto": 36
+    },
+    "tiros_totales": {
+      "Argentina": 19,
+      "Egipto": 5
+    },
+    "tiros_a_puerta": {
+      "Argentina": 7,
+      "Egipto": 2
+    },
+    "tiros_fuera": {
+      "Argentina": 8,
+      "Egipto": 3
+    },
+    "tiros_bloqueados": {
+      "Argentina": 4,
+      "Egipto": 0
+    },
+    "goles_esperados_xG": {
+      "Argentina": 2.84,
+      "Egipto": 0.89
+    },
+    "pases_completados": {
+      "Argentina": 541,
+      "Egipto": 287
+    },
+    "precision_pases_porcentaje": {
+      "Argentina": 90,
+      "Egipto": 82
+    }
+  },
+  "estadisticas_especificas": {
+    "corners": {
+      "Argentina": 6,
+      "Egipto": 1
+    },
+    "faltas_cometidas": {
+      "Argentina": 13,
+      "Egipto": 11
+    },
+    "fueras_de_juego": {
+      "Argentina": 3,
+      "Egipto": 0
+    },
+    "paradas_del_portero": {
+      "Argentina": 0,
+      "Egipto": 4
+    }
+  },
+  "tarjetas": {
+    "amarillas": [
+      {
+        "minuto": 90,
+        "jugador": "Mostafa Ahmed Shobeir",
+        "equipo": "Egipto",
+        "nota": "Minuto 90+3'"
+      },
+      {
+        "minuto": 90,
+        "jugador": "Hamdi Fathi",
+        "equipo": "Egipto",
+        "nota": "Minuto 90+4'"
+      },
+      {
+        "minuto": 90,
+        "jugador": "Marwan Ateya",
+        "equipo": "Egipto",
+        "nota": "Minuto 90+8'"
+      },
+      {
+        "minuto": 90,
+        "jugador": "Hossam Hassan",
+        "equipo": "Egipto",
+        "nota": "Minuto 90+9'"
+      },
+      {
+        "minuto": 90,
+        "jugador": "Haissem Hassan",
+        "equipo": "Egipto",
+        "nota": "Minuto 90+12'"
+      }
+    ],
+    "rojas": [],
+    "resumen": {
+      "Argentina": {
+        "amarillas": 0,
+        "rojas": 0
+      },
+      "Egipto": {
+        "amarillas": 5,
+        "rojas": 0
+      }
+    }
+  },
+  "records_o_notas": [
+    "Argentina clasificó a los cuartos de final con una remontada agónica, logrando su segunda remontada consecutiva en la fase de eliminación",
+    "Lionel Messi fue la figura del partido con un gol y una calificación de 8.7, además de haber fallado un penalti en el primer tiempo",
+    "Argentina dominó la posesión con un 64% frente al 36% de Egipto",
+    "Argentina realizó 19 tiros totales (7 a puerta), mientras que Egipto tuvo solo 5 tiros (2 a puerta)",
+    "El xG de Argentina (2.84) fue significativamente mayor que el de Egipto (0.89), reflejando el dominio ofensivo argentino",
+    "Egipto recibió 5 tarjetas amarillas, mientras que Argentina no tuvo amonestaciones",
+    "El partido se disputó ante 68,239 espectadores en el Atlanta Stadium",
+    "Egipto sufrió las bajas por lesión de Mohamed Abdelmonem y Ahmed Abou El Fotouh"
+  ]
+}
