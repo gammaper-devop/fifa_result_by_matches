@@ -1,0 +1,110 @@
+{
+  "partido": {
+    "equipo_local": "Noruega",
+    "equipo_visitante": "Inglaterra",
+    "goles_local": 1,
+    "goles_visitante": 2,
+    "estadio": "Miami Stadium",
+    "fase": "Cuartos de final",
+    "fecha": "2026-07-11"
+  },
+  "goleadores": [
+    {
+      "minuto": 36,
+      "jugador": "Andreas Schjelderup",
+      "equipo": "Noruega"
+    },
+    {
+      "minuto": 45,
+      "jugador": "Jude Bellingham",
+      "equipo": "Inglaterra",
+      "nota": "Minuto 45+2'"
+    },
+    {
+      "minuto": 93,
+      "jugador": "Jude Bellingham",
+      "equipo": "Inglaterra"
+    }
+  ],
+  "estadisticas_generales": {
+    "posesion_porcentaje": {
+      "Noruega": 48,
+      "Inglaterra": 52
+    },
+    "tiros_totales": {
+      "Noruega": 13,
+      "Inglaterra": 14
+    },
+    "tiros_a_puerta": {
+      "Noruega": 4,
+      "Inglaterra": 8
+    },
+    "tiros_fuera": {
+      "Noruega": 6,
+      "Inglaterra": 3
+    },
+    "tiros_bloqueados": {
+      "Noruega": 3,
+      "Inglaterra": 3
+    },
+    "goles_esperados_xG": {
+      "Noruega": 0.68,
+      "Inglaterra": 1.04
+    },
+    "pases_completados": {
+      "Noruega": 494,
+      "Inglaterra": 568
+    },
+    "precision_pases_porcentaje": {
+      "Noruega": 86,
+      "Inglaterra": 90
+    }
+  },
+  "estadisticas_especificas": {
+    "corners": {
+      "Noruega": 7,
+      "Inglaterra": 4
+    },
+    "faltas_cometidas": {
+      "Noruega": 10,
+      "Inglaterra": 8
+    },
+    "fueras_de_juego": {
+      "Noruega": 1,
+      "Inglaterra": 5
+    },
+    "paradas_del_portero": {
+      "Noruega": 6,
+      "Inglaterra": 3
+    }
+  },
+  "tarjetas": {
+    "amarillas": [
+      {
+        "minuto": 117,
+        "jugador": "Kristoffer Ajer",
+        "equipo": "Noruega"
+      }
+    ],
+    "rojas": [],
+    "resumen": {
+      "Noruega": {
+        "amarillas": 1,
+        "rojas": 0
+      },
+      "Inglaterra": {
+        "amarillas": 0,
+        "rojas": 0
+      }
+    }
+  },
+  "records_o_notas": [
+    "Inglaterra clasificó a las semifinales con una remontada en la prórroga, gracias a un doblete de Jude Bellingham",
+    "Jude Bellingham fue la figura del partido con dos goles y una calificación de 9.1",
+    "Inglaterra tuvo más posesión (52%) que Noruega (48%) y más tiros a puerta (8 contra 4)",
+    "El xG de Inglaterra (1.04) fue superior al de Noruega (0.68), reflejando la mayor calidad de las oportunidades inglesas",
+    "El portero noruego Ørjan Håskjold Nyland realizó 6 paradas para mantener a su equipo en el partido",
+    "El partido se disputó ante 64,478 espectadores en el Miami Stadium",
+    "Con este resultado, Inglaterra se enfrentará al ganador de Argentina vs Colombia en las semifinales"
+  ]
+}

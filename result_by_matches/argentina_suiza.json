@@ -1,0 +1,138 @@
+{
+  "partido": {
+    "equipo_local": "Argentina",
+    "equipo_visitante": "Suiza",
+    "goles_local": 3,
+    "goles_visitante": 1,
+    "estadio": "Kansas City Stadium",
+    "fase": "Cuartos de final",
+    "fecha": "2026-07-11"
+  },
+  "goleadores": [
+    {
+      "minuto": 10,
+      "jugador": "Alexis Mac Allister",
+      "equipo": "Argentina"
+    },
+    {
+      "minuto": 67,
+      "jugador": "Dan Ndoye",
+      "equipo": "Suiza"
+    },
+    {
+      "minuto": 112,
+      "jugador": "Julián Álvarez",
+      "equipo": "Argentina"
+    },
+    {
+      "minuto": 120,
+      "jugador": "Lautaro Martínez",
+      "equipo": "Argentina",
+      "nota": "Minuto 120+1'"
+    }
+  ],
+  "estadisticas_generales": {
+    "posesion_porcentaje": {
+      "Argentina": 59,
+      "Suiza": 41
+    },
+    "tiros_totales": {
+      "Argentina": 22,
+      "Suiza": 11
+    },
+    "tiros_a_puerta": {
+      "Argentina": 7,
+      "Suiza": 5
+    },
+    "tiros_fuera": {
+      "Argentina": 8,
+      "Suiza": 3
+    },
+    "tiros_bloqueados": {
+      "Argentina": 7,
+      "Suiza": 3
+    },
+    "goles_esperados_xG": {
+      "Argentina": 1.94,
+      "Suiza": 0.47
+    },
+    "pases_completados": {
+      "Argentina": 614,
+      "Suiza": 398
+    },
+    "precision_pases_porcentaje": {
+      "Argentina": 89,
+      "Suiza": 84
+    }
+  },
+  "estadisticas_especificas": {
+    "corners": {
+      "Argentina": 8,
+      "Suiza": 2
+    },
+    "faltas_cometidas": {
+      "Argentina": 14,
+      "Suiza": 18
+    },
+    "fueras_de_juego": {
+      "Argentina": 4,
+      "Suiza": 3
+    },
+    "paradas_del_portero": {
+      "Argentina": 4,
+      "Suiza": 4
+    }
+  },
+  "tarjetas": {
+    "amarillas": [
+      {
+        "minuto": 44,
+        "jugador": "Breel Embolo",
+        "equipo": "Suiza"
+      },
+      {
+        "minuto": 97,
+        "jugador": "Thiago Almada",
+        "equipo": "Argentina"
+      },
+      {
+        "minuto": 98,
+        "jugador": "Lautaro Martínez",
+        "equipo": "Argentina"
+      },
+      {
+        "minuto": 114,
+        "jugador": "José López",
+        "equipo": "Argentina"
+      }
+    ],
+    "rojas": [
+      {
+        "minuto": 72,
+        "jugador": "Breel Embolo",
+        "equipo": "Suiza",
+        "tipo": "segunda_amarilla"
+      }
+    ],
+    "resumen": {
+      "Argentina": {
+        "amarillas": 3,
+        "rojas": 0
+      },
+      "Suiza": {
+        "amarillas": 1,
+        "rojas": 1
+      }
+    }
+  },
+  "records_o_notas": [
+    "Argentina clasificó a las semifinales tras una victoria en la prórroga, y se enfrentará a Inglaterra en la siguiente ronda",
+    "Lionel Messi fue la figura del partido con una calificación de 8.9, liderando el ataque argentino",
+    "Argentina dominó la posesión con un 59% frente al 41% de Suiza",
+    "Argentina realizó 22 tiros totales (7 a puerta), mientras que Suiza tuvo 11 (5 a puerta)",
+    "El xG de Argentina (1.94) fue superior al de Suiza (0.47), reflejando el dominio ofensivo argentino",
+    "Suiza jugó con 10 hombres desde el minuto 72 por la expulsión de Breel Embolo (doble amarilla)",
+    "El partido se disputó ante 69,045 espectadores en el Kansas City Stadium",
+    "Con este resultado, Argentina se enfrentará a Inglaterra en las semifinales"
+  ]
+}
