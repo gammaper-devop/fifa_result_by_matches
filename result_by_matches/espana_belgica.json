@@ -1,0 +1,126 @@
+{
+  "partido": {
+    "equipo_local": "España",
+    "equipo_visitante": "Belgica",
+    "goles_local": 2,
+    "goles_visitante": 1,
+    "estadio": "Los Angeles Stadium",
+    "fase": "Cuartos de final",
+    "fecha": "2026-07-10"
+  },
+  "goleadores": [
+    {
+      "minuto": 30,
+      "jugador": "Fabián Ruiz",
+      "equipo": "España"
+    },
+    {
+      "minuto": 41,
+      "jugador": "Charles De Ketelaere",
+      "equipo": "Belgica"
+    },
+    {
+      "minuto": 88,
+      "jugador": "Mikel Merino",
+      "equipo": "España"
+    }
+  ],
+  "estadisticas_generales": {
+    "posesion_porcentaje": {
+      "España": 68,
+      "Belgica": 32
+    },
+    "tiros_totales": {
+      "España": 17,
+      "Belgica": 5
+    },
+    "tiros_a_puerta": {
+      "España": 8,
+      "Belgica": 2
+    },
+    "tiros_fuera": {
+      "España": 4,
+      "Belgica": 1
+    },
+    "tiros_bloqueados": {
+      "España": 5,
+      "Belgica": 2
+    },
+    "goles_esperados_xG": {
+      "España": 1.96,
+      "Belgica": 0.34
+    },
+    "pases_completados": {
+      "España": 598,
+      "Belgica": 243
+    },
+    "precision_pases_porcentaje": {
+      "España": 90,
+      "Belgica": 78
+    }
+  },
+  "estadisticas_especificas": {
+    "corners": {
+      "España": 5,
+      "Belgica": 1
+    },
+    "faltas_cometidas": {
+      "España": 13,
+      "Belgica": 18
+    },
+    "fueras_de_juego": {
+      "España": 3,
+      "Belgica": 1
+    },
+    "paradas_del_portero": {
+      "España": 1,
+      "Belgica": 6
+    }
+  },
+  "tarjetas": {
+    "amarillas": [
+      {
+        "minuto": 43,
+        "jugador": "Pau Cubarsí",
+        "equipo": "España"
+      },
+      {
+        "minuto": 85,
+        "jugador": "Kevin De Bruyne",
+        "equipo": "Belgica"
+      },
+      {
+        "minuto": 90,
+        "jugador": "Aymeric Laporte",
+        "equipo": "España",
+        "nota": "Minuto 90+3'"
+      },
+      {
+        "minuto": 90,
+        "jugador": "Axel Witsel",
+        "equipo": "Belgica",
+        "nota": "Minuto 90+5'"
+      }
+    ],
+    "rojas": [],
+    "resumen": {
+      "España": {
+        "amarillas": 2,
+        "rojas": 0
+      },
+      "Belgica": {
+        "amarillas": 2,
+        "rojas": 0
+      }
+    }
+  },
+  "records_o_notas": [
+    "España clasificó a las semifinales con un gol de Mikel Merino en el minuto 88, y se enfrentará a Francia en la siguiente ronda",
+    "España dominó la posesión con un 68% frente al 32% de Belgica",
+    "España realizó 17 tiros totales (8 a puerta), mientras que Belgica solo tuvo 5 (2 a puerta)",
+    "El xG de España (1.96) fue superior al de Belgica (0.34), reflejando el dominio ofensivo español",
+    "El portero belga Thibaut Courtois realizó 6 paradas antes de ser sustituido por lesión en el minuto 71",
+    "El partido se disputó ante 70,492 espectadores en el Los Angeles Stadium",
+    "Con este resultado, España se enfrentará a Francia en las semifinales"
+  ]
+}
