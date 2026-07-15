@@ -1,0 +1,114 @@
+{
+  "partido": {
+    "equipo_local": "Francia",
+    "equipo_visitante": "España",
+    "goles_local": 0,
+    "goles_visitante": 2,
+    "estadio": "Dallas Stadium",
+    "fase": "Semifinales",
+    "fecha": "2026-07-14"
+  },
+  "goleadores": [
+    {
+      "minuto": 22,
+      "jugador": "Mikel Oyarzabal",
+      "equipo": "España",
+      "nota": "Penalti"
+    },
+    {
+      "minuto": 58,
+      "jugador": "Pedro Porro",
+      "equipo": "España"
+    }
+  ],
+  "estadisticas_generales": {
+    "posesion_porcentaje": {
+      "Francia": 49,
+      "España": 51
+    },
+    "tiros_totales": {
+      "Francia": 10,
+      "España": 10
+    },
+    "tiros_a_puerta": {
+      "Francia": 3,
+      "España": 2
+    },
+    "tiros_fuera": {
+      "Francia": 5,
+      "España": 5
+    },
+    "tiros_bloqueados": {
+      "Francia": 2,
+      "España": 3
+    },
+    "goles_esperados_xG": {
+      "Francia": 0.31,
+      "España": 1.63
+    },
+    "pases_completados": {
+      "Francia": 395,
+      "España": 427
+    },
+    "precision_pases_porcentaje": {
+      "Francia": 84,
+      "España": 85
+    }
+  },
+  "estadisticas_especificas": {
+    "corners": {
+      "Francia": 7,
+      "España": 1
+    },
+    "faltas_cometidas": {
+      "Francia": 11,
+      "España": 12
+    },
+    "fueras_de_juego": {
+      "Francia": 4,
+      "España": 5
+    },
+    "paradas_del_portero": {
+      "Francia": 0,
+      "España": 3
+    }
+  },
+  "tarjetas": {
+    "amarillas": [
+      {
+        "minuto": 8,
+        "jugador": "Adrien Rabiot",
+        "equipo": "Francia"
+      },
+      {
+        "minuto": 31,
+        "jugador": "Marc Cucurella",
+        "equipo": "España"
+      },
+      {
+        "minuto": 86,
+        "jugador": "Kylian Mbappé",
+        "equipo": "Francia"
+      }
+    ],
+    "rojas": [],
+    "resumen": {
+      "Francia": {
+        "amarillas": 2,
+        "rojas": 0
+      },
+      "España": {
+        "amarillas": 1,
+        "rojas": 0
+      }
+    }
+  },
+  "records_o_notas": [
+    "España clasificó a la final del Mundial 2026 con una victoria contundente sobre Francia",
+    "Unai Simón fue la figura del partido con una calificación de 8.2, manteniendo la portería a cero",
+    "España fue más efectiva que Francia, convirtiendo 2 de sus 2 tiros a puerta en gol",
+    "El xG de España (1.63) fue superior al de Francia (0.31), reflejando la mayor calidad de las oportunidades españolas",
+    "España jugará la final contra el ganador de Argentina vs Inglaterra",
+    "El partido se disputó ante 70,176 espectadores en el Dallas Stadium"
+  ]
+}
