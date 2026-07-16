@@ -1,0 +1,127 @@
+{
+  "partido": {
+    "equipo_local": "Inglaterra",
+    "equipo_visitante": "Argentina",
+    "goles_local": 1,
+    "goles_visitante": 2,
+    "estadio": "Atlanta Stadium",
+    "fase": "Semifinales",
+    "fecha": "2026-07-15"
+  },
+  "goleadores": [
+    {
+      "minuto": 55,
+      "jugador": "Anthony Gordon",
+      "equipo": "Inglaterra"
+    },
+    {
+      "minuto": 85,
+      "jugador": "Enzo Fernández",
+      "equipo": "Argentina"
+    },
+    {
+      "minuto": 90,
+      "jugador": "Lautaro Martínez",
+      "equipo": "Argentina",
+      "nota": "Minuto 90+2'"
+    }
+  ],
+  "estadisticas_generales": {
+    "posesion_porcentaje": {
+      "Inglaterra": 36,
+      "Argentina": 64
+    },
+    "tiros_totales": {
+      "Inglaterra": 5,
+      "Argentina": 15
+    },
+    "tiros_a_puerta": {
+      "Inglaterra": 2,
+      "Argentina": 5
+    },
+    "tiros_fuera": {
+      "Inglaterra": 1,
+      "Argentina": 7
+    },
+    "tiros_bloqueados": {
+      "Inglaterra": 2,
+      "Argentina": 3
+    },
+    "goles_esperados_xG": {
+      "Inglaterra": 0.53,
+      "Argentina": 1.59
+    },
+    "pases_completados": {
+      "Inglaterra": 273,
+      "Argentina": 537
+    },
+    "precision_pases_porcentaje": {
+      "Inglaterra": 84,
+      "Argentina": 91
+    }
+  },
+  "estadisticas_especificas": {
+    "corners": {
+      "Inglaterra": 1,
+      "Argentina": 6
+    },
+    "faltas_cometidas": {
+      "Inglaterra": 11,
+      "Argentina": 15
+    },
+    "fueras_de_juego": {
+      "Inglaterra": 1,
+      "Argentina": 3
+    },
+    "paradas_del_portero": {
+      "Inglaterra": 3,
+      "Argentina": 1
+    }
+  },
+  "tarjetas": {
+    "amarillas": [
+      {
+        "minuto": 37,
+        "jugador": "Elliot Anderson",
+        "equipo": "Inglaterra"
+      },
+      {
+        "minuto": 42,
+        "jugador": "Lisandro Martínez",
+        "equipo": "Argentina"
+      },
+      {
+        "minuto": 51,
+        "jugador": "Cristian Romero",
+        "equipo": "Argentina"
+      },
+      {
+        "minuto": 90,
+        "jugador": "Rodrigo De Paul",
+        "equipo": "Argentina",
+        "nota": "Minuto 90+4'"
+      }
+    ],
+    "rojas": [],
+    "resumen": {
+      "Inglaterra": {
+        "amarillas": 1,
+        "rojas": 0
+      },
+      "Argentina": {
+        "amarillas": 3,
+        "rojas": 0
+      }
+    }
+  },
+  "records_o_notas": [
+    "Argentina clasificó a la final del Mundial 2026, donde se enfrentará a España",
+    "Lionel Messi fue la figura del partido con una calificación de 9.0, liderando la remontada argentina",
+    "Argentina dominó la posesión con un 64% frente al 36% de Inglaterra",
+    "Argentina realizó 15 tiros totales (5 a puerta), mientras que Inglaterra solo tuvo 5 (2 a puerta)",
+    "El xG de Argentina (1.59) fue superior al de Inglaterra (0.53), reflejando el dominio ofensivo argentino",
+    "Argentina completó 537 pases con una precisión del 91%, mostrando un control absoluto del partido",
+    "El partido se disputó ante 68,239 espectadores en el Atlanta Stadium",
+    "Inglaterra no contó con Jarell Quansah, quien estaba suspendido"
+  ]
+}
