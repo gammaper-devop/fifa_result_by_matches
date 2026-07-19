@@ -1,0 +1,141 @@
+{
+  "partido": {
+    "equipo_local": "Francia",
+    "equipo_visitante": "Inglaterra",
+    "goles_local": 4,
+    "goles_visitante": 6,
+    "estadio": "Miami Stadium",
+    "fase": "Partido por el tercer puesto",
+    "fecha": "2026-07-18"
+  },
+  "goleadores": [
+    {
+      "minuto": 3,
+      "jugador": "Declan Rice",
+      "equipo": "Inglaterra"
+    },
+    {
+      "minuto": 18,
+      "jugador": "Ezri Konsa",
+      "equipo": "Inglaterra"
+    },
+    {
+      "minuto": 37,
+      "jugador": "Bukayo Saka",
+      "equipo": "Inglaterra"
+    },
+    {
+      "minuto": 45,
+      "jugador": "Bukayo Saka",
+      "equipo": "Inglaterra",
+      "nota": "Minuto 45+1'"
+    },
+    {
+      "minuto": 48,
+      "jugador": "Kylian Mbappé",
+      "equipo": "Francia"
+    },
+    {
+      "minuto": 54,
+      "jugador": "Bradley Barcola",
+      "equipo": "Francia"
+    },
+    {
+      "minuto": 66,
+      "jugador": "Kylian Mbappé",
+      "equipo": "Francia"
+    },
+    {
+      "minuto": 87,
+      "jugador": "Bukayo Saka",
+      "equipo": "Inglaterra",
+      "nota": "Penalti"
+    },
+    {
+      "minuto": 90,
+      "jugador": "Ousmane Dembélé",
+      "equipo": "Francia",
+      "nota": "Minuto 90+6'"
+    },
+    {
+      "minuto": 90,
+      "jugador": "Jude Bellingham",
+      "equipo": "Inglaterra",
+      "nota": "Minuto 90+8'"
+    }
+  ],
+  "estadisticas_generales": {
+    "posesion_porcentaje": {
+      "Francia": 46,
+      "Inglaterra": 54
+    },
+    "tiros_totales": {
+      "Francia": 19,
+      "Inglaterra": 19
+    },
+    "tiros_a_puerta": {
+      "Francia": 9,
+      "Inglaterra": 11
+    },
+    "tiros_fuera": {
+      "Francia": 6,
+      "Inglaterra": 2
+    },
+    "tiros_bloqueados": {
+      "Francia": 4,
+      "Inglaterra": 6
+    },
+    "goles_esperados_xG": {
+      "Francia": 2.88,
+      "Inglaterra": 2.88
+    },
+    "pases_completados": {
+      "Francia": 404,
+      "Inglaterra": 469
+    },
+    "precision_pases_porcentaje": {
+      "Francia": 91,
+      "Inglaterra": 91
+    }
+  },
+  "estadisticas_especificas": {
+    "corners": {
+      "Francia": 3,
+      "Inglaterra": 4
+    },
+    "faltas_cometidas": {
+      "Francia": 14,
+      "Inglaterra": 8
+    },
+    "fueras_de_juego": {
+      "Francia": 3,
+      "Inglaterra": 3
+    },
+    "paradas_del_portero": {
+      "Francia": 5,
+      "Inglaterra": 4
+    }
+  },
+  "tarjetas": {
+    "amarillas": [],
+    "rojas": [],
+    "resumen": {
+      "Francia": {
+        "amarillas": 0,
+        "rojas": 0
+      },
+      "Inglaterra": {
+        "amarillas": 0,
+        "rojas": 0
+      }
+    }
+  },
+  "records_o_notas": [
+    "Inglaterra ganó la medalla de bronce en un partido de 10 goles, el más goleador en la historia de los Mundiales en una definición por el tercer puesto",
+    "Bukayo Saka fue la figura del partido con un hat-trick y una calificación de 9.7",
+    "Kylian Mbappé anotó dos goles y estableció un nuevo récord de goles en una sola edición del Mundial con 10 tantos, superando a Just Fontaine",
+    "Ambos equipos igualaron en tiros totales (19 cada uno) y en xG (2.88 cada uno), en un partido de alto voltaje ofensivo",
+    "El partido se disputó ante 64,478 espectadores en el Miami Stadium",
+    "Inglaterra no contó con Kobbie Mainoo, quien estaba lesionado"
+  ]
+}
