@@ -1,0 +1,135 @@
+{
+  "partido": {
+    "equipo_local": "España",
+    "equipo_visitante": "Argentina",
+    "goles_local": 1,
+    "goles_visitante": 0,
+    "estadio": "New York New Jersey Stadium",
+    "fase": "Final",
+    "fecha": "2026-07-19"
+  },
+  "goleadores": [
+    {
+      "minuto": 106,
+      "jugador": "Ferran Torres",
+      "equipo": "España"
+    }
+  ],
+  "estadisticas_generales": {
+    "posesion_porcentaje": {
+      "España": 65,
+      "Argentina": 35
+    },
+    "tiros_totales": {
+      "España": 20,
+      "Argentina": 2
+    },
+    "tiros_a_puerta": {
+      "España": 12,
+      "Argentina": 0
+    },
+    "tiros_fuera": {
+      "España": 5,
+      "Argentina": 1
+    },
+    "tiros_bloqueados": {
+      "España": 3,
+      "Argentina": 1
+    },
+    "goles_esperados_xG": {
+      "España": 2.29,
+      "Argentina": 0.22
+    },
+    "pases_completados": {
+      "España": 763,
+      "Argentina": 357
+    },
+    "precision_pases_porcentaje": {
+      "España": 89,
+      "Argentina": 77
+    }
+  },
+  "estadisticas_especificas": {
+    "corners": {
+      "España": 9,
+      "Argentina": 4
+    },
+    "faltas_cometidas": {
+      "España": 21,
+      "Argentina": 25
+    },
+    "fueras_de_juego": {
+      "España": 4,
+      "Argentina": 1
+    },
+    "paradas_del_portero": {
+      "España": 0,
+      "Argentina": 11
+    }
+  },
+  "tarjetas": {
+    "amarillas": [
+      {
+        "minuto": 41,
+        "jugador": "Lisandro Martínez",
+        "equipo": "Argentina"
+      },
+      {
+        "minuto": 52,
+        "jugador": "Leandro Paredes",
+        "equipo": "Argentina"
+      },
+      {
+        "minuto": 82,
+        "jugador": "Enzo Fernández",
+        "equipo": "Argentina"
+      },
+      {
+        "minuto": 90,
+        "jugador": "Cristian Romero",
+        "equipo": "Argentina",
+        "nota": "Minuto 90+2'"
+      },
+      {
+        "minuto": 105,
+        "jugador": "Lionel Scaloni",
+        "equipo": "Argentina",
+        "nota": "Amonestación al entrenador"
+      },
+      {
+        "minuto": 111,
+        "jugador": "Alexis Mac Allister",
+        "equipo": "Argentina"
+      }
+    ],
+    "rojas": [
+      {
+        "minuto": 90,
+        "jugador": "Enzo Fernández",
+        "equipo": "Argentina",
+        "tipo": "segunda_amarilla",
+        "nota": "Minuto 90+3'"
+      }
+    ],
+    "resumen": {
+      "España": {
+        "amarillas": 0,
+        "rojas": 0
+      },
+      "Argentina": {
+        "amarillas": 6,
+        "rojas": 1
+      }
+    }
+  },
+  "records_o_notas": [
+    "España se coronó campeona del Mundial 2026 por segunda vez en su historia (tras 2010), con un gol de Ferran Torres en la prórroga",
+    "El portero argentino Emiliano Martínez fue la figura del partido con 11 paradas y una calificación de 8.8, a pesar de la derrota",
+    "España dominó completamente la posesión con un 65% frente al 35% de Argentina",
+    "España realizó 20 tiros totales (12 a puerta), mientras que Argentina no logró ningún tiro a puerta",
+    "El xG de España (2.29) fue significativamente mayor que el de Argentina (0.22), reflejando el dominio ofensivo español",
+    "Argentina terminó el partido con 10 jugadores tras la expulsión de Enzo Fernández (doble amarilla en el minuto 90+3')",
+    "El partido se disputó ante 80,663 espectadores en el New York New Jersey Stadium",
+    "Lionel Messi disputó su último partido con la selección argentina, retirándose sin poder sumar el segundo título mundial consecutivo"
+  ]
+}
